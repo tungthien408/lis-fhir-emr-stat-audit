@@ -4,7 +4,7 @@ Danh sách này cụ thể hóa yêu cầu thực nghiệm của DOCX, không ch
 
 - [ ] Xác nhận bộ dữ liệu đúng **MIMIC-IV Clinical Database Demo 2.2**, bản quyền, URL tải, ngày tải và SHA-256.
 - [ ] Thống kê `patients`, `labevents`, `d_labitems` theo số dòng/unique/missing/duplicate/lỗi kiểu. Không âm thầm làm mất record khi join.
-- [ ] Chốt 3–5 itemid dựa trên dữ liệu THẬT; chốt lý do loại bản ghi, manifest, số bệnh nhân và số kết quả sau khi khảo sát.
+- [x] Chốt 3–5 itemid dựa trên dữ liệu THẬT; chốt lý do loại bản ghi, manifest, số bệnh nhân và số kết quả sau khi khảo sát. (xem notebook 04, 05)
 - [ ] Chốt `expected_*`, bộ trường so A, field_path, quy tắc N/A và version oracle **trước** khi xem output prototype.
 - [ ] Kiểm expected và actual ở ba chặng nguồn–FHIR, FHIR–đích, nguồn–đích; trường thiếu phải xuất thành phép so sai.
 - [ ] Chạy các fixture cố tình sai bệnh nhân, đổi unit, mất cận, sai giá trị, bản ghi trùng để chứng minh evaluator phát hiện lỗi.

@@ -2,7 +2,7 @@
 
 Bộ khung **Python + Jupyter** để kiểm chứng các thống kê trong kế hoạch thực nghiệm trao đổi kết quả xét nghiệm LIS → Middleware (FHIR R4) → EMR.
 
-> **Trạng thái: `SKELETON / NO REAL RESULTS`.** Đây là công cụ phân tích và kiểm chứng *phương pháp*, không phải prototype LIS/EMR và không phải báo cáo kết quả thực nghiệm. Các CSV đi kèm là **SYNTHETIC — dữ liệu được tạo hoàn toàn để thử code, cố ý chứa lỗi**, không phải dữ liệu từ MIMIC-IV.
+> **Trạng thái:** Notebook 04 và 05 đã chạy trên CSV MIMIC-IV Demo 2.2 thật (kiểm tập mẫu 40 kết quả và chọn tập 1.000 kết quả). Notebook 01–03 vẫn là khung chạy trên dữ liệu **SYNTHETIC — tạo hoàn toàn để thử code, cố ý chứa lỗi**, không phải dữ liệu từ MIMIC-IV. Repo này là công cụ phân tích và kiểm chứng *phương pháp*, không phải prototype LIS/EMR và chưa có kết quả đo của prototype.
 
 ## Bắt đầu sau khi giải nén
 
@@ -39,6 +39,8 @@ Mở notebooks theo thứ tự. `INPUT_MODE="synthetic"` là **lựa chọn hi�
 | `01_dataset_profiling.ipynb` | Thống kê số dòng, unique, missing, duplicate, khóa tham chiếu thiếu, lỗi numeric trước khi chọn MIMIC-IV Demo 2.2 |
 | `02_metric_audit.ipynb` | Tính thử M1–M8 và M12–M13 trên fixture synthetic; diễn giải tử số/mẫu số và chỉ ra điều kiện FAIL |
 | `03_e6_descriptive_statistics.ipynb` | Tính M9/M10/M11 (thời lượng), mô tả E6 từng lượt và nearest-rank p95, giữ riêng FAIL/TIMEOUT/warmup |
+| `04_sample_selection_audit.ipynb` | Kiểm tập mẫu 40 kết quả lõi trên CSV MIMIC-IV Demo 2.2 thật (40/40 PASS; 82.289 dòng đạt sàng lọc cơ bản) |
+| `05_sample_selection_1000.ipynb` | Chọn 1.000 kết quả cho E1 theo [`docs/quy_tac_chon_mau_1000.md`](docs/quy_tac_chon_mau_1000.md) và tự kiểm tra; xuất danh sách vào `reports/` |
 
 Chi tiết **định nghĩa và nguồn mục tài liệu**: [`docs/metric_contract.md`](docs/metric_contract.md).
 
