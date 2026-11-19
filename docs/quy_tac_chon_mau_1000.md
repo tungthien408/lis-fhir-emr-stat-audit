@@ -25,13 +25,16 @@ Notebook `05_sample_selection_1000.ipynb` làm đúng theo các bước bên dư
 
 **Bước 3 – Chia số lượng cho từng loại (hạn mức).** Chia gần đều để loại nào cũng được thử nhiều:
 
-| itemid | Hạn mức | Lý do |
-|---|---|---|
-| 51492 Protein | 173 | Chỉ có 173 dòng đạt nên lấy hết |
-| 50802 Base Excess | 200 | Mức chia đều 1.000 / 5 |
-| 50971, 50912, 51222 | 209 mỗi loại | Phần còn lại (1.000 − 173 − 200 = 627) chia đều cho 3 loại |
+| itemid | Hạn mức |
+|---|---|
+| 50971, 50912, 51222, 50802 | 210 mỗi loại |
+| 51492 Protein | 160 (trong 173 dòng đạt) |
+
+Các con số này **lấy từ danh sách 1.000 kết quả đã thật sự nạp vào LIS** (gói `DACN_Nap_LIS_pgAdmin`, biên bản bàn giao mục 4; `docs/docs_backend/mimic-import-20261031.md` trong repo `lis-fhir-emr`). Các tài liệu này chỉ ghi con số, không giải thích vì sao chọn 210 và 160.
 
 Không chia theo tỉ lệ số dòng gốc, vì làm vậy Protein chỉ còn khoảng 18 dòng, quá ít để thử loại xét nghiệm có nhiều trường hợp đặc biệt (cận 0–0, thiếu cận).
+
+> **Đính chính:** bản trước của tài liệu này ghi hạn mức 209/209/209/200/173. Đó là con số suy đoán, không khớp danh sách đã nạp LIS (lệch 13 ID). Đã sửa lại theo danh sách thật; quy tắc xoay vòng ở Bước 5 giữ nguyên và tái tạo đúng 1.000/1.000 ID đã nạp.
 
 **Bước 4 – Lấy 40 kết quả lõi trước.** Mỗi loại có 8 dòng lõi; các dòng này được tính vào hạn mức của loại đó.
 
@@ -52,17 +55,17 @@ Cách này giúp kết quả trải đều trên các bệnh nhân, không có a
 | Tổng số dòng / số `labevent_id` khác nhau | 1.000 / 1.000 |
 | Số bệnh nhân | 100 |
 | Số dòng lõi có trong tập | 40/40 |
-| Phân bố theo itemid | 50971: 209 · 50912: 209 · 51222: 209 · 50802: 200 · 51492: 173 |
+| Phân bố theo itemid | 50971: 210 · 50912: 210 · 51222: 210 · 50802: 210 · 51492: 160 |
 | Số bệnh nhân theo itemid | 50971: 100 · 50912: 100 · 51222: 100 · 50802: 77 · 51492: 53 |
 | Số kết quả mỗi bệnh nhân | ít nhất 6, nhiều nhất 22, trung vị 9 |
-| Cận tham chiếu | 657 đủ hai cận · 343 thiếu cả hai · 0 chỉ có một cận |
-| Giá trị đặc biệt | 48 giá trị bằng 0 · 86 giá trị âm |
-| SHA-256 danh sách ID | `812e5a8917a269e3b9bbb686ebbef0866014c060eb545a32aa05bc0709e6ae6e` |
+| Cận tham chiếu | 651 đủ hai cận · 349 thiếu cả hai · 0 chỉ có một cận |
+| Giá trị đặc biệt | 50 giá trị bằng 0 · 88 giá trị âm |
+| SHA-256 danh sách ID | `073440fcef79f64c38fce189fca12622a310a674baaec8ff8ca70e28c93e25bb` |
 
 Cách tính SHA-256 danh sách ID: xếp `labevent_id` tăng dần theo số nguyên, mỗi ID một dòng, mỗi dòng kết thúc bằng `\n` (kể cả dòng cuối), mã hóa UTF-8, rồi băm SHA-256.
 
 ## 4. Giới hạn cần nói rõ khi viết báo cáo
 
 - Đây là **chọn mẫu có chủ đích** theo quy tắc cố định, không phải mẫu ngẫu nhiên đại diện cho toàn bộ MIMIC-IV.
-- Hạn mức 173/200/209 là quyết định của nhóm để cân bằng các loại xét nghiệm; có thể chọn cách chia khác, nhưng cách này đã được cố định và kiểm tra lại được.
+- Hạn mức 210/160 theo danh sách đã nạp LIS; có thể chọn cách chia khác, nhưng E1 đã chạy với cách này.
 - Nếu đợt chạy E1 trước đây đã dùng một danh sách 1.000 dòng khác, phải đối chiếu (notebook 05, mục cuối) trước khi đưa số liệu E1 vào chương 3.

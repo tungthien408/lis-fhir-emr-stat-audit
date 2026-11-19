@@ -128,11 +128,11 @@ Hạn mức là số kết quả tối đa lấy cho mỗi loại xét nghiệm.
 """)
 code('''
 REASON = {
-    "51492": "Chỉ có 173 dòng đạt nên lấy hết",
-    "50802": "Mức chia đều 1.000 / 5",
-    "50971": "Phần còn lại (627) chia đều cho 3 loại",
-    "50912": "Phần còn lại (627) chia đều cho 3 loại",
-    "51222": "Phần còn lại (627) chia đều cho 3 loại",
+    "51492": "Lấy 160 trong 173 dòng đạt (theo danh sách đã nạp LIS)",
+    "50802": "Hạn mức 210 (theo danh sách đã nạp LIS)",
+    "50971": "Hạn mức 210 (theo danh sách đã nạp LIS)",
+    "50912": "Hạn mức 210 (theo danh sách đã nạp LIS)",
+    "51222": "Hạn mức 210 (theo danh sách đã nạp LIS)",
 }
 quota_table = pd.DataFrame({"itemid": list(QUOTAS), "han_muc": list(QUOTAS.values())})
 quota_table["xet_nghiem"] = quota_table["itemid"].map(cat["label"])
@@ -192,7 +192,7 @@ add("Số bệnh nhân", 100, selected["subject_id"].nunique())
 add("Số dòng lõi có trong tập", "40/40", f"{len(core_ids & set(selected['labevent_id']))}/{len(core_ids)}")
 
 by_item = selected.groupby("itemid").agg(n=("labevent_id", "size"), p=("subject_id", "nunique"))
-for it, n in {"50971": 209, "50912": 209, "51222": 209, "50802": 200, "51492": 173}.items():
+for it, n in {"50971": 210, "50912": 210, "51222": 210, "50802": 210, "51492": 160}.items():
     add(f"Số kết quả của itemid {it}", n, by_item.loc[it, "n"])
 for it, p in {"50971": 100, "50912": 100, "51222": 100, "50802": 77, "51492": 53}.items():
     add(f"Số bệnh nhân của itemid {it}", p, by_item.loc[it, "p"])
@@ -204,15 +204,15 @@ add("Số kết quả mỗi bệnh nhân: trung vị", 9, num(per_patient.median
 
 low_missing = selected["ref_range_lower"].map(clean).eq("")
 high_missing = selected["ref_range_upper"].map(clean).eq("")
-add("Cận tham chiếu: đủ hai cận", 657, int((~low_missing & ~high_missing).sum()))
-add("Cận tham chiếu: thiếu cả hai", 343, int((low_missing & high_missing).sum()))
+add("Cận tham chiếu: đủ hai cận", 651, int((~low_missing & ~high_missing).sum()))
+add("Cận tham chiếu: thiếu cả hai", 349, int((low_missing & high_missing).sum()))
 add("Cận tham chiếu: chỉ có một cận", 0, int((low_missing ^ high_missing).sum()))
 
 values = selected["valuenum"].map(dec)
-add("Số giá trị bằng 0", 48, int(sum(v == 0 for v in values)))
-add("Số giá trị âm", 86, int(sum(v < 0 for v in values)))
+add("Số giá trị bằng 0", 50, int(sum(v == 0 for v in values)))
+add("Số giá trị âm", 88, int(sum(v < 0 for v in values)))
 
-SHA_EXPECTED = "812e5a8917a269e3b9bbb686ebbef0866014c060eb545a32aa05bc0709e6ae6e"
+SHA_EXPECTED = "073440fcef79f64c38fce189fca12622a310a674baaec8ff8ca70e28c93e25bb"
 ids_sha = id_list_sha256(selected["labevent_id"])
 add("SHA-256 danh sách ID", SHA_EXPECTED, ids_sha)
 
@@ -325,7 +325,7 @@ paragraph = (
     f"Thực nghiệm E1 dùng {len(selected)} kết quả xét nghiệm của {selected['subject_id'].nunique()}/{len(patients)} "
     f"bệnh nhân trong MIMIC-IV Clinical Database Demo 2.2. Trước tiên, {n_pass}/{len(labevents)} dòng đạt sàng lọc cơ bản "
     f"(giá trị là số, có đơn vị, thời gian hợp lệ, cận tham chiếu hợp lệ, không có ghi chú). "
-    f"Từ đó chọn 5 loại xét nghiệm với hạn mức cố định 209, 209, 209, 200 và 173 kết quả. "
+    f"Từ đó chọn 5 loại xét nghiệm với hạn mức cố định 210, 210, 210, 210 và 160 kết quả. "
     f"Trong mỗi loại, {n_core_in}/{len(core_ids)} kết quả lõi (đã chốt ở chương 2) được lấy trước, "
     f"phần còn lại ({n_rr} kết quả) xoay vòng theo bệnh nhân, theo thời gian từ sớm đến muộn. "
     f"Tập này gồm {n_both} kết quả đủ hai cận tham chiếu, {n_none} kết quả thiếu cả hai cận, "
@@ -373,7 +373,8 @@ md("""
 - Đã chứng minh: quy tắc trong tài liệu, chạy trên CSV MIMIC-IV Demo 2.2 thật, cho ra đúng 1.000 kết quả khớp mọi giá trị kỳ vọng, gồm 40/40 kết quả lõi, và chạy lại luôn ra cùng danh sách.
 - Đã chứng minh: mọi dòng được chọn đạt sàng lọc cơ bản, thuộc 5 loại xét nghiệm, và mỗi loại chỉ có một đơn vị đo.
 - Chưa chứng minh: đây là chọn mẫu có chủ đích. Nó không phải mẫu ngẫu nhiên và không nói được gì về toàn bộ MIMIC-IV hay về bệnh viện thật.
-- Chưa chứng minh: danh sách này trùng với danh sách đã nạp vào LIS ở đợt chạy E1. Cần đối chiếu (mục 8) trước khi đưa số liệu E1 vào chương 3.
+- Đã chứng minh (mục 8): danh sách này trùng 1.000/1.000 ID với danh sách E1 lấy từ thư mục `fhir-1000/` của repo `lis-fhir-emr` (đợt 2026-11-11). File `data/external/e1_1000_ids.csv` phải còn đúng nội dung đó thì kết luận này mới đúng.
+- Chưa chứng minh: lý do chọn hạn mức 210/160; các tài liệu bàn giao chỉ ghi con số.
 """)
 
 nb = nbf.v4.new_notebook()

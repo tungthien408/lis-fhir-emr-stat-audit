@@ -15,8 +15,8 @@ import pandas as pd
 NUMERIC = re.compile(r"^[+-]?(?:\d+(?:\.\d*)?|\.\d+)(?:[eE][+-]?\d+)?$")
 COMPARATOR = re.compile(r"^[<>]=?")
 
-# Hạn mức ghi cứng theo tài liệu (mục 2, Bước 3).
-QUOTAS: dict[str, int] = {"50971": 209, "50912": 209, "51222": 209, "50802": 200, "51492": 173}
+# Hạn mức ghi cứng, lấy từ danh sách 1.000 kết quả đã nạp vào LIS (xem docs/quy_tac_chon_mau_1000.md, Bước 3).
+QUOTAS: dict[str, int] = {"50971": 210, "50912": 210, "51222": 210, "50802": 210, "51492": 160}
 
 
 def clean(v: Any) -> str:

@@ -71,10 +71,10 @@ def test_missing_core_row_raises():
 
 def test_quotas_fixed_and_sum_1000():
     q = allocate_quotas()
-    assert q == {"50971": 209, "50912": 209, "51222": 209, "50802": 200, "51492": 173}
+    assert q == {"50971": 210, "50912": 210, "51222": 210, "50802": 210, "51492": 160}
     assert sum(q.values()) == 1000
     q["50971"] = 1  # sửa bản sao không ảnh hưởng lần gọi sau
-    assert allocate_quotas()["50971"] == 209
+    assert allocate_quotas()["50971"] == 210
 
 
 def test_id_list_sha256_hand_value():
