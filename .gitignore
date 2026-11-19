@@ -1,0 +1,23 @@
+# Python / notebooks
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# Never commit project source datasets, trial logs, or private material.
+/data/raw/**
+!/data/raw/README.md
+/data/real/**
+/evidence/**
+/reports/**
+!/reports/.gitkeep
+
+# Notebook execution artifacts (leave examples/synthetic and source notebooks versioned)
+.DS_Store
+.env
+.env.*
+!.env.example

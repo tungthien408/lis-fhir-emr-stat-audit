@@ -1,0 +1,5 @@
+run_id,case_id,scenario,recovery_required,recovered_e2e
+demo-r1,E4c-01,E4,True,True
+demo-r1,E7a-01,E7,True,True
+demo-r1,E8c-01,E8,True,False
+demo-r1,E8d-01,E8,False,False

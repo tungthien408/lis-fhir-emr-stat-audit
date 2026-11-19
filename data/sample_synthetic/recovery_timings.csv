@@ -1,0 +1,4 @@
+run_id,case_id,scenario,component_recovered_at,t1_verified_readback,t0_publish_committed
+recovery-r1,E4-demo,E4,2026-10-19T08:00:00+00:00,2026-10-19T08:00:01+00:00,2026-10-19T07:59:45+00:00
+recovery-r1,E7-demo,E7,2026-10-19T08:01:00+00:00,2026-10-19T08:01:02.200000+00:00,2026-10-19T08:00:45+00:00
+recovery-r1,E8-demo,E8,2026-10-19T08:02:00+00:00,2026-10-19T08:02:03+00:00,2026-10-19T08:01:45+00:00

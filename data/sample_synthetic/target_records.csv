@@ -1,0 +1,4 @@
+run_id,source_system,source_result_id,expected_patient_key,patient_key,created_or_updated
+demo-r1,synthetic-lis,E1-01,patient-101,patient-101,True
+demo-r1,synthetic-lis,E1-02,patient-102,patient-103,True
+demo-r1,synthetic-lis,E1-02,patient-102,patient-103,True

@@ -1,0 +1,33 @@
+{
+  "run_id": "REPLACE_WITH_REAL_RUN_ID",
+  "protocol_version": "TO_BE_FINALIZED",
+  "git_commit": "TO_BE_RECORDED",
+  "data_provenance": {
+    "dataset": "MIMIC-IV Clinical Database Demo",
+    "dataset_version": "2.2",
+    "source_url": "TO_BE_RECORDED",
+    "downloaded_at": null,
+    "sha256_by_file": {},
+    "selected_manifest_sha256": null
+  },
+  "configuration": {
+    "mapping_version": "TO_BE_RECORDED",
+    "catalog_version": "TO_BE_RECORDED",
+    "system_time_zone": "TO_BE_RECORDED",
+    "observation_timeout_seconds": null,
+    "retry_policy": "TO_BE_RECORDED"
+  },
+  "experiment": {
+    "scenario": "E6",
+    "run_index": null,
+    "warmup_count_planned": 5,
+    "is_valid_run": null,
+    "invalid_reason": null,
+    "case_ids": []
+  },
+  "audit": {
+    "oracle_version": "TO_BE_RECORDED",
+    "independent_reviewer": "TO_BE_RECORDED",
+    "evidence_complete": null
+  }
+}

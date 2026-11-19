@@ -1,0 +1,6 @@
+run_id,case_id,scenario,is_valid_input,delivered,readback_verified,patient_match,all_fields_match,within_deadline
+demo-r1,E1-01,E1,True,True,True,True,True,True
+demo-r1,E1-02,E1,True,True,True,False,False,True
+demo-r1,E1-03,E1,True,False,False,False,False,False
+demo-r1,E2-01,E2,False,False,False,False,False,True
+demo-r1,E5a-01,E5,False,False,False,False,False,True

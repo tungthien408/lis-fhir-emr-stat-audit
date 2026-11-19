@@ -1,0 +1,5 @@
+requirement_id,is_core,evidence_verified_pass,evidence_status
+REQ-DATA-01,True,True,PASS
+REQ-OUTBOX-01,True,False,INSUFFICIENT_EVIDENCE
+REQ-WORKER-01,True,False,FAIL
+REQ-OPTIONAL-01,False,True,PASS

@@ -1,0 +1,4 @@
+run_id,exchange_id,ever_delivered,oracle_match_at_confirmation
+demo-r1,x1,True,True
+demo-r1,x2,True,False
+demo-r1,x3,False,False

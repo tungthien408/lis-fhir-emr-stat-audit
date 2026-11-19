@@ -1,0 +1,4 @@
+run_id,case_id,valid_input,generated,passed_all_scope_rules
+demo-r1,E1-01,True,True,True
+demo-r1,E1-02,True,True,False
+demo-r1,E1-03,True,False,False

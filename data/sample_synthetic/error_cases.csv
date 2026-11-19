@@ -1,0 +1,3 @@
+run_id,case_id,variant,is_error_case,all_expected_behaviors_met
+demo-r1,E2-01,missing_patient,True,True
+demo-r1,E5a-01,invalid_value,True,False
