@@ -31,7 +31,7 @@ class Entry:
     muc: str      # mục trong báo cáo, ví dụ "2.3"
     ten: str      # tên số liệu (duy nhất trong cùng mục)
     value: Any    # giá trị tính được (số hoặc chuỗi)
-    noi_tinh: str  # hàm tính ra số này
+    noi_tinh: str  # notebook và hàm tính ra số này
 
 
 def read_raw(path: str | Path) -> pd.DataFrame:
@@ -103,7 +103,7 @@ def _round_half_up(x: float, digits: int) -> float:
 def _entries(fn: Callable[..., list[tuple[str, str, Any]]]) -> Callable[..., list[Entry]]:
     """Gắn tên hàm vào `noi_tinh` của từng Entry."""
     def wrapper(*args, **kwargs) -> list[Entry]:
-        return [Entry(m, t, v, f"survey.{fn.__name__}") for m, t, v in fn(*args, **kwargs)]
+        return [Entry(m, t, v, f"notebook 01 → analysis_core.survey.{fn.__name__}") for m, t, v in fn(*args, **kwargs)]
     wrapper.__name__ = fn.__name__
     wrapper.__doc__ = fn.__doc__
     return wrapper

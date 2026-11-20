@@ -173,7 +173,7 @@ code('''
 if INPUT_MODE == "real":
     summary_rows = []
     for name, cmp_df, code_df in (("A", cmp_a, code_a), ("B", cmp_b, code_b)):
-        func = f"survey.appendix_{name.lower()} + survey.compare_appendix"
+        func = f"notebook 01 → analysis_core.survey.appendix_{name.lower()} + compare_appendix"
         summary_rows.append((f"Phụ lục {name}", "số loại xét nghiệm", str(len(rep_a if name == "A" else rep_b)), str(len(code_df)),
                              "có" if len(rep_a if name == "A" else rep_b) == len(code_df) else "không", func))
         n_ok = int((cmp_df.khop == "có").sum())

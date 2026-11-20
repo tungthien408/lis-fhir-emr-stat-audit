@@ -1,350 +1,350 @@
 ﻿muc_bao_cao,ten_so_lieu,gia_tri_trong_bao_cao,gia_tri_tu_code,khop,noi_tinh
-Kết quả chính,số kết quả đã kiểm tra,107727,107727,có,survey.muc_mo_dau_va_1
-Kết quả chính,số bệnh nhân,100,100,có,survey.muc_mo_dau_va_1
-1,patients: số bản ghi,100,100,có,survey.muc_mo_dau_va_1
-1,patients: số cột,6,6,có,survey.muc_mo_dau_va_1
-1,admissions: số bản ghi,275,275,có,survey.muc_mo_dau_va_1
-1,admissions: số cột,16,16,có,survey.muc_mo_dau_va_1
-1,d_labitems: số bản ghi,1622,1622,có,survey.muc_mo_dau_va_1
-1,d_labitems: số cột,4,4,có,survey.muc_mo_dau_va_1
-1,labevents: số bản ghi,107727,107727,có,survey.muc_mo_dau_va_1
-1,labevents: số cột,16,16,có,survey.muc_mo_dau_va_1
-1.1,SHA-256 patients.csv.gz,59dcc6cd8450ddf03ad32cc7d76e41caa4c9633541715987f590c74835cf6fae,59dcc6cd8450ddf03ad32cc7d76e41caa4c9633541715987f590c74835cf6fae,có,survey.muc_mo_dau_va_1
-1.1,SHA-256 admissions.csv.gz,910b9f160ffdf1e08ea673585393f347c773ccc87d66875c627584a903ae8493,910b9f160ffdf1e08ea673585393f347c773ccc87d66875c627584a903ae8493,có,survey.muc_mo_dau_va_1
-1.1,SHA-256 d_labitems.csv.gz,72ea5f020469fd24543bd98ab3bd0a4f645a5a4b7802d9d52af20d736f9d76db,72ea5f020469fd24543bd98ab3bd0a4f645a5a4b7802d9d52af20d736f9d76db,có,survey.muc_mo_dau_va_1
-1.1,SHA-256 labevents.csv.gz,d51a4cf1ea63245abe7d544b0d50a928e9ee2ec5eb9a5ce85500aed0bd6c6dfc,d51a4cf1ea63245abe7d544b0d50a928e9ee2ec5eb9a5ce85500aed0bd6c6dfc,có,survey.muc_mo_dau_va_1
-2.1,patients: số dòng,100,100,có,survey.muc_2_mo_ta_bang
-2.1,patients: số subject_id khác nhau,100,100,có,survey.muc_2_mo_ta_bang
-2.1,patients.subject_id: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.1,patients.gender: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.1,patients.anchor_age: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.1,patients.anchor_year: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.1,patients.anchor_year_group: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.1,patients.dod: thiếu,69,69,có,survey.muc_2_mo_ta_bang
-2.1,patients: số bệnh nhân có anchor_age > 89 nhưng khác 91,0,0,có,survey.muc_2_mo_ta_bang
-2.2,d_labitems: số itemid khác nhau,1622,1622,có,survey.muc_2_mo_ta_bang
-2.2,d_labitems: số itemid có trong labevents,498,498,có,survey.muc_2_mo_ta_bang
-2.2,d_labitems: số itemid không có kết quả trong labevents,1124,1124,có,survey.muc_2_mo_ta_bang
-2.2,d_labitems: số dòng có label rỗng hoặc chỉ khoảng trắng,4,4,có,survey.muc_3_2_kieu_du_lieu
-2.2,số kết quả xét nghiệm dùng itemid có label rỗng,0,0,có,survey.muc_2_mo_ta_bang
-2.2,d_labitems.itemid: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.2,d_labitems.label: thiếu,,4,không,survey.muc_2_mo_ta_bang
-2.2,d_labitems.fluid: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.2,d_labitems.category: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.3,labevents: số dòng,107727,107727,có,survey.muc_2_mo_ta_bang
-2.3,labevents: số subject_id khác nhau,100,100,có,survey.muc_2_mo_ta_bang
-2.3,labevents.labevent_id: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.3,labevents.subject_id: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.3,labevents.hadm_id: thiếu,28420,28420,có,survey.muc_2_mo_ta_bang
-2.3,labevents.specimen_id: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.3,labevents.itemid: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.3,labevents.order_provider_id: thiếu,90897,90897,có,survey.muc_2_mo_ta_bang
-2.3,labevents.charttime: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.3,labevents.storetime: thiếu,992,992,có,survey.muc_2_mo_ta_bang
-2.3,labevents.value: thiếu,9588,9588,có,survey.muc_2_mo_ta_bang
-2.3,labevents.valuenum: thiếu,12481,12481,có,survey.muc_2_mo_ta_bang
-2.3,labevents.valueuom: thiếu,16203,14381,không,survey.muc_2_mo_ta_bang
-2.3,labevents.ref_range_lower: thiếu,18728,18728,có,survey.muc_2_mo_ta_bang
-2.3,labevents.ref_range_upper: thiếu,18728,18728,có,survey.muc_2_mo_ta_bang
-2.3,labevents.flag: thiếu,67452,67452,có,survey.muc_2_mo_ta_bang
-2.3,labevents.priority: thiếu,9329,9329,có,survey.muc_2_mo_ta_bang
-2.3,labevents.comments: thiếu,89273,89273,có,survey.muc_2_mo_ta_bang
-2.4,admissions: số dòng,275,275,có,survey.muc_2_mo_ta_bang
-2.4,admissions: số hadm_id khác nhau,275,275,có,survey.muc_2_mo_ta_bang
-2.4,admissions.subject_id: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.4,admissions.hadm_id: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.4,admissions.admittime: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.4,admissions.dischtime: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.4,admissions.deathtime: thiếu,260,260,có,survey.muc_2_mo_ta_bang
-2.4,admissions.admission_type: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.4,admissions.admit_provider_id: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.4,admissions.admission_location: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.4,admissions.discharge_location: thiếu,42,42,có,survey.muc_2_mo_ta_bang
-2.4,admissions.insurance: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.4,admissions.language: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.4,admissions.marital_status: thiếu,12,12,có,survey.muc_2_mo_ta_bang
-2.4,admissions.race: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.4,admissions.edregtime: thiếu,93,93,có,survey.muc_2_mo_ta_bang
-2.4,admissions.edouttime: thiếu,93,93,có,survey.muc_2_mo_ta_bang
-2.4,admissions.hospital_expire_flag: thiếu,0,0,có,survey.muc_2_mo_ta_bang
-2.4,admissions.language: số dòng ghi dấu ?,20,20,có,survey.muc_2_mo_ta_bang
-3,labevents → patients: nối được,107727,107727,có,survey.muc_3_quan_he_bang
-3,labevents → patients: không nối được,0,0,có,survey.muc_3_quan_he_bang
-3,labevents → d_labitems: nối được,107727,107727,có,survey.muc_3_quan_he_bang
-3,labevents → d_labitems: không nối được,0,0,có,survey.muc_3_quan_he_bang
-3,admissions → patients: nối được,275,275,có,survey.muc_3_quan_he_bang
-3,admissions → patients: không nối được,0,0,có,survey.muc_3_quan_he_bang
-3,labevents → admissions (khi có hadm_id): nối được,79307,79307,có,survey.muc_3_quan_he_bang
-3,labevents → admissions (khi có hadm_id): mã không tìm thấy,0,0,có,survey.muc_3_quan_he_bang
-3,hadm_id có nhưng thuộc bệnh nhân khác,0,0,có,survey.muc_3_quan_he_bang
-3,hadm_id thiếu: số dòng,28420,28420,có,survey.muc_3_quan_he_bang
-3,hadm_id thiếu: tỷ lệ (%),26.38,26.38,có,survey.muc_3_quan_he_bang
-3,nối trái labevents với admissions: số dòng,107727,107727,có,survey.muc_3_quan_he_bang
-3.1,patients.subject_id: giá trị thiếu,0,0,có,survey.muc_3_quan_he_bang
-3.1,patients.subject_id: dòng lặp mã,0,0,có,survey.muc_3_quan_he_bang
-3.1,patients: dòng trùng toàn bộ,0,0,có,survey.muc_3_quan_he_bang
-3.1,admissions.hadm_id: giá trị thiếu,0,0,có,survey.muc_3_quan_he_bang
-3.1,admissions.hadm_id: dòng lặp mã,0,0,có,survey.muc_3_quan_he_bang
-3.1,admissions: dòng trùng toàn bộ,0,0,có,survey.muc_3_quan_he_bang
-3.1,d_labitems.itemid: giá trị thiếu,0,0,có,survey.muc_3_quan_he_bang
-3.1,d_labitems.itemid: dòng lặp mã,0,0,có,survey.muc_3_quan_he_bang
-3.1,d_labitems: dòng trùng toàn bộ,0,0,có,survey.muc_3_quan_he_bang
-3.1,labevents.labevent_id: giá trị thiếu,0,0,có,survey.muc_3_quan_he_bang
-3.1,labevents.labevent_id: dòng lặp mã,0,0,có,survey.muc_3_quan_he_bang
-3.1,labevents: dòng trùng toàn bộ,0,0,có,survey.muc_3_quan_he_bang
-3.1,"dòng vượt quá dòng đầu trong nhóm (subject_id, itemid, charttime)",470,470,có,survey.muc_3_quan_he_bang
-3.1,"dòng vượt quá dòng đầu trong nhóm (subject_id, itemid, charttime, value, valueuom)",194,194,có,survey.muc_3_quan_he_bang
-3.1,"ví dụ 171 và 184: cùng subject_id, itemid, charttime và value",có,có,có,survey.muc_3_quan_he_bang
-3.1,ví dụ 171 và 184: subject_id,10000032,10000032,có,survey.muc_3_quan_he_bang
-3.1,ví dụ 171 và 184: charttime,2180-06-03 12:00:00,2180-06-03 12:00:00,có,survey.muc_3_quan_he_bang
-3.1,ví dụ 171 và 184: value,0.4,0.4,có,survey.muc_3_quan_he_bang
-3.1,số specimen_id khác nhau,11122,11122,có,survey.muc_3_quan_he_bang
-3.1,số specimen_id thuộc nhiều subject_id,0,0,có,survey.muc_3_quan_he_bang
-3.1,"số cặp (subject_id, itemid) có nhiều kết quả",6793,6793,có,survey.muc_3_quan_he_bang
-3.2,"ô valuenum và cận không phải số hữu hạn (vô hạn, NaN, sai dạng)",0,0,có,survey.muc_3_2_kieu_du_lieu
-3.2,dòng có cận dưới lớn hơn cận trên,0,0,có,survey.muc_3_2_kieu_du_lieu
-3.2,ô ngày giờ có mặt nhưng không phân tích được,0,0,có,survey.muc_3_2_kieu_du_lieu
-3.2,lượt nhập viện có dischtime sớm hơn admittime,0,0,có,survey.muc_3_2_kieu_du_lieu
-3.2,valueuom: số dòng chỉ chứa khoảng trắng,339,339,có,survey.muc_3_2_kieu_du_lieu
-3.2,valueuom: tổng số thiếu đơn vị,14381,14381,có,survey.muc_3_2_kieu_du_lieu
-3.2,valueuom: số dòng ô rỗng,14042,14042,có,survey.muc_3_2_kieu_du_lieu
-3.2,d_labitems.label: số nhãn có khoảng trắng ở đầu hoặc cuối,2,2,có,survey.muc_3_2_kieu_du_lieu
-3.2,d_labitems.label: số nhãn chỉ gồm khoảng trắng,1,1,có,survey.muc_3_2_kieu_du_lieu
-4.1,số itemid xuất hiện trong labevents,498,498,có,survey.muc_4_1_loai_xet_nghiem
-4.1,số loại mẫu (fluid),9,9,có,survey.muc_4_1_loai_xet_nghiem
-4.1,số nhóm xét nghiệm (category),3,3,có,survey.muc_4_1_loai_xet_nghiem
-4.1,số itemid tra được đúng một dòng d_labitems,498,498,có,survey.muc_4_1_loai_xet_nghiem
-4.1,nhóm Hematology: số kết quả,51273,51273,có,survey.muc_4_1_loai_xet_nghiem
-4.1,nhóm Chemistry: số kết quả,47125,47125,có,survey.muc_4_1_loai_xet_nghiem
-4.1,nhóm Blood Gas: số kết quả,9329,9329,có,survey.muc_4_1_loai_xet_nghiem
-4.1,loại mẫu Blood: số kết quả,100016,100016,có,survey.muc_4_1_loai_xet_nghiem
-4.1,loại mẫu Urine: số kết quả,7122,7122,có,survey.muc_4_1_loai_xet_nghiem
-4.1,loại mẫu Ascites: số kết quả,209,209,có,survey.muc_4_1_loai_xet_nghiem
-4.1,loại mẫu Other Body Fluid: số kết quả,145,145,có,survey.muc_4_1_loai_xet_nghiem
-4.1,loại mẫu Pleural: số kết quả,108,108,có,survey.muc_4_1_loai_xet_nghiem
-4.1,loại mẫu Cerebrospinal Fluid: số kết quả,58,58,có,survey.muc_4_1_loai_xet_nghiem
-4.1,loại mẫu Bone Marrow: số kết quả,50,50,có,survey.muc_4_1_loai_xet_nghiem
-4.1,loại mẫu Joint Fluid: số kết quả,14,14,có,survey.muc_4_1_loai_xet_nghiem
-4.1,loại mẫu Stool: số kết quả,5,5,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 1: itemid,50971,50971,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 1: tên,Potassium,Potassium,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 1: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 1: số kết quả,3022,3022,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 1: số bệnh nhân,100,100,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 2: itemid,50983,50983,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 2: tên,Sodium,Sodium,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 2: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 2: số kết quả,3007,3007,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 2: số bệnh nhân,100,100,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 3: itemid,50912,50912,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 3: tên,Creatinine,Creatinine,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 3: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 3: số kết quả,3003,3003,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 3: số bệnh nhân,100,100,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 4: itemid,50902,50902,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 4: tên,Chloride,Chloride,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 4: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 4: số kết quả,2981,2981,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 4: số bệnh nhân,100,100,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 5: itemid,51006,51006,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 5: tên,Urea Nitrogen,Urea Nitrogen,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 5: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 5: số kết quả,2974,2974,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 5: số bệnh nhân,100,100,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 6: itemid,51221,51221,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 6: tên,Hematocrit,Hematocrit,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 6: mẫu và nhóm,Blood / Hematology,Blood / Hematology,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 6: số kết quả,2913,2913,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 6: số bệnh nhân,100,100,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 7: itemid,50882,50882,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 7: tên,Bicarbonate,Bicarbonate,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 7: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 7: số kết quả,2863,2863,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 7: số bệnh nhân,100,100,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 8: itemid,50868,50868,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 8: tên,Anion Gap,Anion Gap,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 8: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 8: số kết quả,2860,2860,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 8: số bệnh nhân,100,100,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 9: itemid,51265,51265,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 9: tên,Platelet Count,Platelet Count,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 9: mẫu và nhóm,Blood / Hematology,Blood / Hematology,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 9: số kết quả,2827,2827,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 9: số bệnh nhân,100,100,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 10: itemid,51222,51222,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 10: tên,Hemoglobin,Hemoglobin,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 10: mẫu và nhóm,Blood / Hematology,Blood / Hematology,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 10: số kết quả,2787,2787,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 10: số bệnh nhân,100,100,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 11: itemid,51248,51248,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 11: tên,MCH,MCH,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 11: mẫu và nhóm,Blood / Hematology,Blood / Hematology,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 11: số kết quả,2760,2760,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 11: số bệnh nhân,100,100,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 12: itemid,51249,51249,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 12: tên,MCHC,MCHC,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 12: mẫu và nhóm,Blood / Hematology,Blood / Hematology,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 12: số kết quả,2760,2760,có,survey.muc_4_1_loai_xet_nghiem
-4.1,hạng 12: số bệnh nhân,100,100,có,survey.muc_4_1_loai_xet_nghiem
-4.2,value: có dữ liệu,98139,98139,có,survey.muc_4_2_do_day_du
-4.2,value: thiếu,9588,9588,có,survey.muc_4_2_do_day_du
-4.2,value: tỷ lệ có (%),91.10,91.1,có,survey.muc_4_2_do_day_du
-4.2,valuenum: có dữ liệu,95246,95246,có,survey.muc_4_2_do_day_du
-4.2,valuenum: thiếu,12481,12481,có,survey.muc_4_2_do_day_du
-4.2,valuenum: tỷ lệ có (%),88.41,88.41,có,survey.muc_4_2_do_day_du
-4.2,valueuom: có dữ liệu,93346,93346,có,survey.muc_4_2_do_day_du
-4.2,valueuom: thiếu,14381,14381,có,survey.muc_4_2_do_day_du
-4.2,valueuom: tỷ lệ có (%),86.65,86.65,có,survey.muc_4_2_do_day_du
-4.2,ref_range_lower: có dữ liệu,88999,88999,có,survey.muc_4_2_do_day_du
-4.2,ref_range_lower: thiếu,18728,18728,có,survey.muc_4_2_do_day_du
-4.2,ref_range_lower: tỷ lệ có (%),82.62,82.62,có,survey.muc_4_2_do_day_du
-4.2,ref_range_upper: có dữ liệu,88999,88999,có,survey.muc_4_2_do_day_du
-4.2,ref_range_upper: thiếu,18728,18728,có,survey.muc_4_2_do_day_du
-4.2,ref_range_upper: tỷ lệ có (%),82.62,82.62,có,survey.muc_4_2_do_day_du
-4.2,charttime: có dữ liệu,107727,107727,có,survey.muc_4_2_do_day_du
-4.2,charttime: thiếu,0,0,có,survey.muc_4_2_do_day_du
-4.2,charttime: tỷ lệ có (%),100.00,100,có,survey.muc_4_2_do_day_du
-4.2,storetime: có dữ liệu,106735,106735,có,survey.muc_4_2_do_day_du
-4.2,storetime: thiếu,992,992,có,survey.muc_4_2_do_day_du
-4.2,storetime: tỷ lệ có (%),99.08,99.08,có,survey.muc_4_2_do_day_du
-4.2,flag: có dữ liệu,40275,40275,có,survey.muc_4_2_do_day_du
-4.2,flag: thiếu,67452,67452,có,survey.muc_4_2_do_day_du
-4.2,flag: tỷ lệ có (%),37.39,37.39,có,survey.muc_4_2_do_day_du
-4.2,comments: có dữ liệu,18454,18454,có,survey.muc_4_2_do_day_du
-4.2,comments: thiếu,89273,89273,có,survey.muc_4_2_do_day_du
-4.2,comments: tỷ lệ có (%),17.13,17.13,có,survey.muc_4_2_do_day_du
-4.2,khoảng tham chiếu: đủ hai cận,88999,88999,có,survey.muc_4_2_do_day_du
-4.2,khoảng tham chiếu: thiếu cả hai cận,18728,18728,có,survey.muc_4_2_do_day_du
-4.2,khoảng tham chiếu: chỉ một cận,0,0,có,survey.muc_4_2_do_day_du
-4.2,khoảng tham chiếu: cận dưới lớn hơn cận trên,0,0,có,survey.muc_4_2_do_day_du
-4.3,value số thuần: số dòng,88566,88566,có,survey.muc_4_3_gia_tri
-4.3,value số thuần: tỷ lệ (%),82.21,82.21,có,survey.muc_4_3_gia_tri
-4.3,value có dấu so sánh: số dòng,12,12,có,survey.muc_4_3_gia_tri
-4.3,value có dấu so sánh: tỷ lệ (%),0.01,0.01,có,survey.muc_4_3_gia_tri
-4.3,"value có chữ hoặc ký hiệu, không có dấu so sánh: số dòng",9561,9561,có,survey.muc_4_3_gia_tri
-4.3,"value có chữ hoặc ký hiệu, không có dấu so sánh: tỷ lệ (%)",8.88,8.88,có,survey.muc_4_3_gia_tri
-4.3,value rỗng: số dòng,9588,9588,có,survey.muc_4_3_gia_tri
-4.3,value rỗng: tỷ lệ (%),8.90,8.9,có,survey.muc_4_3_gia_tri
-4.3,tổng bốn dạng value,107727,107727,có,survey.muc_4_3_gia_tri
-4.3,value số thuần nhưng valuenum không bằng về số học,0,0,có,survey.muc_4_3_gia_tri
-4.3,value không phải số thuần nhưng valuenum có số,6680,6680,có,survey.muc_4_3_gia_tri
-4.3,value = ___: số dòng,6823,6823,có,survey.muc_4_3_gia_tri
-4.3,labevent 172082: value,___,___,có,survey.muc_4_3_gia_tri
-4.3,labevent 172082: valuenum,193,193,có,survey.muc_4_3_gia_tri
-4.3,labevent 172082: tên xét nghiệm,Glucose,Glucose,có,survey.muc_4_3_gia_tri
-4.3,labevent 172082: comments không rỗng,có,có,có,survey.muc_4_3_gia_tri
-4.3,itemid 50931 (Glucose máu): số dòng,2711,2711,có,survey.muc_4_3_gia_tri
-4.3,itemid 50931: số dòng có value = ___,2711,2711,có,survey.muc_4_3_gia_tri
-4.3,itemid 50931: số dòng có comments,2711,2711,có,survey.muc_4_3_gia_tri
-4.3,value có dấu so sánh: các chuỗi khác nhau,<1 | >300 | >50 | >=1.035,<1 | >300 | >50 | >=1.035,có,survey.muc_4_3_gia_tri
-4.3,value có dấu so sánh: số chuỗi khác nhau,4,4,có,survey.muc_4_3_gia_tri
-4.3,labevent 150770: value,>300,>300,có,survey.muc_4_3_gia_tri
-4.3,labevent 150770: valueuom,mg/dL,mg/dL,có,survey.muc_4_3_gia_tri
-4.3,valuenum bằng 0: số dòng,2930,2930,có,survey.muc_4_3_gia_tri
-4.3,valuenum âm: số dòng,545,545,có,survey.muc_4_3_gia_tri
-4.4,số itemid có nhiều hơn một chuỗi đơn vị không rỗng,6,6,có,survey.muc_4_4_don_vi_ghi_chu
-4.4,51249 MCHC: đơn vị và số dòng,g/dL: 1555; %: 1205,g/dL: 1555; %: 1205,có,survey.muc_4_4_don_vi_ghi_chu
-4.4,51464 Bilirubin: đơn vị và số dòng,mg/dL: 283; N/A: 56,mg/dL: 283; N/A: 56,có,survey.muc_4_4_don_vi_ghi_chu
-4.4,"51085 HCG, Urine, Qualitative: đơn vị và số dòng",+/-: 12; N/A: 6,+/-: 12; N/A: 6,có,survey.muc_4_4_don_vi_ghi_chu
-4.4,51099 Protein/Creatinine Ratio: đơn vị và số dòng,mg/mg: 11; Ratio: 4,mg/mg: 11; Ratio: 4,có,survey.muc_4_4_don_vi_ghi_chu
-4.4,50915 D-Dimer: đơn vị và số dòng,ng/mL: 6; ng/mL FEU: 3,ng/mL: 6; ng/mL FEU: 3,có,survey.muc_4_4_don_vi_ghi_chu
-4.4,51654 HIV 1 Viral Load: đơn vị và số dòng,log10 copies/mL: 3; log10 cop/mL: 2,log10 copies/mL: 3; log10 cop/mL: 2,có,survey.muc_4_4_don_vi_ghi_chu
-4.4,valueuom = N/A: số dòng,2161,2161,có,survey.muc_4_4_don_vi_ghi_chu
-4.4,"dòng đạt sàng lọc cơ bản có đơn vị N/A, ? hoặc ___",0,0,có,survey.muc_4_4_don_vi_ghi_chu
-4.4,comments có nội dung: số dòng,18454,18454,có,survey.muc_4_4_don_vi_ghi_chu
-4.4,comments đúng ___: số dòng,3188,3188,có,survey.muc_4_4_don_vi_ghi_chu
-4.4,comments có nội dung nhưng value rỗng: số dòng,9586,9586,có,survey.muc_4_4_don_vi_ghi_chu
-4.4,value số thuần đồng thời có comments,0,0,có,survey.muc_4_4_don_vi_ghi_chu
-4.5,charttime: có dữ liệu,107727,107727,có,survey.muc_4_5_thoi_gian
-4.5,charttime: nhỏ nhất,2110-04-08 11:11:00,2110-04-08 11:11:00,có,survey.muc_4_5_thoi_gian
-4.5,charttime: lớn nhất,2202-08-26 14:00:00,2202-08-26 14:00:00,có,survey.muc_4_5_thoi_gian
-4.5,storetime: có dữ liệu,106735,106735,có,survey.muc_4_5_thoi_gian
-4.5,storetime: nhỏ nhất,2110-04-08 17:49:00,2110-04-08 17:49:00,có,survey.muc_4_5_thoi_gian
-4.5,storetime: lớn nhất,2202-08-26 14:13:00,2202-08-26 14:13:00,có,survey.muc_4_5_thoi_gian
-4.5,storetime: thiếu,992,992,có,survey.muc_4_5_thoi_gian
-4.5,có đủ hai mốc: số dòng,106735,106735,có,survey.muc_4_5_thoi_gian
-4.5,hai mốc bằng nhau: số dòng,237,237,có,survey.muc_4_5_thoi_gian
-4.5,storetime sau charttime: số dòng,106498,106498,có,survey.muc_4_5_thoi_gian
-4.5,storetime trước charttime: số dòng,0,0,có,survey.muc_4_5_thoi_gian
-4.5,độ trễ: trung vị (phút),65,65,có,survey.muc_4_5_thoi_gian
-4.5,"độ trễ: phân vị 95 (phút, nội suy tuyến tính)",296.3,296.3,có,survey.muc_4_5_thoi_gian
-4.5,độ trễ: lớn nhất (phút),39962,39962,có,survey.muc_4_5_thoi_gian
-4.6,số thuần đủ trường cơ bản (qua sàng lọc),82289,82289,có,survey.muc_4_6_sang_loc
-4.6,trong nhóm trên có itemid nhiều đơn vị,2763,2763,có,survey.muc_4_6_sang_loc
-4.6,ứng viên có itemid chỉ một đơn vị,79526,79526,có,survey.muc_4_6_sang_loc
-4.6,không đạt sàng lọc số cơ bản,25438,25438,có,survey.muc_4_6_sang_loc
-4.6,loại vì thiếu value,9588,9588,có,survey.muc_4_6_sang_loc
-4.6,loại vì value không phải số thuần (không tính dấu so sánh),9561,9561,có,survey.muc_4_6_sang_loc
-4.6,loại vì value dạng số nhưng thiếu đơn vị,6277,6277,có,survey.muc_4_6_sang_loc
-4.6,loại vì giá trị có dấu so sánh,12,12,có,survey.muc_4_6_sang_loc
-4.6,tổng các lý do bị loại,25438,25438,có,survey.muc_4_6_sang_loc
-6.1,50971 Potassium: số kết quả trong nguồn,3022,3022,có,survey.muc_6_tap_thuc_nghiem
-6.1,50971 Potassium: số bệnh nhân trong nguồn,100,100,có,survey.muc_6_tap_thuc_nghiem
-6.1,50971 Potassium: số ứng viên qua sàng lọc,2766,2766,có,survey.muc_6_tap_thuc_nghiem
-6.1,50971 Potassium: mẫu,Blood,Blood,có,survey.muc_6_tap_thuc_nghiem
-6.1,50971 Potassium: nhóm,Chemistry,Chemistry,có,survey.muc_6_tap_thuc_nghiem
-6.1,50971 Potassium: số đơn vị duy nhất của ứng viên,1,1,có,survey.muc_6_tap_thuc_nghiem
-6.1,50971 Potassium: đơn vị,mEq/L,mEq/L,có,survey.muc_6_tap_thuc_nghiem
-6.1,50971 Potassium: số kết quả được chọn,8,8,có,survey.muc_6_tap_thuc_nghiem
-6.1,50971 Potassium: số bệnh nhân được chọn,3,3,có,survey.muc_6_tap_thuc_nghiem
-6.1,50971 Potassium: số giá trị valuenum (chuỗi) khác nhau trong mẫu,7,7,có,survey.muc_6_tap_thuc_nghiem
-6.1,50912 Creatinine: số kết quả trong nguồn,3003,3003,có,survey.muc_6_tap_thuc_nghiem
-6.1,50912 Creatinine: số bệnh nhân trong nguồn,100,100,có,survey.muc_6_tap_thuc_nghiem
-6.1,50912 Creatinine: số ứng viên qua sàng lọc,2963,2963,có,survey.muc_6_tap_thuc_nghiem
-6.1,50912 Creatinine: mẫu,Blood,Blood,có,survey.muc_6_tap_thuc_nghiem
-6.1,50912 Creatinine: nhóm,Chemistry,Chemistry,có,survey.muc_6_tap_thuc_nghiem
-6.1,50912 Creatinine: số đơn vị duy nhất của ứng viên,1,1,có,survey.muc_6_tap_thuc_nghiem
-6.1,50912 Creatinine: đơn vị,mg/dL,mg/dL,có,survey.muc_6_tap_thuc_nghiem
-6.1,50912 Creatinine: số kết quả được chọn,8,8,có,survey.muc_6_tap_thuc_nghiem
-6.1,50912 Creatinine: số bệnh nhân được chọn,3,3,có,survey.muc_6_tap_thuc_nghiem
-6.1,50912 Creatinine: số giá trị valuenum (chuỗi) khác nhau trong mẫu,4,4,có,survey.muc_6_tap_thuc_nghiem
-6.1,51222 Hemoglobin: số kết quả trong nguồn,2787,2787,có,survey.muc_6_tap_thuc_nghiem
-6.1,51222 Hemoglobin: số bệnh nhân trong nguồn,100,100,có,survey.muc_6_tap_thuc_nghiem
-6.1,51222 Hemoglobin: số ứng viên qua sàng lọc,2783,2783,có,survey.muc_6_tap_thuc_nghiem
-6.1,51222 Hemoglobin: mẫu,Blood,Blood,có,survey.muc_6_tap_thuc_nghiem
-6.1,51222 Hemoglobin: nhóm,Hematology,Hematology,có,survey.muc_6_tap_thuc_nghiem
-6.1,51222 Hemoglobin: số đơn vị duy nhất của ứng viên,1,1,có,survey.muc_6_tap_thuc_nghiem
-6.1,51222 Hemoglobin: đơn vị,g/dL,g/dL,có,survey.muc_6_tap_thuc_nghiem
-6.1,51222 Hemoglobin: số kết quả được chọn,8,8,có,survey.muc_6_tap_thuc_nghiem
-6.1,51222 Hemoglobin: số bệnh nhân được chọn,3,3,có,survey.muc_6_tap_thuc_nghiem
-6.1,51222 Hemoglobin: số giá trị valuenum (chuỗi) khác nhau trong mẫu,8,8,có,survey.muc_6_tap_thuc_nghiem
-6.1,50802 Base Excess: số kết quả trong nguồn,889,889,có,survey.muc_6_tap_thuc_nghiem
-6.1,50802 Base Excess: số bệnh nhân trong nguồn,77,77,có,survey.muc_6_tap_thuc_nghiem
-6.1,50802 Base Excess: số ứng viên qua sàng lọc,889,889,có,survey.muc_6_tap_thuc_nghiem
-6.1,50802 Base Excess: mẫu,Blood,Blood,có,survey.muc_6_tap_thuc_nghiem
-6.1,50802 Base Excess: nhóm,Blood Gas,Blood Gas,có,survey.muc_6_tap_thuc_nghiem
-6.1,50802 Base Excess: số đơn vị duy nhất của ứng viên,1,1,có,survey.muc_6_tap_thuc_nghiem
-6.1,50802 Base Excess: đơn vị,mEq/L,mEq/L,có,survey.muc_6_tap_thuc_nghiem
-6.1,50802 Base Excess: số kết quả được chọn,8,8,có,survey.muc_6_tap_thuc_nghiem
-6.1,50802 Base Excess: số bệnh nhân được chọn,3,3,có,survey.muc_6_tap_thuc_nghiem
-6.1,50802 Base Excess: số giá trị valuenum (chuỗi) khác nhau trong mẫu,6,6,có,survey.muc_6_tap_thuc_nghiem
-6.1,51492 Protein: số kết quả trong nguồn,339,339,có,survey.muc_6_tap_thuc_nghiem
-6.1,51492 Protein: số bệnh nhân trong nguồn,86,86,có,survey.muc_6_tap_thuc_nghiem
-6.1,51492 Protein: số ứng viên qua sàng lọc,173,173,có,survey.muc_6_tap_thuc_nghiem
-6.1,51492 Protein: mẫu,Urine,Urine,có,survey.muc_6_tap_thuc_nghiem
-6.1,51492 Protein: nhóm,Hematology,Hematology,có,survey.muc_6_tap_thuc_nghiem
-6.1,51492 Protein: số đơn vị duy nhất của ứng viên,1,1,có,survey.muc_6_tap_thuc_nghiem
-6.1,51492 Protein: đơn vị,mg/dL,mg/dL,có,survey.muc_6_tap_thuc_nghiem
-6.1,51492 Protein: số kết quả được chọn,8,8,có,survey.muc_6_tap_thuc_nghiem
-6.1,51492 Protein: số bệnh nhân được chọn,3,3,có,survey.muc_6_tap_thuc_nghiem
-6.1,51492 Protein: số giá trị valuenum (chuỗi) khác nhau trong mẫu,2,2,có,survey.muc_6_tap_thuc_nghiem
-6.1,toàn tập: số labevent_id khác nhau,40,40,có,survey.muc_6_tap_thuc_nghiem
-6.1,toàn tập: số bệnh nhân,6,6,có,survey.muc_6_tap_thuc_nghiem
-6.1,toàn tập: kết quả đủ hai cận,25,25,có,survey.muc_6_tap_thuc_nghiem
-6.1,toàn tập: kết quả thiếu cả hai cận,15,15,có,survey.muc_6_tap_thuc_nghiem
-6.1,toàn tập: kết quả chỉ một cận,0,0,có,survey.muc_6_tap_thuc_nghiem
-6.1,toàn tập: kết quả bằng 0,1,1,có,survey.muc_6_tap_thuc_nghiem
-6.1,toàn tập: kết quả âm,4,4,có,survey.muc_6_tap_thuc_nghiem
-6.1,toàn tập: số loại xét nghiệm,5,5,có,survey.muc_6_tap_thuc_nghiem
-6.2,số ứng viên sau sàng lọc,82289,82289,có,survey.muc_6_tap_thuc_nghiem
-6.2,số dòng vào mẫu,40,40,có,survey.muc_6_tap_thuc_nghiem
-6.2,số ứng viên không được chọn,82249,82249,có,survey.muc_6_tap_thuc_nghiem
-6.3,số dòng trong danh sách 6.3,40,40,có,survey.muc_6_tap_thuc_nghiem
-6.3,số dòng khớp CSV gốc ở mọi trường (kể cả số thứ tự bản ghi CSV),40,40,có,survey.muc_6_tap_thuc_nghiem
-6.4,số subject_id của bảng chuẩn bệnh nhân có trong patients,6,6,có,survey.muc_6_tap_thuc_nghiem
-6.5,labevent 150770: value có dấu so sánh,có,có,có,survey.muc_6_tap_thuc_nghiem
-6.5,"labevent 172081: kết quả nằm trong comments (value rỗng, comments không rỗng)",có,có,có,survey.muc_6_tap_thuc_nghiem
-Phụ lục A,số loại xét nghiệm,498,498,có,survey.appendix_a + survey.compare_appendix
-Phụ lục A,số ô khớp dữ liệu gốc (trên tổng số ô đối chiếu),3984,3984,có,survey.appendix_a + survey.compare_appendix
-Phụ lục B,số loại xét nghiệm,498,498,có,survey.appendix_b + survey.compare_appendix
-Phụ lục B,số ô khớp dữ liệu gốc (trên tổng số ô đối chiếu),4980,4980,có,survey.appendix_b + survey.compare_appendix
+Kết quả chính,số kết quả đã kiểm tra,107727,107727,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+Kết quả chính,số bệnh nhân,100,100,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+1,patients: số bản ghi,100,100,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+1,patients: số cột,6,6,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+1,admissions: số bản ghi,275,275,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+1,admissions: số cột,16,16,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+1,d_labitems: số bản ghi,1622,1622,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+1,d_labitems: số cột,4,4,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+1,labevents: số bản ghi,107727,107727,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+1,labevents: số cột,16,16,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+1.1,SHA-256 patients.csv.gz,59dcc6cd8450ddf03ad32cc7d76e41caa4c9633541715987f590c74835cf6fae,59dcc6cd8450ddf03ad32cc7d76e41caa4c9633541715987f590c74835cf6fae,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+1.1,SHA-256 admissions.csv.gz,910b9f160ffdf1e08ea673585393f347c773ccc87d66875c627584a903ae8493,910b9f160ffdf1e08ea673585393f347c773ccc87d66875c627584a903ae8493,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+1.1,SHA-256 d_labitems.csv.gz,72ea5f020469fd24543bd98ab3bd0a4f645a5a4b7802d9d52af20d736f9d76db,72ea5f020469fd24543bd98ab3bd0a4f645a5a4b7802d9d52af20d736f9d76db,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+1.1,SHA-256 labevents.csv.gz,d51a4cf1ea63245abe7d544b0d50a928e9ee2ec5eb9a5ce85500aed0bd6c6dfc,d51a4cf1ea63245abe7d544b0d50a928e9ee2ec5eb9a5ce85500aed0bd6c6dfc,có,notebook 01 → analysis_core.survey.muc_mo_dau_va_1
+2.1,patients: số dòng,100,100,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.1,patients: số subject_id khác nhau,100,100,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.1,patients.subject_id: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.1,patients.gender: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.1,patients.anchor_age: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.1,patients.anchor_year: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.1,patients.anchor_year_group: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.1,patients.dod: thiếu,69,69,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.1,patients: số bệnh nhân có anchor_age > 89 nhưng khác 91,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.2,d_labitems: số itemid khác nhau,1622,1622,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.2,d_labitems: số itemid có trong labevents,498,498,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.2,d_labitems: số itemid không có kết quả trong labevents,1124,1124,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.2,d_labitems: số dòng có label rỗng hoặc chỉ khoảng trắng,4,4,có,notebook 01 → analysis_core.survey.muc_3_2_kieu_du_lieu
+2.2,số kết quả xét nghiệm dùng itemid có label rỗng,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.2,d_labitems.itemid: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.2,d_labitems.label: thiếu,,4,không,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.2,d_labitems.fluid: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.2,d_labitems.category: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents: số dòng,107727,107727,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents: số subject_id khác nhau,100,100,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.labevent_id: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.subject_id: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.hadm_id: thiếu,28420,28420,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.specimen_id: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.itemid: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.order_provider_id: thiếu,90897,90897,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.charttime: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.storetime: thiếu,992,992,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.value: thiếu,9588,9588,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.valuenum: thiếu,12481,12481,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.valueuom: thiếu,16203,14381,không,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.ref_range_lower: thiếu,18728,18728,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.ref_range_upper: thiếu,18728,18728,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.flag: thiếu,67452,67452,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.priority: thiếu,9329,9329,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.3,labevents.comments: thiếu,89273,89273,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions: số dòng,275,275,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions: số hadm_id khác nhau,275,275,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.subject_id: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.hadm_id: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.admittime: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.dischtime: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.deathtime: thiếu,260,260,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.admission_type: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.admit_provider_id: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.admission_location: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.discharge_location: thiếu,42,42,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.insurance: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.language: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.marital_status: thiếu,12,12,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.race: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.edregtime: thiếu,93,93,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.edouttime: thiếu,93,93,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.hospital_expire_flag: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+2.4,admissions.language: số dòng ghi dấu ?,20,20,có,notebook 01 → analysis_core.survey.muc_2_mo_ta_bang
+3,labevents → patients: nối được,107727,107727,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3,labevents → patients: không nối được,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3,labevents → d_labitems: nối được,107727,107727,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3,labevents → d_labitems: không nối được,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3,admissions → patients: nối được,275,275,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3,admissions → patients: không nối được,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3,labevents → admissions (khi có hadm_id): nối được,79307,79307,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3,labevents → admissions (khi có hadm_id): mã không tìm thấy,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3,hadm_id có nhưng thuộc bệnh nhân khác,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3,hadm_id thiếu: số dòng,28420,28420,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3,hadm_id thiếu: tỷ lệ (%),26.38,26.38,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3,nối trái labevents với admissions: số dòng,107727,107727,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,patients.subject_id: giá trị thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,patients.subject_id: dòng lặp mã,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,patients: dòng trùng toàn bộ,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,admissions.hadm_id: giá trị thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,admissions.hadm_id: dòng lặp mã,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,admissions: dòng trùng toàn bộ,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,d_labitems.itemid: giá trị thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,d_labitems.itemid: dòng lặp mã,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,d_labitems: dòng trùng toàn bộ,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,labevents.labevent_id: giá trị thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,labevents.labevent_id: dòng lặp mã,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,labevents: dòng trùng toàn bộ,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,"dòng vượt quá dòng đầu trong nhóm (subject_id, itemid, charttime)",470,470,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,"dòng vượt quá dòng đầu trong nhóm (subject_id, itemid, charttime, value, valueuom)",194,194,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,"ví dụ 171 và 184: cùng subject_id, itemid, charttime và value",có,có,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,ví dụ 171 và 184: subject_id,10000032,10000032,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,ví dụ 171 và 184: charttime,2180-06-03 12:00:00,2180-06-03 12:00:00,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,ví dụ 171 và 184: value,0.4,0.4,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,số specimen_id khác nhau,11122,11122,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,số specimen_id thuộc nhiều subject_id,0,0,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.1,"số cặp (subject_id, itemid) có nhiều kết quả",6793,6793,có,notebook 01 → analysis_core.survey.muc_3_quan_he_bang
+3.2,"ô valuenum và cận không phải số hữu hạn (vô hạn, NaN, sai dạng)",0,0,có,notebook 01 → analysis_core.survey.muc_3_2_kieu_du_lieu
+3.2,dòng có cận dưới lớn hơn cận trên,0,0,có,notebook 01 → analysis_core.survey.muc_3_2_kieu_du_lieu
+3.2,ô ngày giờ có mặt nhưng không phân tích được,0,0,có,notebook 01 → analysis_core.survey.muc_3_2_kieu_du_lieu
+3.2,lượt nhập viện có dischtime sớm hơn admittime,0,0,có,notebook 01 → analysis_core.survey.muc_3_2_kieu_du_lieu
+3.2,valueuom: số dòng chỉ chứa khoảng trắng,339,339,có,notebook 01 → analysis_core.survey.muc_3_2_kieu_du_lieu
+3.2,valueuom: tổng số thiếu đơn vị,14381,14381,có,notebook 01 → analysis_core.survey.muc_3_2_kieu_du_lieu
+3.2,valueuom: số dòng ô rỗng,14042,14042,có,notebook 01 → analysis_core.survey.muc_3_2_kieu_du_lieu
+3.2,d_labitems.label: số nhãn có khoảng trắng ở đầu hoặc cuối,2,2,có,notebook 01 → analysis_core.survey.muc_3_2_kieu_du_lieu
+3.2,d_labitems.label: số nhãn chỉ gồm khoảng trắng,1,1,có,notebook 01 → analysis_core.survey.muc_3_2_kieu_du_lieu
+4.1,số itemid xuất hiện trong labevents,498,498,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,số loại mẫu (fluid),9,9,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,số nhóm xét nghiệm (category),3,3,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,số itemid tra được đúng một dòng d_labitems,498,498,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,nhóm Hematology: số kết quả,51273,51273,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,nhóm Chemistry: số kết quả,47125,47125,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,nhóm Blood Gas: số kết quả,9329,9329,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,loại mẫu Blood: số kết quả,100016,100016,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,loại mẫu Urine: số kết quả,7122,7122,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,loại mẫu Ascites: số kết quả,209,209,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,loại mẫu Other Body Fluid: số kết quả,145,145,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,loại mẫu Pleural: số kết quả,108,108,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,loại mẫu Cerebrospinal Fluid: số kết quả,58,58,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,loại mẫu Bone Marrow: số kết quả,50,50,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,loại mẫu Joint Fluid: số kết quả,14,14,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,loại mẫu Stool: số kết quả,5,5,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 1: itemid,50971,50971,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 1: tên,Potassium,Potassium,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 1: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 1: số kết quả,3022,3022,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 1: số bệnh nhân,100,100,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 2: itemid,50983,50983,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 2: tên,Sodium,Sodium,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 2: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 2: số kết quả,3007,3007,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 2: số bệnh nhân,100,100,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 3: itemid,50912,50912,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 3: tên,Creatinine,Creatinine,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 3: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 3: số kết quả,3003,3003,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 3: số bệnh nhân,100,100,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 4: itemid,50902,50902,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 4: tên,Chloride,Chloride,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 4: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 4: số kết quả,2981,2981,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 4: số bệnh nhân,100,100,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 5: itemid,51006,51006,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 5: tên,Urea Nitrogen,Urea Nitrogen,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 5: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 5: số kết quả,2974,2974,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 5: số bệnh nhân,100,100,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 6: itemid,51221,51221,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 6: tên,Hematocrit,Hematocrit,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 6: mẫu và nhóm,Blood / Hematology,Blood / Hematology,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 6: số kết quả,2913,2913,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 6: số bệnh nhân,100,100,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 7: itemid,50882,50882,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 7: tên,Bicarbonate,Bicarbonate,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 7: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 7: số kết quả,2863,2863,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 7: số bệnh nhân,100,100,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 8: itemid,50868,50868,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 8: tên,Anion Gap,Anion Gap,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 8: mẫu và nhóm,Blood / Chemistry,Blood / Chemistry,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 8: số kết quả,2860,2860,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 8: số bệnh nhân,100,100,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 9: itemid,51265,51265,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 9: tên,Platelet Count,Platelet Count,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 9: mẫu và nhóm,Blood / Hematology,Blood / Hematology,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 9: số kết quả,2827,2827,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 9: số bệnh nhân,100,100,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 10: itemid,51222,51222,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 10: tên,Hemoglobin,Hemoglobin,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 10: mẫu và nhóm,Blood / Hematology,Blood / Hematology,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 10: số kết quả,2787,2787,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 10: số bệnh nhân,100,100,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 11: itemid,51248,51248,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 11: tên,MCH,MCH,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 11: mẫu và nhóm,Blood / Hematology,Blood / Hematology,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 11: số kết quả,2760,2760,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 11: số bệnh nhân,100,100,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 12: itemid,51249,51249,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 12: tên,MCHC,MCHC,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 12: mẫu và nhóm,Blood / Hematology,Blood / Hematology,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 12: số kết quả,2760,2760,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.1,hạng 12: số bệnh nhân,100,100,có,notebook 01 → analysis_core.survey.muc_4_1_loai_xet_nghiem
+4.2,value: có dữ liệu,98139,98139,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,value: thiếu,9588,9588,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,value: tỷ lệ có (%),91.10,91.1,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,valuenum: có dữ liệu,95246,95246,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,valuenum: thiếu,12481,12481,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,valuenum: tỷ lệ có (%),88.41,88.41,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,valueuom: có dữ liệu,93346,93346,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,valueuom: thiếu,14381,14381,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,valueuom: tỷ lệ có (%),86.65,86.65,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,ref_range_lower: có dữ liệu,88999,88999,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,ref_range_lower: thiếu,18728,18728,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,ref_range_lower: tỷ lệ có (%),82.62,82.62,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,ref_range_upper: có dữ liệu,88999,88999,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,ref_range_upper: thiếu,18728,18728,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,ref_range_upper: tỷ lệ có (%),82.62,82.62,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,charttime: có dữ liệu,107727,107727,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,charttime: thiếu,0,0,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,charttime: tỷ lệ có (%),100.00,100,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,storetime: có dữ liệu,106735,106735,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,storetime: thiếu,992,992,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,storetime: tỷ lệ có (%),99.08,99.08,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,flag: có dữ liệu,40275,40275,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,flag: thiếu,67452,67452,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,flag: tỷ lệ có (%),37.39,37.39,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,comments: có dữ liệu,18454,18454,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,comments: thiếu,89273,89273,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,comments: tỷ lệ có (%),17.13,17.13,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,khoảng tham chiếu: đủ hai cận,88999,88999,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,khoảng tham chiếu: thiếu cả hai cận,18728,18728,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,khoảng tham chiếu: chỉ một cận,0,0,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.2,khoảng tham chiếu: cận dưới lớn hơn cận trên,0,0,có,notebook 01 → analysis_core.survey.muc_4_2_do_day_du
+4.3,value số thuần: số dòng,88566,88566,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,value số thuần: tỷ lệ (%),82.21,82.21,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,value có dấu so sánh: số dòng,12,12,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,value có dấu so sánh: tỷ lệ (%),0.01,0.01,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,"value có chữ hoặc ký hiệu, không có dấu so sánh: số dòng",9561,9561,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,"value có chữ hoặc ký hiệu, không có dấu so sánh: tỷ lệ (%)",8.88,8.88,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,value rỗng: số dòng,9588,9588,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,value rỗng: tỷ lệ (%),8.90,8.9,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,tổng bốn dạng value,107727,107727,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,value số thuần nhưng valuenum không bằng về số học,0,0,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,value không phải số thuần nhưng valuenum có số,6680,6680,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,value = ___: số dòng,6823,6823,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,labevent 172082: value,___,___,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,labevent 172082: valuenum,193,193,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,labevent 172082: tên xét nghiệm,Glucose,Glucose,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,labevent 172082: comments không rỗng,có,có,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,itemid 50931 (Glucose máu): số dòng,2711,2711,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,itemid 50931: số dòng có value = ___,2711,2711,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,itemid 50931: số dòng có comments,2711,2711,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,value có dấu so sánh: các chuỗi khác nhau,<1 | >300 | >50 | >=1.035,<1 | >300 | >50 | >=1.035,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,value có dấu so sánh: số chuỗi khác nhau,4,4,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,labevent 150770: value,>300,>300,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,labevent 150770: valueuom,mg/dL,mg/dL,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,valuenum bằng 0: số dòng,2930,2930,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.3,valuenum âm: số dòng,545,545,có,notebook 01 → analysis_core.survey.muc_4_3_gia_tri
+4.4,số itemid có nhiều hơn một chuỗi đơn vị không rỗng,6,6,có,notebook 01 → analysis_core.survey.muc_4_4_don_vi_ghi_chu
+4.4,51249 MCHC: đơn vị và số dòng,g/dL: 1555; %: 1205,g/dL: 1555; %: 1205,có,notebook 01 → analysis_core.survey.muc_4_4_don_vi_ghi_chu
+4.4,51464 Bilirubin: đơn vị và số dòng,mg/dL: 283; N/A: 56,mg/dL: 283; N/A: 56,có,notebook 01 → analysis_core.survey.muc_4_4_don_vi_ghi_chu
+4.4,"51085 HCG, Urine, Qualitative: đơn vị và số dòng",+/-: 12; N/A: 6,+/-: 12; N/A: 6,có,notebook 01 → analysis_core.survey.muc_4_4_don_vi_ghi_chu
+4.4,51099 Protein/Creatinine Ratio: đơn vị và số dòng,mg/mg: 11; Ratio: 4,mg/mg: 11; Ratio: 4,có,notebook 01 → analysis_core.survey.muc_4_4_don_vi_ghi_chu
+4.4,50915 D-Dimer: đơn vị và số dòng,ng/mL: 6; ng/mL FEU: 3,ng/mL: 6; ng/mL FEU: 3,có,notebook 01 → analysis_core.survey.muc_4_4_don_vi_ghi_chu
+4.4,51654 HIV 1 Viral Load: đơn vị và số dòng,log10 copies/mL: 3; log10 cop/mL: 2,log10 copies/mL: 3; log10 cop/mL: 2,có,notebook 01 → analysis_core.survey.muc_4_4_don_vi_ghi_chu
+4.4,valueuom = N/A: số dòng,2161,2161,có,notebook 01 → analysis_core.survey.muc_4_4_don_vi_ghi_chu
+4.4,"dòng đạt sàng lọc cơ bản có đơn vị N/A, ? hoặc ___",0,0,có,notebook 01 → analysis_core.survey.muc_4_4_don_vi_ghi_chu
+4.4,comments có nội dung: số dòng,18454,18454,có,notebook 01 → analysis_core.survey.muc_4_4_don_vi_ghi_chu
+4.4,comments đúng ___: số dòng,3188,3188,có,notebook 01 → analysis_core.survey.muc_4_4_don_vi_ghi_chu
+4.4,comments có nội dung nhưng value rỗng: số dòng,9586,9586,có,notebook 01 → analysis_core.survey.muc_4_4_don_vi_ghi_chu
+4.4,value số thuần đồng thời có comments,0,0,có,notebook 01 → analysis_core.survey.muc_4_4_don_vi_ghi_chu
+4.5,charttime: có dữ liệu,107727,107727,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.5,charttime: nhỏ nhất,2110-04-08 11:11:00,2110-04-08 11:11:00,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.5,charttime: lớn nhất,2202-08-26 14:00:00,2202-08-26 14:00:00,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.5,storetime: có dữ liệu,106735,106735,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.5,storetime: nhỏ nhất,2110-04-08 17:49:00,2110-04-08 17:49:00,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.5,storetime: lớn nhất,2202-08-26 14:13:00,2202-08-26 14:13:00,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.5,storetime: thiếu,992,992,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.5,có đủ hai mốc: số dòng,106735,106735,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.5,hai mốc bằng nhau: số dòng,237,237,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.5,storetime sau charttime: số dòng,106498,106498,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.5,storetime trước charttime: số dòng,0,0,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.5,độ trễ: trung vị (phút),65,65,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.5,"độ trễ: phân vị 95 (phút, nội suy tuyến tính)",296.3,296.3,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.5,độ trễ: lớn nhất (phút),39962,39962,có,notebook 01 → analysis_core.survey.muc_4_5_thoi_gian
+4.6,số thuần đủ trường cơ bản (qua sàng lọc),82289,82289,có,notebook 01 → analysis_core.survey.muc_4_6_sang_loc
+4.6,trong nhóm trên có itemid nhiều đơn vị,2763,2763,có,notebook 01 → analysis_core.survey.muc_4_6_sang_loc
+4.6,ứng viên có itemid chỉ một đơn vị,79526,79526,có,notebook 01 → analysis_core.survey.muc_4_6_sang_loc
+4.6,không đạt sàng lọc số cơ bản,25438,25438,có,notebook 01 → analysis_core.survey.muc_4_6_sang_loc
+4.6,loại vì thiếu value,9588,9588,có,notebook 01 → analysis_core.survey.muc_4_6_sang_loc
+4.6,loại vì value không phải số thuần (không tính dấu so sánh),9561,9561,có,notebook 01 → analysis_core.survey.muc_4_6_sang_loc
+4.6,loại vì value dạng số nhưng thiếu đơn vị,6277,6277,có,notebook 01 → analysis_core.survey.muc_4_6_sang_loc
+4.6,loại vì giá trị có dấu so sánh,12,12,có,notebook 01 → analysis_core.survey.muc_4_6_sang_loc
+4.6,tổng các lý do bị loại,25438,25438,có,notebook 01 → analysis_core.survey.muc_4_6_sang_loc
+6.1,50971 Potassium: số kết quả trong nguồn,3022,3022,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50971 Potassium: số bệnh nhân trong nguồn,100,100,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50971 Potassium: số ứng viên qua sàng lọc,2766,2766,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50971 Potassium: mẫu,Blood,Blood,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50971 Potassium: nhóm,Chemistry,Chemistry,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50971 Potassium: số đơn vị duy nhất của ứng viên,1,1,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50971 Potassium: đơn vị,mEq/L,mEq/L,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50971 Potassium: số kết quả được chọn,8,8,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50971 Potassium: số bệnh nhân được chọn,3,3,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50971 Potassium: số giá trị valuenum (chuỗi) khác nhau trong mẫu,7,7,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50912 Creatinine: số kết quả trong nguồn,3003,3003,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50912 Creatinine: số bệnh nhân trong nguồn,100,100,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50912 Creatinine: số ứng viên qua sàng lọc,2963,2963,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50912 Creatinine: mẫu,Blood,Blood,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50912 Creatinine: nhóm,Chemistry,Chemistry,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50912 Creatinine: số đơn vị duy nhất của ứng viên,1,1,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50912 Creatinine: đơn vị,mg/dL,mg/dL,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50912 Creatinine: số kết quả được chọn,8,8,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50912 Creatinine: số bệnh nhân được chọn,3,3,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50912 Creatinine: số giá trị valuenum (chuỗi) khác nhau trong mẫu,4,4,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51222 Hemoglobin: số kết quả trong nguồn,2787,2787,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51222 Hemoglobin: số bệnh nhân trong nguồn,100,100,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51222 Hemoglobin: số ứng viên qua sàng lọc,2783,2783,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51222 Hemoglobin: mẫu,Blood,Blood,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51222 Hemoglobin: nhóm,Hematology,Hematology,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51222 Hemoglobin: số đơn vị duy nhất của ứng viên,1,1,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51222 Hemoglobin: đơn vị,g/dL,g/dL,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51222 Hemoglobin: số kết quả được chọn,8,8,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51222 Hemoglobin: số bệnh nhân được chọn,3,3,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51222 Hemoglobin: số giá trị valuenum (chuỗi) khác nhau trong mẫu,8,8,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50802 Base Excess: số kết quả trong nguồn,889,889,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50802 Base Excess: số bệnh nhân trong nguồn,77,77,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50802 Base Excess: số ứng viên qua sàng lọc,889,889,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50802 Base Excess: mẫu,Blood,Blood,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50802 Base Excess: nhóm,Blood Gas,Blood Gas,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50802 Base Excess: số đơn vị duy nhất của ứng viên,1,1,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50802 Base Excess: đơn vị,mEq/L,mEq/L,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50802 Base Excess: số kết quả được chọn,8,8,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50802 Base Excess: số bệnh nhân được chọn,3,3,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,50802 Base Excess: số giá trị valuenum (chuỗi) khác nhau trong mẫu,6,6,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51492 Protein: số kết quả trong nguồn,339,339,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51492 Protein: số bệnh nhân trong nguồn,86,86,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51492 Protein: số ứng viên qua sàng lọc,173,173,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51492 Protein: mẫu,Urine,Urine,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51492 Protein: nhóm,Hematology,Hematology,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51492 Protein: số đơn vị duy nhất của ứng viên,1,1,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51492 Protein: đơn vị,mg/dL,mg/dL,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51492 Protein: số kết quả được chọn,8,8,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51492 Protein: số bệnh nhân được chọn,3,3,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,51492 Protein: số giá trị valuenum (chuỗi) khác nhau trong mẫu,2,2,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,toàn tập: số labevent_id khác nhau,40,40,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,toàn tập: số bệnh nhân,6,6,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,toàn tập: kết quả đủ hai cận,25,25,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,toàn tập: kết quả thiếu cả hai cận,15,15,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,toàn tập: kết quả chỉ một cận,0,0,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,toàn tập: kết quả bằng 0,1,1,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,toàn tập: kết quả âm,4,4,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.1,toàn tập: số loại xét nghiệm,5,5,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.2,số ứng viên sau sàng lọc,82289,82289,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.2,số dòng vào mẫu,40,40,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.2,số ứng viên không được chọn,82249,82249,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.3,số dòng trong danh sách 6.3,40,40,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.3,số dòng khớp CSV gốc ở mọi trường (kể cả số thứ tự bản ghi CSV),40,40,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.4,số subject_id của bảng chuẩn bệnh nhân có trong patients,6,6,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.5,labevent 150770: value có dấu so sánh,có,có,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+6.5,"labevent 172081: kết quả nằm trong comments (value rỗng, comments không rỗng)",có,có,có,notebook 01 → analysis_core.survey.muc_6_tap_thuc_nghiem
+Phụ lục A,số loại xét nghiệm,498,498,có,notebook 01 → analysis_core.survey.appendix_a + compare_appendix
+Phụ lục A,số ô khớp dữ liệu gốc (trên tổng số ô đối chiếu),3984,3984,có,notebook 01 → analysis_core.survey.appendix_a + compare_appendix
+Phụ lục B,số loại xét nghiệm,498,498,có,notebook 01 → analysis_core.survey.appendix_b + compare_appendix
+Phụ lục B,số ô khớp dữ liệu gốc (trên tổng số ô đối chiếu),4980,4980,có,notebook 01 → analysis_core.survey.appendix_b + compare_appendix
