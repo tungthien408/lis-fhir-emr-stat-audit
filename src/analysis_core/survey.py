@@ -538,15 +538,20 @@ def _parse_report_number(text: str) -> Decimal | None:
 def values_match(report: str, code: Any) -> bool:
     """So giá trị trong báo cáo (chuỗi) với giá trị code tính ra.
 
-    Số: so bằng nhau sau khi làm tròn giá trị code theo số chữ số thập phân của báo cáo. Chuỗi: so đúng từng ký tự.
+    - Số nguyên: phải bằng nhau tuyệt đối.
+    - Số thực: so sau khi làm tròn giá trị code (làm tròn lên ở .5) theo số chữ số thập phân của báo cáo.
+    - Chuỗi (mã SHA-256, ngày giờ, tên...): so đúng từng ký tự. Ô trống của báo cáo không khớp với bất kỳ giá trị nào.
     """
     r = _parse_report_number(str(report))
-    if r is not None and isinstance(code, (int, float, np.integer, np.floating, Decimal)) and not isinstance(code, bool):
-        if isinstance(code, float) and (math.isnan(code) or math.isinf(code)):
+    if r is not None and isinstance(code, (int, np.integer)) and not isinstance(code, bool):
+        return Decimal(int(code)) == r
+    if r is not None and isinstance(code, (float, np.floating)):
+        if math.isnan(code) or math.isinf(code):
             return False
         digits = max(0, -r.as_tuple().exponent)
-        return Decimal(repr(code) if isinstance(code, float) else str(code)).quantize(Decimal(1).scaleb(-digits)) == r.quantize(Decimal(1).scaleb(-digits))
-    return str(report).strip() == str(code).strip()
+        q = Decimal(1).scaleb(-digits)
+        return Decimal(repr(float(code))).quantize(q, rounding=ROUND_HALF_UP) == r.quantize(q)
+    return str(report).strip() == str(code).strip() and str(report).strip() != ""
 
 
 def format_value(v: Any) -> str:

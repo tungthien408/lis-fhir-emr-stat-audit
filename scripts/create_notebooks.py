@@ -1,4 +1,4 @@
-"""Recreate human-readable Jupyter notebooks from Markdown/code cells."""
+"""Recreate notebooks 02 and 03 from Markdown/code cells (01, 05: create_notebook_01.py, create_notebook_05.py)."""
 from pathlib import Path
 import nbformat as nbf
 
@@ -26,42 +26,7 @@ SYNTHETIC = ROOT / "data" / "sample_synthetic"
 print("Repository:", ROOT)
 '''
 
-make("01_dataset_profiling.ipynb", [
-    ("md", "# 01 — Dataset profiling (MIMIC-IV Demo 2.2)\n\n**KHÔNG PHẢI KẾT QUẢ NGHIÊN CỨU.** Theo mục **5.1–5.2**, kiểm tra số dòng, số mã bệnh nhân, khóa trùng, dữ liệu thiếu, lỗi kiểu số và khóa tham chiếu trước chọn subset.\n\nNotebook mặc định đọc dữ liệu **SYNTHETIC do nhóm tự tạo** để chứng minh pipeline hoạt động; phải chuyển rõ `INPUT_MODE` sang `real` khi có CSV thật."),
-    ("code", root_cell + '''from analysis_core.dataset import load_csv, profile_mimic_like
-
-# CHỌN NGUỒN DỮ LIỆU MỘT CÁCH TƯỜNG MINH; KHÔNG TỰ ĐỘNG FALLBACK.
-INPUT_MODE = "synthetic"  # đổi thành "real" sau khi tải bộ CSV thật
-REAL_FILES = {
-    "patients": ROOT / "data" / "raw" / "patients.csv.gz",       # chỉnh đúng đường dẫn
-    "labevents": ROOT / "data" / "raw" / "labevents.csv.gz",   # chỉnh đúng đường dẫn
-    "d_labitems": ROOT / "data" / "raw" / "d_labitems.csv.gz" # chỉnh đúng đường dẫn
-}
-if INPUT_MODE not in {"synthetic", "real"}:
-    raise ValueError("INPUT_MODE must be 'synthetic' or 'real'")
-if INPUT_MODE == "synthetic":
-    print("⚠️ SYNTHETIC FIXTURE ONLY — DO NOT REPORT AS MIMIC OR PROTOTYPE RESULT")
-    paths = {name: SYNTHETIC / f"{name}.csv" for name in REAL_FILES}
-else:
-    print("REAL CSV INPUT — verify dataset license, version 2.2, hash and paths")
-    paths = REAL_FILES
-
-patients, labevents, d_labitems = [load_csv(paths[name]) for name in ("patients", "labevents", "d_labitems")]
-print("Loaded:", {name: str(path) for name, path in paths.items()})
-'''),
-    ("md", "## A. Số bản ghi, số lượng định danh\n\n`rows` là số bản ghi trong bảng, `unique_subject_id` chỉ tính trong các bảng có cột đó; không suy `n` được nạp vào LIS từ số lượng public dataset."),
-    ("code", '''summary, missing, issues = profile_mimic_like(patients, labevents, d_labitems)
-display(summary)
-'''),
-    ("md", "## B. Missing values theo từng cột"),
-    ("code", '''display(missing.sort_values(["table", "missing_count"], ascending=[True, False]).reset_index(drop=True))
-'''),
-    ("md", "## C. Dữ liệu trùng, khóa tham chiếu không khớp, lỗi kiểu số\n\nKhông `dropna`/`merge(inner)` âm thầm trước khi tổng kết. Nếu cần loại, mỗi bản ghi bị loại phải có lý do và số lượng riêng."),
-    ("code", '''display(issues)
-display(labevents.groupby("itemid", dropna=False).size().rename("records").reset_index().sort_values("records", ascending=False))
-'''),
-    ("md", "## D. Nhật ký kiểm chứng thủ công\n\nTrước khi thực nghiệm chính thức hãy ghi ở `run_manifest.json`: dataset version, URL, giấy phép, SHA-256, lựa chọn itemid, tiêu chí loại, mã commit, số bệnh nhân và số kết quả thực. Phần tiền xử lý phải tách **bản ghi bị loại** theo từng lý do. Tệp synthetic ở đây cố tình có lỗi để kiểm tra chức năng phát hiện."),
-])
+# Notebook 01 được tạo bằng scripts/create_notebook_01.py (có phần đối chiếu số liệu báo cáo).
 
 make("02_metric_audit.ipynb", [
     ("md", "# 02 — Kiểm chứng chỉ số M1–M8, M12–M13\n\n**CHỈ CHẠY VỚI FIXTURE SYNTHETIC. KHÔNG PHẢI KẾT QUẢ ĐỒ ÁN.**\n\nCác công thức nằm trong `src/analysis_core/metrics.py`; xem `docs/metric_contract.md` để biết mẫu số, oracle, hành vi N/A và giới hạn. M2 phải tách 3 chặng. M9–M11 chuyển sang Notebook 03."),
