@@ -1,0 +1,499 @@
+itemid,nhom,label,tong,co_value,co_so,co_don_vi,hai_can,khong_can,ghi_chu,ung_vien
+50835,Ascites Chemistry,"Albumin, Ascites",13,9,9,13,0,13,4,9
+50836,Ascites Chemistry,"Amylase, Ascites",5,5,5,5,0,5,0,5
+50838,Ascites Chemistry,"Bilirubin, Total, Ascites",3,2,2,3,0,3,1,2
+50840,Ascites Chemistry,"Cholesterol, Ascites",1,1,1,1,0,1,0,1
+50841,Ascites Chemistry,"Creatinine, Ascites",2,2,2,2,0,2,0,2
+50842,Ascites Chemistry,"Glucose, Ascites",9,9,9,9,0,9,1,8
+50843,Ascites Chemistry,"Lactate Dehydrogenase, Ascites",7,7,7,7,0,7,0,7
+50849,Ascites Chemistry,"Total Protein, Ascites",15,15,15,15,0,15,0,15
+51110,Ascites Hematology,Atypical Lymphocytes,3,3,3,3,3,0,1,2
+51112,Ascites Hematology,Basophils,2,2,2,2,2,0,0,2
+51114,Ascites Hematology,Eosinophils,4,4,4,4,4,0,0,4
+51115,Ascites Hematology,"Hematocrit, Ascites",2,1,1,2,2,0,2,0
+51116,Ascites Hematology,Lymphocytes,21,21,21,21,21,0,1,20
+51117,Ascites Hematology,Macrophage,19,19,19,19,19,0,3,16
+51118,Ascites Hematology,Mesothelial Cell,12,12,12,12,12,0,1,11
+51120,Ascites Hematology,Monocytes,21,21,21,21,21,0,0,21
+51123,Ascites Hematology,Other,6,6,6,6,6,0,6,0
+51124,Ascites Hematology,Plasma,3,3,3,3,3,0,0,3
+51125,Ascites Hematology,Polys,21,21,21,21,21,0,2,19
+51127,Ascites Hematology,"RBC, Ascites",19,19,19,19,19,0,0,19
+52065,Ascites Hematology,"Total Nucleated Cells, Ascites",21,21,21,21,21,0,0,21
+50801,Blood Blood Gas,Alveolar-arterial Gradient,28,28,28,28,0,28,0,28
+50802,Blood Blood Gas,Base Excess,889,889,889,889,0,889,0,889
+50803,Blood Blood Gas,"Calculated Bicarbonate, Whole Blood",13,13,13,13,13,0,2,11
+50804,Blood Blood Gas,Calculated Total CO2,889,889,889,889,889,0,62,827
+50805,Blood Blood Gas,Carboxyhemoglobin,7,7,7,7,7,0,1,6
+50806,Blood Blood Gas,"Chloride, Whole Blood",101,101,101,101,101,0,1,100
+50808,Blood Blood Gas,Free Calcium,509,509,509,509,509,0,41,468
+50809,Blood Blood Gas,Glucose,262,260,260,262,262,0,5,257
+50810,Blood Blood Gas,"Hematocrit, Calculated",143,143,143,143,0,143,0,143
+50811,Blood Blood Gas,Hemoglobin,143,143,143,143,143,0,2,141
+50812,Blood Blood Gas,Intubated,274,274,0,0,0,274,274,0
+50813,Blood Blood Gas,Lactate,758,758,758,758,758,0,156,602
+50814,Blood Blood Gas,Methemoglobin,6,6,6,6,6,0,0,6
+50815,Blood Blood Gas,O2 Flow,19,19,19,19,0,19,0,19
+50816,Blood Blood Gas,Oxygen,137,137,137,137,0,137,0,137
+50817,Blood Blood Gas,Oxygen Saturation,223,223,223,223,0,223,4,219
+50818,Blood Blood Gas,pCO2,889,889,889,889,889,0,53,836
+50819,Blood Blood Gas,PEEP,130,130,130,0,0,130,0,0
+50820,Blood Blood Gas,pH,966,966,966,966,966,0,127,839
+50821,Blood Blood Gas,pO2,889,889,889,889,889,0,146,743
+50822,Blood Blood Gas,"Potassium, Whole Blood",302,302,302,302,302,0,33,269
+50823,Blood Blood Gas,Required O2,28,28,28,0,0,28,0,0
+50824,Blood Blood Gas,"Sodium, Whole Blood",141,141,141,141,141,0,15,126
+50825,Blood Blood Gas,Temperature,201,201,201,0,0,201,10,0
+50826,Blood Blood Gas,Tidal Volume,96,96,96,0,0,96,0,0
+50827,Blood Blood Gas,Ventilation Rate,109,109,0,0,0,109,109,0
+50828,Blood Blood Gas,Ventilator,82,82,0,0,0,82,82,0
+52023,Blood Blood Gas,Assist/Control,42,0,0,0,0,42,42,0
+52024,Blood Blood Gas,"Creatinine, Whole Blood",5,5,5,5,5,0,1,4
+52026,Blood Blood Gas,Estimated GFR (MDRD equation),3,0,0,0,0,3,3,0
+52033,Blood Blood Gas,Specimen Type,1033,1033,0,0,0,1033,1033,0
+52036,Blood Blood Gas,Voided Specimen,4,0,0,0,0,4,4,0
+50852,Blood Chemistry,% Hemoglobin A1c,117,117,117,117,117,0,117,0
+50853,Blood Chemistry,25-OH Vitamin D,33,33,33,33,33,0,28,5
+50856,Blood Chemistry,Acetaminophen,46,1,1,46,46,0,45,1
+50861,Blood Chemistry,Alanine Aminotransferase (ALT),1163,1159,1159,1163,1163,0,32,1131
+50862,Blood Chemistry,Albumin,625,625,625,625,625,0,0,625
+50863,Blood Chemistry,Alkaline Phosphatase,1138,1138,1138,1138,1138,0,10,1128
+50864,Blood Chemistry,Alpha-Fetoprotein,10,10,10,10,10,0,10,0
+50866,Blood Chemistry,Ammonia,6,5,5,6,6,0,1,5
+50867,Blood Chemistry,Amylase,41,41,41,41,41,0,0,41
+50868,Blood Chemistry,Anion Gap,2860,2860,2860,2860,2860,0,417,2443
+50869,Blood Chemistry,Anti-DGP (IgA/IgG),1,1,1,1,1,0,1,0
+50871,Blood Chemistry,Anti-Mitochondrial Antibody,5,5,0,1,0,5,5,0
+50872,Blood Chemistry,Anti-Neutrophil Cytoplasmic Antibody,6,6,0,0,0,6,6,0
+50873,Blood Chemistry,Anti-Nuclear Antibody,11,11,0,2,0,11,11,0
+50874,Blood Chemistry,"Anti-Nuclear Antibody, Titer",1,0,0,0,0,1,1,0
+50876,Blood Chemistry,Anti-Smooth Muscle Antibody,5,0,0,1,0,5,5,0
+50877,Blood Chemistry,Anti-Thyroglobulin Antibodies,3,1,1,3,3,0,2,1
+50878,Blood Chemistry,Asparate Aminotransferase (AST),1165,1165,1165,1165,1165,0,43,1122
+50879,Blood Chemistry,Barbiturate Screen,35,31,0,1,0,35,4,0
+50880,Blood Chemistry,Benzodiazepine Screen,36,31,0,2,0,36,29,0
+50881,Blood Chemistry,Beta-2 Microglobulin,2,2,2,2,2,0,0,2
+50882,Blood Chemistry,Bicarbonate,2863,2863,2863,2863,2863,0,86,2777
+50883,Blood Chemistry,"Bilirubin, Direct",53,53,53,53,53,0,7,46
+50884,Blood Chemistry,"Bilirubin, Indirect",47,45,45,47,0,47,2,45
+50885,Blood Chemistry,"Bilirubin, Total",1164,1146,1146,1164,1164,0,18,1146
+50887,Blood Chemistry,Blue Top Hold,114,114,0,0,0,114,114,0
+50889,Blood Chemistry,C-Reactive Protein,44,42,42,44,44,0,34,10
+50890,Blood Chemistry,C3,5,5,5,5,5,0,0,5
+50891,Blood Chemistry,C4,5,5,5,5,5,0,0,5
+50892,Blood Chemistry,CA-125,2,2,2,2,2,0,2,0
+50893,Blood Chemistry,"Calcium, Total",2377,2377,2377,2377,2377,0,4,2373
+50895,Blood Chemistry,Calculated TBG,1,1,1,1,1,0,0,1
+50896,Blood Chemistry,Calculated Thyroxine (T4) Index,1,1,1,1,1,0,0,1
+50899,Blood Chemistry,Carbamazepine,3,3,3,3,3,0,0,3
+50900,Blood Chemistry,Carcinoembyronic Antigen (CEA),9,8,8,9,9,0,9,0
+50902,Blood Chemistry,Chloride,2981,2981,2981,2981,2981,0,34,2947
+50903,Blood Chemistry,Cholesterol Ratio (Total/HDL),58,58,58,58,0,58,0,58
+50904,Blood Chemistry,"Cholesterol, HDL",61,59,59,61,10,51,3,58
+50905,Blood Chemistry,"Cholesterol, LDL, Calculated",52,52,52,52,52,0,13,39
+50906,Blood Chemistry,"Cholesterol, LDL, Measured",11,11,11,11,11,0,2,9
+50907,Blood Chemistry,"Cholesterol, Total",61,61,61,61,61,0,0,61
+50908,Blood Chemistry,CK-MB Index,31,31,31,31,31,0,0,31
+50909,Blood Chemistry,Cortisol,31,31,31,31,31,0,31,0
+50910,Blood Chemistry,Creatine Kinase (CK),200,200,200,200,200,0,200,0
+50911,Blood Chemistry,"Creatine Kinase, MB Isoenzyme",187,179,179,187,187,0,9,178
+50912,Blood Chemistry,Creatinine,3003,3003,3003,3003,3003,0,40,2963
+50915,Blood Chemistry,D-Dimer,9,7,7,9,9,0,9,0
+50917,Blood Chemistry,Digoxin,23,23,23,23,23,0,1,22
+50918,Blood Chemistry,Double Stranded DNA,1,0,0,1,0,1,1,0
+50919,Blood Chemistry,EDTA Hold,62,0,0,0,0,62,62,0
+50920,Blood Chemistry,Estimated GFR (MDRD equation),739,0,0,0,0,739,738,0
+50922,Blood Chemistry,Ethanol,46,12,12,46,46,0,46,0
+50924,Blood Chemistry,Ferritin,76,76,76,76,76,0,0,76
+50925,Blood Chemistry,Folate,29,20,20,29,29,0,9,20
+50927,Blood Chemistry,Gamma Glutamyltransferase,4,4,4,4,4,0,0,4
+50930,Blood Chemistry,Globulin,163,163,163,163,163,0,0,163
+50931,Blood Chemistry,Glucose,2711,2711,2711,2711,2711,0,2711,0
+50933,Blood Chemistry,Green Top Hold (plasma),137,137,0,0,0,137,137,0
+50934,Blood Chemistry,H,1300,1300,1300,2,2,1298,0,2
+50935,Blood Chemistry,Haptoglobin,75,55,55,75,75,0,20,55
+50937,Blood Chemistry,Hepatitis A Virus Antibody,8,8,0,1,0,8,8,0
+50938,Blood Chemistry,Hepatitis A Virus IgM Antibody,2,2,0,0,0,2,2,0
+50940,Blood Chemistry,Hepatitis B Surface Antibody,25,0,0,5,0,25,25,0
+50941,Blood Chemistry,Hepatitis B Surface Antigen,24,0,0,5,0,24,24,0
+50942,Blood Chemistry,Hepatitis B Virus Core Antibody,22,0,0,5,0,22,22,0
+50943,Blood Chemistry,Hepatitis C Virus Antibody,23,0,0,5,0,23,23,0
+50946,Blood Chemistry,Human Chorionic Gonadotropin,17,4,4,17,17,0,17,0
+50947,Blood Chemistry,I,1300,1300,1300,2,2,1298,0,2
+50948,Blood Chemistry,Immunofixation,8,0,0,0,0,8,8,0
+50949,Blood Chemistry,Immunoglobulin A,21,21,21,21,21,0,0,21
+50950,Blood Chemistry,Immunoglobulin G,26,26,26,26,26,0,0,26
+50951,Blood Chemistry,Immunoglobulin M,20,20,20,20,20,0,0,20
+50952,Blood Chemistry,Iron,58,58,58,58,58,0,0,58
+50953,Blood Chemistry,"Iron Binding Capacity, Total",53,53,53,53,53,0,0,53
+50954,Blood Chemistry,Lactate Dehydrogenase (LD),663,663,663,663,663,0,89,574
+50955,Blood Chemistry,Light Green Top Hold,101,101,0,0,0,101,101,0
+50956,Blood Chemistry,Lipase,126,126,126,126,126,0,0,126
+50957,Blood Chemistry,Lithium,1,0,0,1,1,0,1,0
+50960,Blood Chemistry,Magnesium,2470,2470,2470,2470,2470,0,16,2454
+50963,Blood Chemistry,NTproBNP,76,74,74,76,76,0,76,0
+50964,Blood Chemistry,"Osmolality, Measured",30,30,30,30,30,0,0,30
+50965,Blood Chemistry,Parathyroid Hormone,13,13,13,13,13,0,0,13
+50966,Blood Chemistry,Phenobarbital,1,1,1,1,1,0,0,1
+50967,Blood Chemistry,Phenytoin,13,13,13,13,13,0,1,12
+50970,Blood Chemistry,Phosphate,2337,2337,2337,2337,2337,0,17,2320
+50971,Blood Chemistry,Potassium,3022,3019,3019,3022,3022,0,256,2766
+50973,Blood Chemistry,Prolactin,1,1,1,1,1,0,1,0
+50974,Blood Chemistry,Prostate Specific Antigen,10,10,10,10,10,0,10,0
+50975,Blood Chemistry,Protein Electrophoresis,16,0,0,0,0,16,16,0
+50976,Blood Chemistry,"Protein, Total",181,181,181,181,181,0,0,181
+50979,Blood Chemistry,Red Top Hold,133,0,0,0,0,133,133,0
+50980,Blood Chemistry,Rheumatoid Factor,2,2,2,2,2,0,2,0
+50981,Blood Chemistry,Salicylate,48,1,1,48,48,0,47,1
+50983,Blood Chemistry,Sodium,3007,3007,3007,3007,3007,0,496,2511
+50986,Blood Chemistry,tacroFK,41,40,40,41,41,0,41,0
+50991,Blood Chemistry,Thyroglobulin,2,0,0,2,2,0,2,0
+50992,Blood Chemistry,Thyroid Peroxidase Antibodies,2,1,1,2,2,0,1,1
+50993,Blood Chemistry,Thyroid Stimulating Hormone,120,116,116,120,120,0,4,116
+50994,Blood Chemistry,Thyroxine (T4),13,13,13,13,13,0,0,13
+50995,Blood Chemistry,"Thyroxine (T4), Free",33,33,33,33,33,0,0,33
+50996,Blood Chemistry,"Tissue Transglutaminase Ab, IgA",1,1,1,1,1,0,1,0
+50997,Blood Chemistry,Tobramycin,2,2,2,2,2,0,0,2
+50998,Blood Chemistry,Transferrin,53,53,53,53,53,0,0,53
+50999,Blood Chemistry,Tricyclic Antidepressant Screen,45,31,0,11,0,45,45,0
+51000,Blood Chemistry,Triglycerides,78,78,78,78,78,0,52,26
+51001,Blood Chemistry,Triiodothyronine (T3),13,13,13,13,13,0,0,13
+51003,Blood Chemistry,Troponin T,278,133,133,278,278,0,278,0
+51005,Blood Chemistry,Uptake Ratio,1,1,1,1,1,0,0,1
+51006,Blood Chemistry,Urea Nitrogen,2974,2973,2973,2974,2974,0,4,2970
+51007,Blood Chemistry,Uric Acid,282,278,278,282,282,0,8,274
+51009,Blood Chemistry,Vancomycin,153,152,152,153,153,0,4,149
+51010,Blood Chemistry,Vitamin B12,49,43,43,49,49,0,6,43
+51564,Blood Chemistry,ARCH-1,6,6,6,0,0,6,0,0
+51598,Blood Chemistry,Cytomegalovirus Viral Load,3,0,0,3,3,0,3,0
+51613,Blood Chemistry,eAG,117,117,117,117,117,0,117,0
+51625,Blood Chemistry,Free Kappa,2,2,2,2,2,0,0,2
+51626,Blood Chemistry,Free Kappa/Free Lambda Ratio,2,2,2,0,2,0,2,0
+51627,Blood Chemistry,Free Lambda,2,2,2,2,2,0,0,2
+51651,Blood Chemistry,Hepatitis C Viral Load,4,2,2,4,4,0,4,0
+51654,Blood Chemistry,HIV 1 Viral Load,5,5,5,5,5,0,5,0
+51657,Blood Chemistry,HPE1,9,9,9,0,0,9,0,0
+51658,Blood Chemistry,HPE2,9,4,4,0,0,9,5,0
+51659,Blood Chemistry,HPE3,9,9,9,0,0,9,0,0
+51660,Blood Chemistry,HPE4,2,1,1,0,0,2,1,0
+51663,Blood Chemistry,HPE7,9,9,9,0,0,9,0,0
+51678,Blood Chemistry,L,1300,1300,1300,2,2,1298,0,2
+51706,Blood Chemistry,Problem Specimen,15,0,0,0,0,15,15,0
+51722,Blood Chemistry,RFXLDLM,5,0,0,0,0,5,5,0
+51732,Blood Chemistry,STX1,14,0,0,0,0,14,14,0
+51733,Blood Chemistry,STX2,15,3,3,0,0,15,12,0
+51734,Blood Chemistry,STX3,15,3,3,0,0,15,12,0
+51735,Blood Chemistry,STX4,5,5,5,0,0,5,0,0
+51736,Blood Chemistry,STX5,4,4,4,0,0,4,0,0
+51737,Blood Chemistry,STX6,14,14,14,0,0,14,0,0
+51748,Blood Chemistry,Treponema pallidum (Syphilis) Ab,3,3,0,0,0,3,3,0
+51749,Blood Chemistry,Treponema pallidum (syphilis) value,3,3,3,0,0,3,0,0
+51752,Blood Chemistry,Voided Specimen,15,0,0,0,0,15,14,0
+51763,Blood Chemistry,EE2,1,1,1,0,0,1,0,0
+51772,Blood Chemistry,PAN3,2,0,0,0,0,2,2,0
+53153,Blood Chemistry,HIV Screen,16,0,0,1,0,16,16,0
+51130,Blood Hematology,Absolute CD3 Count,16,16,16,16,16,0,0,16
+51131,Blood Hematology,Absolute CD4 Count,16,16,16,16,16,0,0,16
+51132,Blood Hematology,Absolute CD8 Count,16,16,16,16,16,0,0,16
+51133,Blood Hematology,Absolute Lymphocyte Count,569,565,565,569,569,0,4,565
+51134,Blood Hematology,Acanthocytes,14,0,0,4,0,14,14,0
+51135,Blood Hematology,ADP,2,0,0,0,0,2,2,0
+51137,Blood Hematology,Anisocytosis,427,0,0,186,0,427,427,0
+51138,Blood Hematology,Anticardiolipin Antibody IgG,1,1,1,1,1,0,1,0
+51139,Blood Hematology,Anticardiolipin Antibody IgM,1,1,1,1,1,0,1,0
+51142,Blood Hematology,Arachadonic Acid,2,0,0,0,0,2,2,0
+51143,Blood Hematology,Atypical Lymphocytes,404,404,404,404,404,0,3,401
+51144,Blood Hematology,Bands,395,395,395,395,395,0,4,391
+51145,Blood Hematology,Basophilic Stippling,33,0,0,16,0,33,33,0
+51146,Blood Hematology,Basophils,943,939,938,943,943,0,6,936
+51147,Blood Hematology,Bite Cells,15,0,0,10,0,15,15,0
+51148,Blood Hematology,Blasts,107,107,107,107,107,0,23,84
+51149,Blood Hematology,Bleeding Time,1,1,1,1,1,0,0,1
+51150,Blood Hematology,Blood Parasite Smear,5,5,0,3,0,5,5,0
+51152,Blood Hematology,CD10,1,1,0,0,0,1,0,0
+51154,Blood Hematology,CD117,1,1,0,0,0,1,0,0
+51155,Blood Hematology,CD11c,1,1,0,0,0,1,0,0
+51156,Blood Hematology,CD13,1,1,0,0,0,1,0,0
+51158,Blood Hematology,CD14,1,1,0,0,0,1,0,0
+51159,Blood Hematology,CD15,1,1,0,0,0,1,0,0
+51164,Blood Hematology,CD19,1,1,0,0,0,1,0,0
+51167,Blood Hematology,CD2,1,1,0,0,0,1,0,0
+51168,Blood Hematology,CD20,1,1,0,0,0,1,0,0
+51176,Blood Hematology,"CD3 Cells, Percent",17,17,16,17,0,17,0,16
+51177,Blood Hematology,CD33,1,1,0,0,0,1,0,0
+51178,Blood Hematology,CD34,1,1,0,1,0,1,0,0
+51180,Blood Hematology,"CD4 Cells, Percent",17,17,16,17,0,17,0,16
+51181,Blood Hematology,CD4/CD8 Ratio,16,16,16,16,16,0,0,16
+51182,Blood Hematology,CD41,1,1,0,0,0,1,0,0
+51183,Blood Hematology,CD45,1,1,0,0,0,1,0,0
+51184,Blood Hematology,CD5,1,1,0,0,0,1,0,0
+51188,Blood Hematology,CD56,1,1,0,0,0,1,0,0
+51191,Blood Hematology,CD64,1,1,0,0,0,1,0,0
+51192,Blood Hematology,CD7,1,1,0,0,0,1,0,0
+51193,Blood Hematology,CD71,1,1,0,0,0,1,0,0
+51194,Blood Hematology,"CD8 Cells, Percent",17,17,16,17,0,17,0,16
+51195,Blood Hematology,Collagen,2,0,0,0,0,2,2,0
+51196,Blood Hematology,D-Dimer,1,1,1,1,1,0,1,0
+51197,Blood Hematology,Elliptocytes,44,0,0,37,0,44,44,0
+51198,Blood Hematology,Envelope Cells,5,0,0,3,0,5,5,0
+51200,Blood Hematology,Eosinophils,943,939,939,943,943,0,7,936
+51213,Blood Hematology,Fibrin Degradation Products,2,2,0,2,2,0,0,0
+51214,Blood Hematology,"Fibrinogen, Functional",166,164,164,166,166,0,12,154
+51216,Blood Hematology,Fragmented Cells,13,0,0,10,0,13,13,0
+51217,Blood Hematology,Glyco A,1,1,0,0,0,1,0,0
+51218,Blood Hematology,Granulocyte Count,2,2,2,2,2,0,0,2
+51219,Blood Hematology,H/O Smear,14,4,0,0,0,14,10,0
+51221,Blood Hematology,Hematocrit,2913,2908,2908,2913,2913,0,54,2859
+51222,Blood Hematology,Hemoglobin,2787,2785,2785,2787,2787,0,4,2783
+51224,Blood Hematology,Hemoglobin C,1,1,1,1,1,0,0,1
+51226,Blood Hematology,Hemogloblin A,1,1,1,1,0,1,1,0
+51227,Blood Hematology,Hemogloblin S,1,1,1,1,1,0,0,1
+51228,Blood Hematology,Heparin,1,1,1,1,1,0,0,1
+51229,Blood Hematology,"Heparin, LMW",1,1,1,1,0,1,1,0
+51230,Blood Hematology,HLA-DR,1,1,0,0,0,1,0,0
+51231,Blood Hematology,Howell-Jolly Bodies,1,0,0,0,0,1,1,0
+51233,Blood Hematology,Hypochromia,417,0,0,184,0,417,417,0
+51234,Blood Hematology,Immunophenotyping,5,4,0,0,0,5,5,0
+51236,Blood Hematology,Inpatient Hematology/Oncology Smear,7,1,0,0,0,7,7,0
+51237,Blood Hematology,INR(PT),1481,1465,1464,0,1481,0,32,0
+51238,Blood Hematology,Kappa,1,1,0,0,0,1,0,0
+51239,Blood Hematology,Lambda,1,1,0,0,0,1,0,0
+51243,Blood Hematology,Lupus Anticoagulant,2,2,0,0,0,2,2,0
+51244,Blood Hematology,Lymphocytes,943,939,939,943,943,0,25,918
+51245,Blood Hematology,"Lymphocytes, Percent",16,16,16,16,16,0,0,16
+51246,Blood Hematology,Macrocytes,415,0,0,174,0,415,415,0
+51247,Blood Hematology,MacroOvalocytes,1,0,0,0,0,1,1,0
+51248,Blood Hematology,MCH,2760,2748,2748,2760,2760,0,12,2748
+51249,Blood Hematology,MCHC,2760,2748,2748,2760,2760,0,12,2748
+51250,Blood Hematology,MCV,2760,2748,2748,2760,2760,0,32,2728
+51251,Blood Hematology,Metamyelocytes,397,397,397,397,397,0,2,395
+51252,Blood Hematology,Microcytes,418,0,0,177,0,418,418,0
+51254,Blood Hematology,Monocytes,943,939,939,943,943,0,12,931
+51255,Blood Hematology,Myelocytes,396,396,396,396,396,0,3,393
+51256,Blood Hematology,Neutrophils,943,939,939,943,943,0,96,847
+51257,Blood Hematology,Nucleated Red Cells,115,115,115,115,115,0,2,113
+51259,Blood Hematology,Other Cells,60,60,60,60,60,0,57,3
+51260,Blood Hematology,Ovalocytes,218,0,0,115,0,218,218,0
+51261,Blood Hematology,Pappenheimer Bodies,3,0,0,1,0,3,3,0
+51263,Blood Hematology,Plasma Cells,2,2,2,2,2,0,1,1
+51265,Blood Hematology,Platelet Count,2827,2820,2820,2827,2827,0,97,2730
+51266,Blood Hematology,Platelet Smear,454,0,0,201,0,454,454,0
+51267,Blood Hematology,Poikilocytosis,433,0,0,192,0,433,433,0
+51268,Blood Hematology,Polychromasia,426,0,0,185,0,426,426,0
+51269,Blood Hematology,Promyelocytes,43,43,43,43,43,0,4,39
+51271,Blood Hematology,"Protein C, Functional",1,1,1,1,1,0,0,1
+51274,Blood Hematology,PT,1481,1466,1464,1481,1481,0,39,1442
+51275,Blood Hematology,PTT,1500,1483,1483,1500,1500,0,131,1369
+51276,Blood Hematology,Quantitative G6PD,1,1,1,1,1,0,0,1
+51277,Blood Hematology,RDW,2760,2747,2747,2760,2760,0,13,2747
+51279,Blood Hematology,Red Blood Cells,2760,2748,2748,2760,2760,0,13,2747
+51282,Blood Hematology,"Reticulocyte Count, Absolute",28,27,27,28,28,0,1,27
+51283,Blood Hematology,"Reticulocyte Count, Automated",39,38,38,39,39,0,1,38
+51287,Blood Hematology,Schistocytes,89,0,0,38,0,89,89,0
+51288,Blood Hematology,Sedimentation Rate,19,19,19,19,19,0,1,18
+51292,Blood Hematology,Spherocytes,34,0,0,17,0,34,34,0
+51294,Blood Hematology,Target Cells,11,0,0,0,0,11,11,0
+51296,Blood Hematology,Teardrop Cells,171,0,0,98,0,171,171,0
+51297,Blood Hematology,Thrombin,1,1,1,1,1,0,0,1
+51300,Blood Hematology,WBC Count,16,16,16,16,16,0,0,16
+51301,Blood Hematology,White Blood Cells,2760,2759,2759,2760,2760,0,76,2684
+52069,Blood Hematology,Absolute Basophil Count,569,565,565,569,569,0,4,565
+52073,Blood Hematology,Absolute Eosinophil Count,569,565,565,569,569,0,4,565
+52074,Blood Hematology,Absolute Monocyte Count,569,565,565,569,569,0,4,565
+52075,Blood Hematology,Absolute Neutrophil Count,569,565,565,569,569,0,4,565
+52111,Blood Hematology,Echinocytes,67,0,0,34,0,67,67,0
+52123,Blood Hematology,"G6PD, Qualitative",2,2,0,2,0,2,0,0
+52135,Blood Hematology,Immature Granulocytes,227,227,226,227,107,120,146,81
+52171,Blood Hematology,RBC Morphology,28,0,0,28,0,28,28,0
+52172,Blood Hematology,RDW-SD,1555,1542,1542,1555,1555,0,13,1542
+52195,Blood Hematology,Voided Specimen,1,0,0,0,0,1,1,0
+52220,Blood Hematology,wbcp,1,1,1,1,0,1,0,1
+52769,Blood Hematology,Absolute Lymphocyte Count,16,16,16,16,0,16,0,16
+51305,Bone Marrow Hematology,CD117,4,4,0,0,0,4,0,0
+51306,Bone Marrow Hematology,CD11c,1,1,0,0,0,1,0,0
+51307,Bone Marrow Hematology,CD13,4,4,0,0,0,4,0,0
+51309,Bone Marrow Hematology,CD14,1,1,0,0,0,1,0,0
+51310,Bone Marrow Hematology,CD15,4,4,0,0,0,4,0,0
+51313,Bone Marrow Hematology,CD19,1,1,0,0,0,1,0,0
+51314,Bone Marrow Hematology,CD2,1,1,0,0,0,1,0,0
+51315,Bone Marrow Hematology,CD20,1,1,0,0,0,1,0,0
+51319,Bone Marrow Hematology,CD3,1,1,0,0,0,1,0,0
+51320,Bone Marrow Hematology,CD33,1,1,0,0,0,1,0,0
+51321,Bone Marrow Hematology,CD34,4,4,0,0,0,4,0,0
+51323,Bone Marrow Hematology,CD4,1,1,0,0,0,1,0,0
+51324,Bone Marrow Hematology,CD41,1,1,0,0,0,1,0,0
+51325,Bone Marrow Hematology,CD45,4,4,0,0,0,4,0,0
+51326,Bone Marrow Hematology,CD5,1,1,0,0,0,1,0,0
+51328,Bone Marrow Hematology,CD56,1,1,0,0,0,1,0,0
+51331,Bone Marrow Hematology,CD64,1,1,0,0,0,1,0,0
+51332,Bone Marrow Hematology,CD7,1,1,0,0,0,1,0,0
+51333,Bone Marrow Hematology,CD71,1,1,0,0,0,1,0,0
+51334,Bone Marrow Hematology,CD8,1,1,0,0,0,1,0,0
+51336,Bone Marrow Hematology,Glyco A,1,1,0,0,0,1,0,0
+51337,Bone Marrow Hematology,HLA-DR,1,1,0,0,0,1,0,0
+51338,Bone Marrow Hematology,Immunophenotyping,10,8,0,0,0,10,10,0
+51340,Bone Marrow Hematology,Kappa,1,1,0,0,0,1,0,0
+51341,Bone Marrow Hematology,Lambda,1,1,0,0,0,1,0,0
+52955,Bone Marrow Hematology,CD10,1,1,0,0,0,1,0,0
+51790,Cerebrospinal Fluid Chemistry,"Glucose, CSF",7,7,7,7,0,7,0,7
+51802,Cerebrospinal Fluid Chemistry,"Total Protein, CSF",7,7,7,7,7,0,0,7
+52264,Cerebrospinal Fluid Hematology,Lymphs,8,8,8,8,0,8,2,6
+52266,Cerebrospinal Fluid Hematology,Macrophage,4,4,4,4,0,4,0,4
+52272,Cerebrospinal Fluid Hematology,Monocytes,8,8,8,8,0,8,0,8
+52281,Cerebrospinal Fluid Hematology,Polys,8,8,8,8,0,8,6,2
+52285,Cerebrospinal Fluid Hematology,"RBC, CSF",8,8,8,8,8,0,0,8
+52286,Cerebrospinal Fluid Hematology,"Total Nucleated Cells, CSF",8,8,8,8,2,6,8,0
+51369,Joint Fluid Hematology,"Hematocrit, Joint Fluid",1,1,1,1,1,0,1,0
+51373,Joint Fluid Hematology,"Joint Crystals, Number",2,2,0,0,0,2,0,0
+51375,Joint Fluid Hematology,Lymphocytes,2,2,2,2,2,0,0,2
+51376,Joint Fluid Hematology,Macrophage,2,2,2,2,2,0,0,2
+51379,Joint Fluid Hematology,Monocytes,2,2,2,2,2,0,0,2
+51382,Joint Fluid Hematology,Polys,2,2,2,2,2,0,0,2
+51383,Joint Fluid Hematology,"RBC, Joint Fluid",1,1,1,1,1,0,0,1
+52312,Joint Fluid Hematology,"Total Nucleated Cells, Joint",2,2,2,2,2,0,0,2
+50831,Other Body Fluid Blood Gas,pH,8,8,8,8,0,8,5,3
+51025,Other Body Fluid Chemistry,"Albumin, Body Fluid",1,1,1,1,0,1,0,1
+51026,Other Body Fluid Chemistry,"Amylase, Body Fluid",2,2,2,2,0,2,0,2
+51028,Other Body Fluid Chemistry,"Bilirubin, Total, Body Fluid",1,1,1,1,0,1,0,1
+51034,Other Body Fluid Chemistry,"Glucose, Body Fluid",2,2,2,2,0,2,0,2
+51035,Other Body Fluid Chemistry,"LD, Body Fluid",2,2,2,2,0,2,0,2
+51038,Other Body Fluid Chemistry,"Miscellaneous, Body Fluid",1,0,0,0,0,1,1,0
+51043,Other Body Fluid Chemistry,"Total Protein, Body Fluid",2,2,2,2,0,2,0,2
+51044,Other Body Fluid Chemistry,Triglycer,1,1,1,1,0,1,0,1
+51839,Other Body Fluid Chemistry,Anat Path Hold,1,0,0,0,0,1,1,0
+51846,Other Body Fluid Chemistry,Chlamydia trachomatis,1,0,0,1,0,1,1,0
+51865,Other Body Fluid Chemistry,Influenza A by PCR,15,0,0,0,0,15,15,0
+51873,Other Body Fluid Chemistry,Influenza B by PCR,15,0,0,0,0,15,15,0
+51879,Other Body Fluid Chemistry,Neisseria gonorrhoeae,1,0,0,1,0,1,1,0
+51899,Other Body Fluid Chemistry,Trichomonas vaginalis,1,0,0,1,0,1,1,0
+51903,Other Body Fluid Chemistry,PAN1,1,1,1,0,0,1,0,0
+51904,Other Body Fluid Chemistry,PAN2,1,1,1,0,0,1,0,0
+51386,Other Body Fluid Hematology,Bands,1,1,1,1,1,0,0,1
+51387,Other Body Fluid Hematology,Basophils,2,2,2,2,2,0,0,2
+51388,Other Body Fluid Hematology,CD10,1,1,0,0,0,1,0,0
+51398,Other Body Fluid Hematology,CD19,3,3,2,0,0,3,0,0
+51400,Other Body Fluid Hematology,CD20,1,1,0,0,0,1,0,0
+51404,Other Body Fluid Hematology,CD3,2,2,2,0,0,2,0,0
+51406,Other Body Fluid Hematology,CD34,2,2,2,2,0,2,0,2
+51411,Other Body Fluid Hematology,CD45,3,3,0,0,0,3,0,0
+51412,Other Body Fluid Hematology,CD5,1,1,0,0,0,1,0,0
+51419,Other Body Fluid Hematology,Eosinophils,4,4,4,4,4,0,0,4
+51422,Other Body Fluid Hematology,"Hematocrit, Other Fluid",2,2,2,2,2,0,2,0
+51424,Other Body Fluid Hematology,Immunophenotyping,3,2,0,0,0,3,3,0
+51425,Other Body Fluid Hematology,Kappa,1,1,0,0,0,1,0,0
+51426,Other Body Fluid Hematology,Lambda,1,1,0,0,0,1,0,0
+51427,Other Body Fluid Hematology,Lymphocytes,13,13,13,13,13,0,0,13
+51428,Other Body Fluid Hematology,Macrophage,9,9,9,9,9,0,4,5
+51429,Other Body Fluid Hematology,Mesothelial cells,1,1,1,1,1,0,1,0
+51431,Other Body Fluid Hematology,Monos,13,13,13,13,13,0,0,13
+51434,Other Body Fluid Hematology,Other Cell,9,9,9,9,9,0,9,0
+51436,Other Body Fluid Hematology,Polys,13,13,13,13,13,0,4,9
+51438,Other Body Fluid Hematology,"RBC, Other Fluid",1,1,1,1,1,0,0,1
+52369,Other Body Fluid Hematology,"Total Nucleated Cells, Other",3,3,3,3,3,0,0,3
+51046,Pleural Chemistry,"Albumin, Pleural",6,6,6,6,0,6,0,6
+51047,Pleural Chemistry,"Amylase, Pleural",2,2,2,2,0,2,0,2
+51051,Pleural Chemistry,"Cholesterol, Pleural",4,4,4,4,0,4,0,4
+51052,Pleural Chemistry,"Creatinine, Pleural",1,1,1,1,0,1,0,1
+51053,Pleural Chemistry,"Glucose, Pleural",8,8,8,8,0,8,0,8
+51054,Pleural Chemistry,"Lactate Dehydrogenase, Pleural",9,9,9,9,0,9,0,9
+51056,Pleural Chemistry,"Miscellaneous, Pleural",2,0,0,0,0,2,2,0
+51059,Pleural Chemistry,"Total Protein, Pleural",9,9,9,9,0,9,0,9
+51444,Pleural Hematology,Eosinophils,5,5,5,5,5,0,0,5
+51446,Pleural Hematology,Lymphocytes,9,9,9,9,9,0,1,8
+51447,Pleural Hematology,Macrophages,7,7,7,7,7,0,2,5
+51448,Pleural Hematology,Mesothelial Cells,7,7,7,7,7,0,2,5
+51450,Pleural Hematology,Monos,9,9,9,9,9,0,0,9
+51453,Pleural Hematology,Other,2,2,2,2,2,0,2,0
+51454,Pleural Hematology,Plasma Cells,1,1,1,1,1,0,0,1
+51455,Pleural Hematology,Polys,9,9,9,9,9,0,0,9
+51457,Pleural Hematology,"RBC, Pleural",9,9,9,9,9,0,0,9
+52391,Pleural Hematology,"Total Nucleated Cells, Pleural",9,9,9,9,9,0,0,9
+51945,Stool Chemistry,Norovirus Genogroup I,1,0,0,0,0,1,1,0
+51946,Stool Chemistry,Norovirus Genogroup II,1,0,0,0,0,1,1,0
+51460,Stool Hematology,"Blood, Occult",3,0,0,1,0,3,3,0
+51067,Urine Chemistry,24 hr Creatinine,2,2,2,2,0,2,1,1
+51069,Urine Chemistry,"Albumin, Urine",26,20,20,26,0,26,6,20
+51070,Urine Chemistry,"Albumin/Creatinine, Urine",23,20,20,23,23,0,3,20
+51071,Urine Chemistry,"Amphetamine Screen, Urine",35,25,0,7,0,35,12,0
+51074,Urine Chemistry,"Barbiturate Screen, Urine",34,24,0,7,0,34,10,0
+51075,Urine Chemistry,"Benzodiazepine Screen, Urine",34,24,0,7,0,34,27,0
+51076,Urine Chemistry,"Bicarbonate, Urine",6,1,1,6,0,6,5,1
+51077,Urine Chemistry,"Calcium, Urine",2,2,2,2,0,2,2,0
+51078,Urine Chemistry,"Chloride, Urine",56,48,48,56,0,56,8,48
+51079,Urine Chemistry,"Cocaine, Urine",37,25,0,9,0,37,12,0
+51080,Urine Chemistry,Creatinine Clearance,1,1,1,1,1,0,0,1
+51081,Urine Chemistry,"Creatinine, Serum",1,1,1,1,0,1,1,0
+51082,Urine Chemistry,"Creatinine, Urine",106,106,106,106,0,106,0,106
+51085,Urine Chemistry,"HCG, Urine, Qualitative",18,3,0,18,0,18,18,0
+51086,Urine Chemistry,"Immunofixation, Urine",1,0,0,0,0,1,1,0
+51087,Urine Chemistry,Length of Urine Collection,302,3,3,0,0,302,299,0
+51088,Urine Chemistry,"Magnesium, Urine",3,3,3,3,0,3,0,3
+51089,Urine Chemistry,Marijuana,4,0,0,2,0,4,4,0
+51090,Urine Chemistry,"Methadone, Urine",33,24,0,6,0,33,33,0
+51092,Urine Chemistry,"Opiate Screen, Urine",36,24,0,9,0,36,36,0
+51093,Urine Chemistry,"Osmolality, Urine",69,69,69,69,0,69,0,69
+51094,Urine Chemistry,pH,3,3,3,0,0,3,0,0
+51095,Urine Chemistry,"Phosphate, Urine",5,4,4,5,0,5,5,0
+51097,Urine Chemistry,"Potassium, Urine",53,52,52,53,0,53,1,52
+51098,Urine Chemistry,"Prot. Electrophoresis, Urine",4,0,0,0,0,4,4,0
+51099,Urine Chemistry,Protein/Creatinine Ratio,15,15,15,15,15,0,0,15
+51100,Urine Chemistry,"Sodium, Urine",87,67,67,87,0,87,20,67
+51101,Urine Chemistry,Total Collection Time,1,1,1,1,0,1,0,1
+51102,Urine Chemistry,"Total Protein, Urine",18,17,17,18,0,18,1,17
+51103,Urine Chemistry,Uhold,83,83,0,0,0,83,83,0
+51104,Urine Chemistry,"Urea Nitrogen, Urine",51,51,51,51,0,51,0,51
+51105,Urine Chemistry,"Uric Acid, Urine",1,1,1,1,0,1,1,0
+51106,Urine Chemistry,Urine Creatinine,1,1,1,1,0,1,0,1
+51107,Urine Chemistry,"Urine tube, held",53,53,0,0,0,53,53,0
+51108,Urine Chemistry,Urine Volume,3,3,3,3,0,3,0,3
+51109,Urine Chemistry,"Urine Volume, Total",1,1,1,1,0,1,0,1
+51972,Urine Chemistry,Chlamydia trachomatis,3,0,0,3,0,3,3,0
+51980,Urine Chemistry,Fentanyl,1,0,0,1,0,1,1,0
+51986,Urine Chemistry,Neisseria gonorrhoeae,3,0,0,3,0,3,3,0
+51989,Urine Chemistry,Oxycodone,16,7,0,6,0,16,9,0
+52004,Urine Chemistry,UTX1,10,10,10,0,0,10,0,0
+52005,Urine Chemistry,UTX2,10,10,10,0,0,10,0,0
+52006,Urine Chemistry,UTX3,12,12,12,0,0,12,0,0
+52007,Urine Chemistry,UTX4,12,12,12,0,0,12,0,0
+52008,Urine Chemistry,UTX5,10,10,10,0,0,10,0,0
+52009,Urine Chemistry,UTX6,9,9,9,0,0,9,0,0
+52010,Urine Chemistry,UTX7,9,9,9,0,0,9,0,0
+52012,Urine Chemistry,UTX9,2,2,2,0,0,2,0,0
+52014,Urine Chemistry,Voided Specimen,4,0,0,0,0,4,4,0
+52018,Urine Chemistry,PAN1,3,3,3,0,0,3,0,0
+52020,Urine Chemistry,UTX10,1,1,1,0,0,1,0,0
+51462,Urine Hematology,Amorphous Crystals,24,0,0,1,0,24,24,0
+51463,Urine Hematology,Bacteria,267,7,0,41,0,267,260,0
+51464,Urine Hematology,Bilirubin,339,21,0,339,0,339,318,0
+51466,Urine Hematology,Blood,339,22,0,56,0,339,317,0
+51469,Urine Hematology,Calcium Oxalate Crystals,5,0,0,2,0,5,5,0
+51474,Urine Hematology,Eosinophils,2,0,0,0,0,2,2,0
+51476,Urine Hematology,Epithelial Cells,267,214,207,267,0,267,53,207
+51478,Urine Hematology,Glucose,339,88,68,339,56,283,251,68
+51479,Urine Hematology,Granular Casts,18,18,17,18,18,0,0,17
+51482,Urine Hematology,Hyaline Casts,97,97,97,97,97,0,0,97
+51484,Urine Hematology,Ketone,339,64,47,339,56,283,275,47
+51486,Urine Hematology,Leukocytes,339,21,0,56,0,339,318,0
+51487,Urine Hematology,Nitrite,339,21,0,56,0,339,318,0
+51489,Urine Hematology,NonSquamous Epithelial Cell,1,0,0,1,0,1,1,0
+51491,Urine Hematology,pH,339,339,339,339,339,0,0,339
+51492,Urine Hematology,Protein,339,191,175,339,56,283,150,173
+51493,Urine Hematology,RBC,267,221,214,267,267,0,46,214
+51497,Urine Hematology,Renal Epithelial Cells,1,1,0,1,0,1,0,0
+51498,Urine Hematology,Specific Gravity,339,331,330,0,339,0,10,0
+51501,Urine Hematology,Transitional Epithelial Cells,43,11,9,43,0,43,32,9
+51503,Urine Hematology,Triple Phosphate Crystals,2,0,0,0,0,2,2,0
+51505,Urine Hematology,Uric Acid Crystals,2,0,0,0,0,2,2,0
+51506,Urine Hematology,Urine Appearance,339,24,0,56,0,339,316,0
+51508,Urine Hematology,Urine Color,339,42,0,56,0,339,308,0
+51510,Urine Hematology,"Urine Crystals, Other",1,0,0,0,0,1,1,0
+51512,Urine Hematology,Urine Mucous,179,1,0,22,0,179,178,0
+51513,Urine Hematology,Urine Specimen Type,5,5,0,0,0,5,0,0
+51514,Urine Hematology,Urobilinogen,339,64,61,339,339,0,275,61
+51515,Urine Hematology,Waxy Casts,1,1,1,1,1,0,0,1
+51516,Urine Hematology,WBC,267,211,204,267,267,0,56,204
+51518,Urine Hematology,WBC Clumps,22,0,0,10,0,22,22,0
+51519,Urine Hematology,Yeast,267,265,0,41,0,267,6,0
+52419,Urine Hematology,Voided Specimen,1,0,0,0,0,1,1,0
+52425,Urine Hematology,XUCU,1,1,0,0,0,1,0,0
+52427,Urine Hematology,UCU2,1,0,0,0,0,1,1,0

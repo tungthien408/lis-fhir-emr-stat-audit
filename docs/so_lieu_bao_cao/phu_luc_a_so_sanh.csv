@@ -1,0 +1,3985 @@
+﻿itemid,label,ten_cot,gia_tri_trong_bao_cao,gia_tri_tu_code,khop
+50801,Alveolar-arterial Gradient,nhom,Blood Blood Gas,Blood Blood Gas,có
+50801,Alveolar-arterial Gradient,label,Alveolar-arterial Gradient,Alveolar-arterial Gradient,có
+50801,Alveolar-arterial Gradient,ket_qua,28,28,có
+50801,Alveolar-arterial Gradient,benh_nhan,10,10,có
+50801,Alveolar-arterial Gradient,moc_do,28,28,có
+50801,Alveolar-arterial Gradient,gia_tri,26,26,có
+50801,Alveolar-arterial Gradient,do_lap,3,3,có
+50801,Alveolar-arterial Gradient,don_vi,mm Hg (28),mm Hg (28),có
+50802,Base Excess,nhom,Blood Blood Gas,Blood Blood Gas,có
+50802,Base Excess,label,Base Excess,Base Excess,có
+50802,Base Excess,ket_qua,889,889,có
+50802,Base Excess,benh_nhan,77,77,có
+50802,Base Excess,moc_do,889,889,có
+50802,Base Excess,gia_tri,38,38,có
+50802,Base Excess,do_lap,68,68,có
+50802,Base Excess,don_vi,mEq/L (889),mEq/L (889),có
+50803,"Calculated Bicarbonate, Whole Blood",nhom,Blood Blood Gas,Blood Blood Gas,có
+50803,"Calculated Bicarbonate, Whole Blood",label,"Calculated Bicarbonate, Whole Blood","Calculated Bicarbonate, Whole Blood",có
+50803,"Calculated Bicarbonate, Whole Blood",ket_qua,13,13,có
+50803,"Calculated Bicarbonate, Whole Blood",benh_nhan,10,10,có
+50803,"Calculated Bicarbonate, Whole Blood",moc_do,13,13,có
+50803,"Calculated Bicarbonate, Whole Blood",gia_tri,8,8,có
+50803,"Calculated Bicarbonate, Whole Blood",do_lap,3,3,có
+50803,"Calculated Bicarbonate, Whole Blood",don_vi,mEq/L (13),mEq/L (13),có
+50804,Calculated Total CO2,nhom,Blood Blood Gas,Blood Blood Gas,có
+50804,Calculated Total CO2,label,Calculated Total CO2,Calculated Total CO2,có
+50804,Calculated Total CO2,ket_qua,889,889,có
+50804,Calculated Total CO2,benh_nhan,77,77,có
+50804,Calculated Total CO2,moc_do,889,889,có
+50804,Calculated Total CO2,gia_tri,28,28,có
+50804,Calculated Total CO2,do_lap,68,68,có
+50804,Calculated Total CO2,don_vi,mEq/L (889),mEq/L (889),có
+50805,Carboxyhemoglobin,nhom,Blood Blood Gas,Blood Blood Gas,có
+50805,Carboxyhemoglobin,label,Carboxyhemoglobin,Carboxyhemoglobin,có
+50805,Carboxyhemoglobin,ket_qua,7,7,có
+50805,Carboxyhemoglobin,benh_nhan,7,7,có
+50805,Carboxyhemoglobin,moc_do,7,7,có
+50805,Carboxyhemoglobin,gia_tri,5,5,có
+50805,Carboxyhemoglobin,do_lap,0,0,có
+50805,Carboxyhemoglobin,don_vi,% (7),% (7),có
+50806,"Chloride, Whole Blood",nhom,Blood Blood Gas,Blood Blood Gas,có
+50806,"Chloride, Whole Blood",label,"Chloride, Whole Blood","Chloride, Whole Blood",có
+50806,"Chloride, Whole Blood",ket_qua,101,101,có
+50806,"Chloride, Whole Blood",benh_nhan,52,52,có
+50806,"Chloride, Whole Blood",moc_do,101,101,có
+50806,"Chloride, Whole Blood",gia_tri,25,25,có
+50806,"Chloride, Whole Blood",do_lap,34,34,có
+50806,"Chloride, Whole Blood",don_vi,mEq/L (101),mEq/L (101),có
+50808,Free Calcium,nhom,Blood Blood Gas,Blood Blood Gas,có
+50808,Free Calcium,label,Free Calcium,Free Calcium,có
+50808,Free Calcium,ket_qua,509,509,có
+50808,Free Calcium,benh_nhan,66,66,có
+50808,Free Calcium,moc_do,509,509,có
+50808,Free Calcium,gia_tri,43,43,có
+50808,Free Calcium,do_lap,56,56,có
+50808,Free Calcium,don_vi,mmol/L (509),mmol/L (509),có
+50809,Glucose,nhom,Blood Blood Gas,Blood Blood Gas,có
+50809,Glucose,label,Glucose,Glucose,có
+50809,Glucose,ket_qua,262,262,có
+50809,Glucose,benh_nhan,58,58,có
+50809,Glucose,moc_do,262,262,có
+50809,Glucose,gia_tri,118,118,có
+50809,Glucose,do_lap,44,44,có
+50809,Glucose,don_vi,mg/dL (262),mg/dL (262),có
+50810,"Hematocrit, Calculated",nhom,Blood Blood Gas,Blood Blood Gas,có
+50810,"Hematocrit, Calculated",label,"Hematocrit, Calculated","Hematocrit, Calculated",có
+50810,"Hematocrit, Calculated",ket_qua,143,143,có
+50810,"Hematocrit, Calculated",benh_nhan,52,52,có
+50810,"Hematocrit, Calculated",moc_do,143,143,có
+50810,"Hematocrit, Calculated",gia_tri,32,32,có
+50810,"Hematocrit, Calculated",do_lap,33,33,có
+50810,"Hematocrit, Calculated",don_vi,% (143),% (143),có
+50811,Hemoglobin,nhom,Blood Blood Gas,Blood Blood Gas,có
+50811,Hemoglobin,label,Hemoglobin,Hemoglobin,có
+50811,Hemoglobin,ket_qua,143,143,có
+50811,Hemoglobin,benh_nhan,52,52,có
+50811,Hemoglobin,moc_do,143,143,có
+50811,Hemoglobin,gia_tri,77,77,có
+50811,Hemoglobin,do_lap,33,33,có
+50811,Hemoglobin,don_vi,g/dL (143),g/dL (143),có
+50812,Intubated,nhom,Blood Blood Gas,Blood Blood Gas,có
+50812,Intubated,label,Intubated,Intubated,có
+50812,Intubated,ket_qua,274,274,có
+50812,Intubated,benh_nhan,63,63,có
+50812,Intubated,moc_do,274,274,có
+50812,Intubated,gia_tri,2,2,có
+50812,Intubated,do_lap,51,51,có
+50812,Intubated,don_vi,Không có,Không có,có
+50813,Lactate,nhom,Blood Blood Gas,Blood Blood Gas,có
+50813,Lactate,label,Lactate,Lactate,có
+50813,Lactate,ket_qua,758,758,có
+50813,Lactate,benh_nhan,83,83,có
+50813,Lactate,moc_do,758,758,có
+50813,Lactate,gia_tri,39,39,có
+50813,Lactate,do_lap,75,75,có
+50813,Lactate,don_vi,mmol/L (758),mmol/L (758),có
+50814,Methemoglobin,nhom,Blood Blood Gas,Blood Blood Gas,có
+50814,Methemoglobin,label,Methemoglobin,Methemoglobin,có
+50814,Methemoglobin,ket_qua,6,6,có
+50814,Methemoglobin,benh_nhan,6,6,có
+50814,Methemoglobin,moc_do,6,6,có
+50814,Methemoglobin,gia_tri,1,1,có
+50814,Methemoglobin,do_lap,0,0,có
+50814,Methemoglobin,don_vi,% (6),% (6),có
+50815,O2 Flow,nhom,Blood Blood Gas,Blood Blood Gas,có
+50815,O2 Flow,label,O2 Flow,O2 Flow,có
+50815,O2 Flow,ket_qua,19,19,có
+50815,O2 Flow,benh_nhan,14,14,có
+50815,O2 Flow,moc_do,19,19,có
+50815,O2 Flow,gia_tri,10,10,có
+50815,O2 Flow,do_lap,5,5,có
+50815,O2 Flow,don_vi,L/min (19),L/min (19),có
+50816,Oxygen,nhom,Blood Blood Gas,Blood Blood Gas,có
+50816,Oxygen,label,Oxygen,Oxygen,có
+50816,Oxygen,ket_qua,137,137,có
+50816,Oxygen,benh_nhan,30,30,có
+50816,Oxygen,moc_do,137,137,có
+50816,Oxygen,gia_tri,14,14,có
+50816,Oxygen,do_lap,20,20,có
+50816,Oxygen,don_vi,% (137),% (137),có
+50817,Oxygen Saturation,nhom,Blood Blood Gas,Blood Blood Gas,có
+50817,Oxygen Saturation,label,Oxygen Saturation,Oxygen Saturation,có
+50817,Oxygen Saturation,ket_qua,223,223,có
+50817,Oxygen Saturation,benh_nhan,61,61,có
+50817,Oxygen Saturation,moc_do,223,223,có
+50817,Oxygen Saturation,gia_tri,48,48,có
+50817,Oxygen Saturation,do_lap,45,45,có
+50817,Oxygen Saturation,don_vi,% (223),% (223),có
+50818,pCO2,nhom,Blood Blood Gas,Blood Blood Gas,có
+50818,pCO2,label,pCO2,pCO2,có
+50818,pCO2,ket_qua,889,889,có
+50818,pCO2,benh_nhan,77,77,có
+50818,pCO2,moc_do,889,889,có
+50818,pCO2,gia_tri,41,41,có
+50818,pCO2,do_lap,68,68,có
+50818,pCO2,don_vi,mm Hg (889),mm Hg (889),có
+50819,PEEP,nhom,Blood Blood Gas,Blood Blood Gas,có
+50819,PEEP,label,PEEP,PEEP,có
+50819,PEEP,ket_qua,130,130,có
+50819,PEEP,benh_nhan,26,26,có
+50819,PEEP,moc_do,130,130,có
+50819,PEEP,gia_tri,8,8,có
+50819,PEEP,do_lap,18,18,có
+50819,PEEP,don_vi,Không có,Không có,có
+50820,pH,nhom,Blood Blood Gas,Blood Blood Gas,có
+50820,pH,label,pH,pH,có
+50820,pH,ket_qua,966,966,có
+50820,pH,benh_nhan,78,78,có
+50820,pH,moc_do,966,966,có
+50820,pH,gia_tri,31,31,có
+50820,pH,do_lap,70,70,có
+50820,pH,don_vi,units (966),units (966),có
+50821,pO2,nhom,Blood Blood Gas,Blood Blood Gas,có
+50821,pO2,label,pO2,pO2,có
+50821,pO2,ket_qua,889,889,có
+50821,pO2,benh_nhan,77,77,có
+50821,pO2,moc_do,889,889,có
+50821,pO2,gia_tri,233,233,có
+50821,pO2,do_lap,68,68,có
+50821,pO2,don_vi,mm Hg (889),mm Hg (889),có
+50822,"Potassium, Whole Blood",nhom,Blood Blood Gas,Blood Blood Gas,có
+50822,"Potassium, Whole Blood",label,"Potassium, Whole Blood","Potassium, Whole Blood",có
+50822,"Potassium, Whole Blood",ket_qua,302,302,có
+50822,"Potassium, Whole Blood",benh_nhan,69,69,có
+50822,"Potassium, Whole Blood",moc_do,302,302,có
+50822,"Potassium, Whole Blood",gia_tri,31,31,có
+50822,"Potassium, Whole Blood",do_lap,52,52,có
+50822,"Potassium, Whole Blood",don_vi,mEq/L (302),mEq/L (302),có
+50823,Required O2,nhom,Blood Blood Gas,Blood Blood Gas,có
+50823,Required O2,label,Required O2,Required O2,có
+50823,Required O2,ket_qua,28,28,có
+50823,Required O2,benh_nhan,10,10,có
+50823,Required O2,moc_do,28,28,có
+50823,Required O2,gia_tri,19,19,có
+50823,Required O2,do_lap,3,3,có
+50823,Required O2,don_vi,Không có,Không có,có
+50824,"Sodium, Whole Blood",nhom,Blood Blood Gas,Blood Blood Gas,có
+50824,"Sodium, Whole Blood",label,"Sodium, Whole Blood","Sodium, Whole Blood",có
+50824,"Sodium, Whole Blood",ket_qua,141,141,có
+50824,"Sodium, Whole Blood",benh_nhan,57,57,có
+50824,"Sodium, Whole Blood",moc_do,141,141,có
+50824,"Sodium, Whole Blood",gia_tri,22,22,có
+50824,"Sodium, Whole Blood",do_lap,39,39,có
+50824,"Sodium, Whole Blood",don_vi,mEq/L (141),mEq/L (141),có
+50825,Temperature,nhom,Blood Blood Gas,Blood Blood Gas,có
+50825,Temperature,label,Temperature,Temperature,có
+50825,Temperature,ket_qua,201,201,có
+50825,Temperature,benh_nhan,37,37,có
+50825,Temperature,moc_do,201,201,có
+50825,Temperature,gia_tri,43,43,có
+50825,Temperature,do_lap,26,26,có
+50825,Temperature,don_vi,Không có,Không có,có
+50826,Tidal Volume,nhom,Blood Blood Gas,Blood Blood Gas,có
+50826,Tidal Volume,label,Tidal Volume,Tidal Volume,có
+50826,Tidal Volume,ket_qua,96,96,có
+50826,Tidal Volume,benh_nhan,26,26,có
+50826,Tidal Volume,moc_do,96,96,có
+50826,Tidal Volume,gia_tri,32,32,có
+50826,Tidal Volume,do_lap,17,17,có
+50826,Tidal Volume,don_vi,Không có,Không có,có
+50827,Ventilation Rate,nhom,Blood Blood Gas,Blood Blood Gas,có
+50827,Ventilation Rate,label,Ventilation Rate,Ventilation Rate,có
+50827,Ventilation Rate,ket_qua,109,109,có
+50827,Ventilation Rate,benh_nhan,29,29,có
+50827,Ventilation Rate,moc_do,109,109,có
+50827,Ventilation Rate,gia_tri,45,45,có
+50827,Ventilation Rate,do_lap,18,18,có
+50827,Ventilation Rate,don_vi,Không có,Không có,có
+50828,Ventilator,nhom,Blood Blood Gas,Blood Blood Gas,có
+50828,Ventilator,label,Ventilator,Ventilator,có
+50828,Ventilator,ket_qua,82,82,có
+50828,Ventilator,benh_nhan,35,35,có
+50828,Ventilator,moc_do,82,82,có
+50828,Ventilator,gia_tri,2,2,có
+50828,Ventilator,do_lap,26,26,có
+50828,Ventilator,don_vi,Không có,Không có,có
+50831,pH,nhom,Other Body Fluid Blood Gas,Other Body Fluid Blood Gas,có
+50831,pH,label,pH,pH,có
+50831,pH,ket_qua,8,8,có
+50831,pH,benh_nhan,6,6,có
+50831,pH,moc_do,8,8,có
+50831,pH,gia_tri,3,3,có
+50831,pH,do_lap,2,2,có
+50831,pH,don_vi,units (8),units (8),có
+50835,"Albumin, Ascites",nhom,Ascites Chemistry,Ascites Chemistry,có
+50835,"Albumin, Ascites",label,"Albumin, Ascites","Albumin, Ascites",có
+50835,"Albumin, Ascites",ket_qua,13,13,có
+50835,"Albumin, Ascites",benh_nhan,6,6,có
+50835,"Albumin, Ascites",moc_do,13,13,có
+50835,"Albumin, Ascites",gia_tri,7,7,có
+50835,"Albumin, Ascites",do_lap,3,3,có
+50835,"Albumin, Ascites",don_vi,g/dL (13),g/dL (13),có
+50836,"Amylase, Ascites",nhom,Ascites Chemistry,Ascites Chemistry,có
+50836,"Amylase, Ascites",label,"Amylase, Ascites","Amylase, Ascites",có
+50836,"Amylase, Ascites",ket_qua,5,5,có
+50836,"Amylase, Ascites",benh_nhan,4,4,có
+50836,"Amylase, Ascites",moc_do,5,5,có
+50836,"Amylase, Ascites",gia_tri,5,5,có
+50836,"Amylase, Ascites",do_lap,1,1,có
+50836,"Amylase, Ascites",don_vi,IU/L (5),IU/L (5),có
+50838,"Bilirubin, Total, Ascites",nhom,Ascites Chemistry,Ascites Chemistry,có
+50838,"Bilirubin, Total, Ascites",label,"Bilirubin, Total, Ascites","Bilirubin, Total, Ascites",có
+50838,"Bilirubin, Total, Ascites",ket_qua,3,3,có
+50838,"Bilirubin, Total, Ascites",benh_nhan,3,3,có
+50838,"Bilirubin, Total, Ascites",moc_do,3,3,có
+50838,"Bilirubin, Total, Ascites",gia_tri,2,2,có
+50838,"Bilirubin, Total, Ascites",do_lap,0,0,có
+50838,"Bilirubin, Total, Ascites",don_vi,mg/dL (3),mg/dL (3),có
+50840,"Cholesterol, Ascites",nhom,Ascites Chemistry,Ascites Chemistry,có
+50840,"Cholesterol, Ascites",label,"Cholesterol, Ascites","Cholesterol, Ascites",có
+50840,"Cholesterol, Ascites",ket_qua,1,1,có
+50840,"Cholesterol, Ascites",benh_nhan,1,1,có
+50840,"Cholesterol, Ascites",moc_do,1,1,có
+50840,"Cholesterol, Ascites",gia_tri,1,1,có
+50840,"Cholesterol, Ascites",do_lap,0,0,có
+50840,"Cholesterol, Ascites",don_vi,mg/dL (1),mg/dL (1),có
+50841,"Creatinine, Ascites",nhom,Ascites Chemistry,Ascites Chemistry,có
+50841,"Creatinine, Ascites",label,"Creatinine, Ascites","Creatinine, Ascites",có
+50841,"Creatinine, Ascites",ket_qua,2,2,có
+50841,"Creatinine, Ascites",benh_nhan,2,2,có
+50841,"Creatinine, Ascites",moc_do,2,2,có
+50841,"Creatinine, Ascites",gia_tri,2,2,có
+50841,"Creatinine, Ascites",do_lap,0,0,có
+50841,"Creatinine, Ascites",don_vi,mg/dL (2),mg/dL (2),có
+50842,"Glucose, Ascites",nhom,Ascites Chemistry,Ascites Chemistry,có
+50842,"Glucose, Ascites",label,"Glucose, Ascites","Glucose, Ascites",có
+50842,"Glucose, Ascites",ket_qua,9,9,có
+50842,"Glucose, Ascites",benh_nhan,5,5,có
+50842,"Glucose, Ascites",moc_do,9,9,có
+50842,"Glucose, Ascites",gia_tri,9,9,có
+50842,"Glucose, Ascites",do_lap,3,3,có
+50842,"Glucose, Ascites",don_vi,mg/dL (9),mg/dL (9),có
+50843,"Lactate Dehydrogenase, Ascites",nhom,Ascites Chemistry,Ascites Chemistry,có
+50843,"Lactate Dehydrogenase, Ascites",label,"Lactate Dehydrogenase, Ascites","Lactate Dehydrogenase, Ascites",có
+50843,"Lactate Dehydrogenase, Ascites",ket_qua,7,7,có
+50843,"Lactate Dehydrogenase, Ascites",benh_nhan,5,5,có
+50843,"Lactate Dehydrogenase, Ascites",moc_do,7,7,có
+50843,"Lactate Dehydrogenase, Ascites",gia_tri,7,7,có
+50843,"Lactate Dehydrogenase, Ascites",do_lap,2,2,có
+50843,"Lactate Dehydrogenase, Ascites",don_vi,IU/L (7),IU/L (7),có
+50849,"Total Protein, Ascites",nhom,Ascites Chemistry,Ascites Chemistry,có
+50849,"Total Protein, Ascites",label,"Total Protein, Ascites","Total Protein, Ascites",có
+50849,"Total Protein, Ascites",ket_qua,15,15,có
+50849,"Total Protein, Ascites",benh_nhan,6,6,có
+50849,"Total Protein, Ascites",moc_do,15,15,có
+50849,"Total Protein, Ascites",gia_tri,13,13,có
+50849,"Total Protein, Ascites",do_lap,4,4,có
+50849,"Total Protein, Ascites",don_vi,g/dL (15),g/dL (15),có
+50852,% Hemoglobin A1c,nhom,Blood Chemistry,Blood Chemistry,có
+50852,% Hemoglobin A1c,label,% Hemoglobin A1c,% Hemoglobin A1c,có
+50852,% Hemoglobin A1c,ket_qua,117,117,có
+50852,% Hemoglobin A1c,benh_nhan,44,44,có
+50852,% Hemoglobin A1c,moc_do,117,117,có
+50852,% Hemoglobin A1c,gia_tri,1,1,có
+50852,% Hemoglobin A1c,do_lap,15,15,có
+50852,% Hemoglobin A1c,don_vi,% (117),% (117),có
+50853,25-OH Vitamin D,nhom,Blood Chemistry,Blood Chemistry,có
+50853,25-OH Vitamin D,label,25-OH Vitamin D,25-OH Vitamin D,có
+50853,25-OH Vitamin D,ket_qua,33,33,có
+50853,25-OH Vitamin D,benh_nhan,17,17,có
+50853,25-OH Vitamin D,moc_do,33,33,có
+50853,25-OH Vitamin D,gia_tri,6,6,có
+50853,25-OH Vitamin D,do_lap,6,6,có
+50853,25-OH Vitamin D,don_vi,ng/mL (33),ng/mL (33),có
+50856,Acetaminophen,nhom,Blood Chemistry,Blood Chemistry,có
+50856,Acetaminophen,label,Acetaminophen,Acetaminophen,có
+50856,Acetaminophen,ket_qua,46,46,có
+50856,Acetaminophen,benh_nhan,26,26,có
+50856,Acetaminophen,moc_do,46,46,có
+50856,Acetaminophen,gia_tri,1,1,có
+50856,Acetaminophen,do_lap,5,5,có
+50856,Acetaminophen,don_vi,ug/mL (46),ug/mL (46),có
+50861,Alanine Aminotransferase (ALT),nhom,Blood Chemistry,Blood Chemistry,có
+50861,Alanine Aminotransferase (ALT),label,Alanine Aminotransferase (ALT),Alanine Aminotransferase (ALT),có
+50861,Alanine Aminotransferase (ALT),ket_qua,1163,1163,có
+50861,Alanine Aminotransferase (ALT),benh_nhan,82,82,có
+50861,Alanine Aminotransferase (ALT),moc_do,1160,1160,có
+50861,Alanine Aminotransferase (ALT),gia_tri,200,200,có
+50861,Alanine Aminotransferase (ALT),do_lap,61,61,có
+50861,Alanine Aminotransferase (ALT),don_vi,IU/L (1163),IU/L (1163),có
+50862,Albumin,nhom,Blood Chemistry,Blood Chemistry,có
+50862,Albumin,label,Albumin,Albumin,có
+50862,Albumin,ket_qua,625,625,có
+50862,Albumin,benh_nhan,80,80,có
+50862,Albumin,moc_do,624,624,có
+50862,Albumin,gia_tri,37,37,có
+50862,Albumin,do_lap,53,53,có
+50862,Albumin,don_vi,g/dL (625),g/dL (625),có
+50863,Alkaline Phosphatase,nhom,Blood Chemistry,Blood Chemistry,có
+50863,Alkaline Phosphatase,label,Alkaline Phosphatase,Alkaline Phosphatase,có
+50863,Alkaline Phosphatase,ket_qua,1138,1138,có
+50863,Alkaline Phosphatase,benh_nhan,81,81,có
+50863,Alkaline Phosphatase,moc_do,1136,1136,có
+50863,Alkaline Phosphatase,gia_tri,247,247,có
+50863,Alkaline Phosphatase,do_lap,59,59,có
+50863,Alkaline Phosphatase,don_vi,IU/L (1138),IU/L (1138),có
+50864,Alpha-Fetoprotein,nhom,Blood Chemistry,Blood Chemistry,có
+50864,Alpha-Fetoprotein,label,Alpha-Fetoprotein,Alpha-Fetoprotein,có
+50864,Alpha-Fetoprotein,ket_qua,10,10,có
+50864,Alpha-Fetoprotein,benh_nhan,7,7,có
+50864,Alpha-Fetoprotein,moc_do,10,10,có
+50864,Alpha-Fetoprotein,gia_tri,1,1,có
+50864,Alpha-Fetoprotein,do_lap,3,3,có
+50864,Alpha-Fetoprotein,don_vi,ng/mL (10),ng/mL (10),có
+50866,Ammonia,nhom,Blood Chemistry,Blood Chemistry,có
+50866,Ammonia,label,Ammonia,Ammonia,có
+50866,Ammonia,ket_qua,6,6,có
+50866,Ammonia,benh_nhan,5,5,có
+50866,Ammonia,moc_do,6,6,có
+50866,Ammonia,gia_tri,5,5,có
+50866,Ammonia,do_lap,1,1,có
+50866,Ammonia,don_vi,umol/L (6),umol/L (6),có
+50867,Amylase,nhom,Blood Chemistry,Blood Chemistry,có
+50867,Amylase,label,Amylase,Amylase,có
+50867,Amylase,ket_qua,41,41,có
+50867,Amylase,benh_nhan,25,25,có
+50867,Amylase,moc_do,41,41,có
+50867,Amylase,gia_tri,37,37,có
+50867,Amylase,do_lap,6,6,có
+50867,Amylase,don_vi,IU/L (41),IU/L (41),có
+50868,Anion Gap,nhom,Blood Chemistry,Blood Chemistry,có
+50868,Anion Gap,label,Anion Gap,Anion Gap,có
+50868,Anion Gap,ket_qua,2860,2860,có
+50868,Anion Gap,benh_nhan,100,100,có
+50868,Anion Gap,moc_do,2857,2857,có
+50868,Anion Gap,gia_tri,36,36,có
+50868,Anion Gap,do_lap,100,100,có
+50868,Anion Gap,don_vi,mEq/L (2860),mEq/L (2860),có
+50869,Anti-DGP (IgA/IgG),nhom,Blood Chemistry,Blood Chemistry,có
+50869,Anti-DGP (IgA/IgG),label,Anti-DGP (IgA/IgG),Anti-DGP (IgA/IgG),có
+50869,Anti-DGP (IgA/IgG),ket_qua,1,1,có
+50869,Anti-DGP (IgA/IgG),benh_nhan,1,1,có
+50869,Anti-DGP (IgA/IgG),moc_do,1,1,có
+50869,Anti-DGP (IgA/IgG),gia_tri,1,1,có
+50869,Anti-DGP (IgA/IgG),do_lap,0,0,có
+50869,Anti-DGP (IgA/IgG),don_vi,units (1),units (1),có
+50871,Anti-Mitochondrial Antibody,nhom,Blood Chemistry,Blood Chemistry,có
+50871,Anti-Mitochondrial Antibody,label,Anti-Mitochondrial Antibody,Anti-Mitochondrial Antibody,có
+50871,Anti-Mitochondrial Antibody,ket_qua,5,5,có
+50871,Anti-Mitochondrial Antibody,benh_nhan,5,5,có
+50871,Anti-Mitochondrial Antibody,moc_do,5,5,có
+50871,Anti-Mitochondrial Antibody,gia_tri,1,1,có
+50871,Anti-Mitochondrial Antibody,do_lap,0,0,có
+50871,Anti-Mitochondrial Antibody,don_vi,N/A (1),N/A (1),có
+50872,Anti-Neutrophil Cytoplasmic Antibody,nhom,Blood Chemistry,Blood Chemistry,có
+50872,Anti-Neutrophil Cytoplasmic Antibody,label,Anti-Neutrophil Cytoplasmic Antibody,Anti-Neutrophil Cytoplasmic Antibody,có
+50872,Anti-Neutrophil Cytoplasmic Antibody,ket_qua,6,6,có
+50872,Anti-Neutrophil Cytoplasmic Antibody,benh_nhan,6,6,có
+50872,Anti-Neutrophil Cytoplasmic Antibody,moc_do,6,6,có
+50872,Anti-Neutrophil Cytoplasmic Antibody,gia_tri,1,1,có
+50872,Anti-Neutrophil Cytoplasmic Antibody,do_lap,0,0,có
+50872,Anti-Neutrophil Cytoplasmic Antibody,don_vi,Không có,Không có,có
+50873,Anti-Nuclear Antibody,nhom,Blood Chemistry,Blood Chemistry,có
+50873,Anti-Nuclear Antibody,label,Anti-Nuclear Antibody,Anti-Nuclear Antibody,có
+50873,Anti-Nuclear Antibody,ket_qua,11,11,có
+50873,Anti-Nuclear Antibody,benh_nhan,11,11,có
+50873,Anti-Nuclear Antibody,moc_do,11,11,có
+50873,Anti-Nuclear Antibody,gia_tri,1,1,có
+50873,Anti-Nuclear Antibody,do_lap,0,0,có
+50873,Anti-Nuclear Antibody,don_vi,N/A (2),N/A (2),có
+50874,"Anti-Nuclear Antibody, Titer",nhom,Blood Chemistry,Blood Chemistry,có
+50874,"Anti-Nuclear Antibody, Titer",label,"Anti-Nuclear Antibody, Titer","Anti-Nuclear Antibody, Titer",có
+50874,"Anti-Nuclear Antibody, Titer",ket_qua,1,1,có
+50874,"Anti-Nuclear Antibody, Titer",benh_nhan,1,1,có
+50874,"Anti-Nuclear Antibody, Titer",moc_do,1,1,có
+50874,"Anti-Nuclear Antibody, Titer",gia_tri,0,0,có
+50874,"Anti-Nuclear Antibody, Titer",do_lap,0,0,có
+50874,"Anti-Nuclear Antibody, Titer",don_vi,Không có,Không có,có
+50876,Anti-Smooth Muscle Antibody,nhom,Blood Chemistry,Blood Chemistry,có
+50876,Anti-Smooth Muscle Antibody,label,Anti-Smooth Muscle Antibody,Anti-Smooth Muscle Antibody,có
+50876,Anti-Smooth Muscle Antibody,ket_qua,5,5,có
+50876,Anti-Smooth Muscle Antibody,benh_nhan,5,5,có
+50876,Anti-Smooth Muscle Antibody,moc_do,5,5,có
+50876,Anti-Smooth Muscle Antibody,gia_tri,0,0,có
+50876,Anti-Smooth Muscle Antibody,do_lap,0,0,có
+50876,Anti-Smooth Muscle Antibody,don_vi,N/A (1),N/A (1),có
+50877,Anti-Thyroglobulin Antibodies,nhom,Blood Chemistry,Blood Chemistry,có
+50877,Anti-Thyroglobulin Antibodies,label,Anti-Thyroglobulin Antibodies,Anti-Thyroglobulin Antibodies,có
+50877,Anti-Thyroglobulin Antibodies,ket_qua,3,3,có
+50877,Anti-Thyroglobulin Antibodies,benh_nhan,3,3,có
+50877,Anti-Thyroglobulin Antibodies,moc_do,3,3,có
+50877,Anti-Thyroglobulin Antibodies,gia_tri,1,1,có
+50877,Anti-Thyroglobulin Antibodies,do_lap,0,0,có
+50877,Anti-Thyroglobulin Antibodies,don_vi,IU/mL (3),IU/mL (3),có
+50878,Asparate Aminotransferase (AST),nhom,Blood Chemistry,Blood Chemistry,có
+50878,Asparate Aminotransferase (AST),label,Asparate Aminotransferase (AST),Asparate Aminotransferase (AST),có
+50878,Asparate Aminotransferase (AST),ket_qua,1165,1165,có
+50878,Asparate Aminotransferase (AST),benh_nhan,82,82,có
+50878,Asparate Aminotransferase (AST),moc_do,1162,1162,có
+50878,Asparate Aminotransferase (AST),gia_tri,203,203,có
+50878,Asparate Aminotransferase (AST),do_lap,62,62,có
+50878,Asparate Aminotransferase (AST),don_vi,IU/L (1165),IU/L (1165),có
+50879,Barbiturate Screen,nhom,Blood Chemistry,Blood Chemistry,có
+50879,Barbiturate Screen,label,Barbiturate Screen,Barbiturate Screen,có
+50879,Barbiturate Screen,ket_qua,35,35,có
+50879,Barbiturate Screen,benh_nhan,25,25,có
+50879,Barbiturate Screen,moc_do,35,35,có
+50879,Barbiturate Screen,gia_tri,1,1,có
+50879,Barbiturate Screen,do_lap,4,4,có
+50879,Barbiturate Screen,don_vi,N/A (1),N/A (1),có
+50880,Benzodiazepine Screen,nhom,Blood Chemistry,Blood Chemistry,có
+50880,Benzodiazepine Screen,label,Benzodiazepine Screen,Benzodiazepine Screen,có
+50880,Benzodiazepine Screen,ket_qua,36,36,có
+50880,Benzodiazepine Screen,benh_nhan,25,25,có
+50880,Benzodiazepine Screen,moc_do,36,36,có
+50880,Benzodiazepine Screen,gia_tri,2,2,có
+50880,Benzodiazepine Screen,do_lap,5,5,có
+50880,Benzodiazepine Screen,don_vi,N/A (2),N/A (2),có
+50881,Beta-2 Microglobulin,nhom,Blood Chemistry,Blood Chemistry,có
+50881,Beta-2 Microglobulin,label,Beta-2 Microglobulin,Beta-2 Microglobulin,có
+50881,Beta-2 Microglobulin,ket_qua,2,2,có
+50881,Beta-2 Microglobulin,benh_nhan,2,2,có
+50881,Beta-2 Microglobulin,moc_do,2,2,có
+50881,Beta-2 Microglobulin,gia_tri,2,2,có
+50881,Beta-2 Microglobulin,do_lap,0,0,có
+50881,Beta-2 Microglobulin,don_vi,mg/L (2),mg/L (2),có
+50882,Bicarbonate,nhom,Blood Chemistry,Blood Chemistry,có
+50882,Bicarbonate,label,Bicarbonate,Bicarbonate,có
+50882,Bicarbonate,ket_qua,2863,2863,có
+50882,Bicarbonate,benh_nhan,100,100,có
+50882,Bicarbonate,moc_do,2860,2860,có
+50882,Bicarbonate,gia_tri,27,27,có
+50882,Bicarbonate,do_lap,100,100,có
+50882,Bicarbonate,don_vi,mEq/L (2863),mEq/L (2863),có
+50883,"Bilirubin, Direct",nhom,Blood Chemistry,Blood Chemistry,có
+50883,"Bilirubin, Direct",label,"Bilirubin, Direct","Bilirubin, Direct",có
+50883,"Bilirubin, Direct",ket_qua,53,53,có
+50883,"Bilirubin, Direct",benh_nhan,18,18,có
+50883,"Bilirubin, Direct",moc_do,53,53,có
+50883,"Bilirubin, Direct",gia_tri,26,26,có
+50883,"Bilirubin, Direct",do_lap,12,12,có
+50883,"Bilirubin, Direct",don_vi,mg/dL (53),mg/dL (53),có
+50884,"Bilirubin, Indirect",nhom,Blood Chemistry,Blood Chemistry,có
+50884,"Bilirubin, Indirect",label,"Bilirubin, Indirect","Bilirubin, Indirect",có
+50884,"Bilirubin, Indirect",ket_qua,47,47,có
+50884,"Bilirubin, Indirect",benh_nhan,18,18,có
+50884,"Bilirubin, Indirect",moc_do,47,47,có
+50884,"Bilirubin, Indirect",gia_tri,28,28,có
+50884,"Bilirubin, Indirect",do_lap,12,12,có
+50884,"Bilirubin, Indirect",don_vi,mg/dL (47),mg/dL (47),có
+50885,"Bilirubin, Total",nhom,Blood Chemistry,Blood Chemistry,có
+50885,"Bilirubin, Total",label,"Bilirubin, Total","Bilirubin, Total",có
+50885,"Bilirubin, Total",ket_qua,1164,1164,có
+50885,"Bilirubin, Total",benh_nhan,80,80,có
+50885,"Bilirubin, Total",moc_do,1162,1162,có
+50885,"Bilirubin, Total",gia_tri,89,89,có
+50885,"Bilirubin, Total",do_lap,59,59,có
+50885,"Bilirubin, Total",don_vi,mg/dL (1164),mg/dL (1164),có
+50887,Blue Top Hold,nhom,Blood Chemistry,Blood Chemistry,có
+50887,Blue Top Hold,label,Blue Top Hold,Blue Top Hold,có
+50887,Blue Top Hold,ket_qua,114,114,có
+50887,Blue Top Hold,benh_nhan,42,42,có
+50887,Blue Top Hold,moc_do,112,112,có
+50887,Blue Top Hold,gia_tri,1,1,có
+50887,Blue Top Hold,do_lap,18,18,có
+50887,Blue Top Hold,don_vi,Không có,Không có,có
+50889,C-Reactive Protein,nhom,Blood Chemistry,Blood Chemistry,có
+50889,C-Reactive Protein,label,C-Reactive Protein,C-Reactive Protein,có
+50889,C-Reactive Protein,ket_qua,44,44,có
+50889,C-Reactive Protein,benh_nhan,19,19,có
+50889,C-Reactive Protein,moc_do,44,44,có
+50889,C-Reactive Protein,gia_tri,11,11,có
+50889,C-Reactive Protein,do_lap,8,8,có
+50889,C-Reactive Protein,don_vi,mg/L (44),mg/L (44),có
+50890,C3,nhom,Blood Chemistry,Blood Chemistry,có
+50890,C3,label,C3,C3,có
+50890,C3,ket_qua,5,5,có
+50890,C3,benh_nhan,5,5,có
+50890,C3,moc_do,5,5,có
+50890,C3,gia_tri,5,5,có
+50890,C3,do_lap,0,0,có
+50890,C3,don_vi,mg/dL (5),mg/dL (5),có
+50891,C4,nhom,Blood Chemistry,Blood Chemistry,có
+50891,C4,label,C4,C4,có
+50891,C4,ket_qua,5,5,có
+50891,C4,benh_nhan,5,5,có
+50891,C4,moc_do,5,5,có
+50891,C4,gia_tri,4,4,có
+50891,C4,do_lap,0,0,có
+50891,C4,don_vi,mg/dL (5),mg/dL (5),có
+50892,CA-125,nhom,Blood Chemistry,Blood Chemistry,có
+50892,CA-125,label,CA-125,CA-125,có
+50892,CA-125,ket_qua,2,2,có
+50892,CA-125,benh_nhan,2,2,có
+50892,CA-125,moc_do,2,2,có
+50892,CA-125,gia_tri,1,1,có
+50892,CA-125,do_lap,0,0,có
+50892,CA-125,don_vi,U/mL (2),U/mL (2),có
+50893,"Calcium, Total",nhom,Blood Chemistry,Blood Chemistry,có
+50893,"Calcium, Total",label,"Calcium, Total","Calcium, Total",có
+50893,"Calcium, Total",ket_qua,2377,2377,có
+50893,"Calcium, Total",benh_nhan,99,99,có
+50893,"Calcium, Total",moc_do,2376,2376,có
+50893,"Calcium, Total",gia_tri,56,56,có
+50893,"Calcium, Total",do_lap,95,95,có
+50893,"Calcium, Total",don_vi,mg/dL (2377),mg/dL (2377),có
+50895,Calculated TBG,nhom,Blood Chemistry,Blood Chemistry,có
+50895,Calculated TBG,label,Calculated TBG,Calculated TBG,có
+50895,Calculated TBG,ket_qua,1,1,có
+50895,Calculated TBG,benh_nhan,1,1,có
+50895,Calculated TBG,moc_do,1,1,có
+50895,Calculated TBG,gia_tri,1,1,có
+50895,Calculated TBG,do_lap,0,0,có
+50895,Calculated TBG,don_vi,Ratio (1),Ratio (1),có
+50896,Calculated Thyroxine (T4) Index,nhom,Blood Chemistry,Blood Chemistry,có
+50896,Calculated Thyroxine (T4) Index,label,Calculated Thyroxine (T4) Index,Calculated Thyroxine (T4) Index,có
+50896,Calculated Thyroxine (T4) Index,ket_qua,1,1,có
+50896,Calculated Thyroxine (T4) Index,benh_nhan,1,1,có
+50896,Calculated Thyroxine (T4) Index,moc_do,1,1,có
+50896,Calculated Thyroxine (T4) Index,gia_tri,1,1,có
+50896,Calculated Thyroxine (T4) Index,do_lap,0,0,có
+50896,Calculated Thyroxine (T4) Index,don_vi,ug/dL (1),ug/dL (1),có
+50899,Carbamazepine,nhom,Blood Chemistry,Blood Chemistry,có
+50899,Carbamazepine,label,Carbamazepine,Carbamazepine,có
+50899,Carbamazepine,ket_qua,3,3,có
+50899,Carbamazepine,benh_nhan,1,1,có
+50899,Carbamazepine,moc_do,3,3,có
+50899,Carbamazepine,gia_tri,3,3,có
+50899,Carbamazepine,do_lap,1,1,có
+50899,Carbamazepine,don_vi,ug/mL (3),ug/mL (3),có
+50900,Carcinoembyronic Antigen (CEA),nhom,Blood Chemistry,Blood Chemistry,có
+50900,Carcinoembyronic Antigen (CEA),label,Carcinoembyronic Antigen (CEA),Carcinoembyronic Antigen (CEA),có
+50900,Carcinoembyronic Antigen (CEA),ket_qua,9,9,có
+50900,Carcinoembyronic Antigen (CEA),benh_nhan,9,9,có
+50900,Carcinoembyronic Antigen (CEA),moc_do,9,9,có
+50900,Carcinoembyronic Antigen (CEA),gia_tri,1,1,có
+50900,Carcinoembyronic Antigen (CEA),do_lap,0,0,có
+50900,Carcinoembyronic Antigen (CEA),don_vi,ng/mL (9),ng/mL (9),có
+50902,Chloride,nhom,Blood Chemistry,Blood Chemistry,có
+50902,Chloride,label,Chloride,Chloride,có
+50902,Chloride,ket_qua,2981,2981,có
+50902,Chloride,benh_nhan,100,100,có
+50902,Chloride,moc_do,2978,2978,có
+50902,Chloride,gia_tri,42,42,có
+50902,Chloride,do_lap,100,100,có
+50902,Chloride,don_vi,mEq/L (2981),mEq/L (2981),có
+50903,Cholesterol Ratio (Total/HDL),nhom,Blood Chemistry,Blood Chemistry,có
+50903,Cholesterol Ratio (Total/HDL),label,Cholesterol Ratio (Total/HDL),Cholesterol Ratio (Total/HDL),có
+50903,Cholesterol Ratio (Total/HDL),ket_qua,58,58,có
+50903,Cholesterol Ratio (Total/HDL),benh_nhan,29,29,có
+50903,Cholesterol Ratio (Total/HDL),moc_do,58,58,có
+50903,Cholesterol Ratio (Total/HDL),gia_tri,39,39,có
+50903,Cholesterol Ratio (Total/HDL),do_lap,10,10,có
+50903,Cholesterol Ratio (Total/HDL),don_vi,Ratio (58),Ratio (58),có
+50904,"Cholesterol, HDL",nhom,Blood Chemistry,Blood Chemistry,có
+50904,"Cholesterol, HDL",label,"Cholesterol, HDL","Cholesterol, HDL",có
+50904,"Cholesterol, HDL",ket_qua,61,61,có
+50904,"Cholesterol, HDL",benh_nhan,30,30,có
+50904,"Cholesterol, HDL",moc_do,61,61,có
+50904,"Cholesterol, HDL",gia_tri,45,45,có
+50904,"Cholesterol, HDL",do_lap,11,11,có
+50904,"Cholesterol, HDL",don_vi,mg/dL (61),mg/dL (61),có
+50905,"Cholesterol, LDL, Calculated",nhom,Blood Chemistry,Blood Chemistry,có
+50905,"Cholesterol, LDL, Calculated",label,"Cholesterol, LDL, Calculated","Cholesterol, LDL, Calculated",có
+50905,"Cholesterol, LDL, Calculated",ket_qua,52,52,có
+50905,"Cholesterol, LDL, Calculated",benh_nhan,29,29,có
+50905,"Cholesterol, LDL, Calculated",moc_do,52,52,có
+50905,"Cholesterol, LDL, Calculated",gia_tri,35,35,có
+50905,"Cholesterol, LDL, Calculated",do_lap,9,9,có
+50905,"Cholesterol, LDL, Calculated",don_vi,mg/dL (52),mg/dL (52),có
+50906,"Cholesterol, LDL, Measured",nhom,Blood Chemistry,Blood Chemistry,có
+50906,"Cholesterol, LDL, Measured",label,"Cholesterol, LDL, Measured","Cholesterol, LDL, Measured",có
+50906,"Cholesterol, LDL, Measured",ket_qua,11,11,có
+50906,"Cholesterol, LDL, Measured",benh_nhan,6,6,có
+50906,"Cholesterol, LDL, Measured",moc_do,11,11,có
+50906,"Cholesterol, LDL, Measured",gia_tri,10,10,có
+50906,"Cholesterol, LDL, Measured",do_lap,3,3,có
+50906,"Cholesterol, LDL, Measured",don_vi,mg/dL (11),mg/dL (11),có
+50907,"Cholesterol, Total",nhom,Blood Chemistry,Blood Chemistry,có
+50907,"Cholesterol, Total",label,"Cholesterol, Total","Cholesterol, Total",có
+50907,"Cholesterol, Total",ket_qua,61,61,có
+50907,"Cholesterol, Total",benh_nhan,29,29,có
+50907,"Cholesterol, Total",moc_do,61,61,có
+50907,"Cholesterol, Total",gia_tri,54,54,có
+50907,"Cholesterol, Total",do_lap,12,12,có
+50907,"Cholesterol, Total",don_vi,mg/dL (61),mg/dL (61),có
+50908,CK-MB Index,nhom,Blood Chemistry,Blood Chemistry,có
+50908,CK-MB Index,label,CK-MB Index,CK-MB Index,có
+50908,CK-MB Index,ket_qua,31,31,có
+50908,CK-MB Index,benh_nhan,13,13,có
+50908,CK-MB Index,moc_do,31,31,có
+50908,CK-MB Index,gia_tri,26,26,có
+50908,CK-MB Index,do_lap,8,8,có
+50908,CK-MB Index,don_vi,% (31),% (31),có
+50909,Cortisol,nhom,Blood Chemistry,Blood Chemistry,có
+50909,Cortisol,label,Cortisol,Cortisol,có
+50909,Cortisol,ket_qua,31,31,có
+50909,Cortisol,benh_nhan,11,11,có
+50909,Cortisol,moc_do,31,31,có
+50909,Cortisol,gia_tri,1,1,có
+50909,Cortisol,do_lap,6,6,có
+50909,Cortisol,don_vi,ug/dL (31),ug/dL (31),có
+50910,Creatine Kinase (CK),nhom,Blood Chemistry,Blood Chemistry,có
+50910,Creatine Kinase (CK),label,Creatine Kinase (CK),Creatine Kinase (CK),có
+50910,Creatine Kinase (CK),ket_qua,200,200,có
+50910,Creatine Kinase (CK),benh_nhan,59,59,có
+50910,Creatine Kinase (CK),moc_do,200,200,có
+50910,Creatine Kinase (CK),gia_tri,1,1,có
+50910,Creatine Kinase (CK),do_lap,37,37,có
+50910,Creatine Kinase (CK),don_vi,IU/L (200),IU/L (200),có
+50911,"Creatine Kinase, MB Isoenzyme",nhom,Blood Chemistry,Blood Chemistry,có
+50911,"Creatine Kinase, MB Isoenzyme",label,"Creatine Kinase, MB Isoenzyme","Creatine Kinase, MB Isoenzyme",có
+50911,"Creatine Kinase, MB Isoenzyme",ket_qua,187,187,có
+50911,"Creatine Kinase, MB Isoenzyme",benh_nhan,53,53,có
+50911,"Creatine Kinase, MB Isoenzyme",moc_do,187,187,có
+50911,"Creatine Kinase, MB Isoenzyme",gia_tri,42,42,có
+50911,"Creatine Kinase, MB Isoenzyme",do_lap,34,34,có
+50911,"Creatine Kinase, MB Isoenzyme",don_vi,ng/mL (187),ng/mL (187),có
+50912,Creatinine,nhom,Blood Chemistry,Blood Chemistry,có
+50912,Creatinine,label,Creatinine,Creatinine,có
+50912,Creatinine,ket_qua,3003,3003,có
+50912,Creatinine,benh_nhan,100,100,có
+50912,Creatinine,moc_do,2998,2998,có
+50912,Creatinine,gia_tri,95,95,có
+50912,Creatinine,do_lap,100,100,có
+50912,Creatinine,don_vi,mg/dL (3003),mg/dL (3003),có
+50915,D-Dimer,nhom,Blood Chemistry,Blood Chemistry,có
+50915,D-Dimer,label,D-Dimer,D-Dimer,có
+50915,D-Dimer,ket_qua,9,9,có
+50915,D-Dimer,benh_nhan,9,9,có
+50915,D-Dimer,moc_do,9,9,có
+50915,D-Dimer,gia_tri,1,1,có
+50915,D-Dimer,do_lap,0,0,có
+50915,D-Dimer,don_vi,ng/mL (6); ng/mL FEU (3),ng/mL (6); ng/mL FEU (3),có
+50917,Digoxin,nhom,Blood Chemistry,Blood Chemistry,có
+50917,Digoxin,label,Digoxin,Digoxin,có
+50917,Digoxin,ket_qua,23,23,có
+50917,Digoxin,benh_nhan,5,5,có
+50917,Digoxin,moc_do,23,23,có
+50917,Digoxin,gia_tri,14,14,có
+50917,Digoxin,do_lap,5,5,có
+50917,Digoxin,don_vi,ng/mL (23),ng/mL (23),có
+50918,Double Stranded DNA,nhom,Blood Chemistry,Blood Chemistry,có
+50918,Double Stranded DNA,label,Double Stranded DNA,Double Stranded DNA,có
+50918,Double Stranded DNA,ket_qua,1,1,có
+50918,Double Stranded DNA,benh_nhan,1,1,có
+50918,Double Stranded DNA,moc_do,1,1,có
+50918,Double Stranded DNA,gia_tri,0,0,có
+50918,Double Stranded DNA,do_lap,0,0,có
+50918,Double Stranded DNA,don_vi,U/mL (1),U/mL (1),có
+50919,EDTA Hold,nhom,Blood Chemistry,Blood Chemistry,có
+50919,EDTA Hold,label,EDTA Hold,EDTA Hold,có
+50919,EDTA Hold,ket_qua,62,62,có
+50919,EDTA Hold,benh_nhan,25,25,có
+50919,EDTA Hold,moc_do,56,56,có
+50919,EDTA Hold,gia_tri,0,0,có
+50919,EDTA Hold,do_lap,11,11,có
+50919,EDTA Hold,don_vi,Không có,Không có,có
+50920,Estimated GFR (MDRD equation),nhom,Blood Chemistry,Blood Chemistry,có
+50920,Estimated GFR (MDRD equation),label,Estimated GFR (MDRD equation),Estimated GFR (MDRD equation),có
+50920,Estimated GFR (MDRD equation),ket_qua,739,739,có
+50920,Estimated GFR (MDRD equation),benh_nhan,100,100,có
+50920,Estimated GFR (MDRD equation),moc_do,737,737,có
+50920,Estimated GFR (MDRD equation),gia_tri,0,0,có
+50920,Estimated GFR (MDRD equation),do_lap,74,74,có
+50920,Estimated GFR (MDRD equation),don_vi,Không có,Không có,có
+50922,Ethanol,nhom,Blood Chemistry,Blood Chemistry,có
+50922,Ethanol,label,Ethanol,Ethanol,có
+50922,Ethanol,ket_qua,46,46,có
+50922,Ethanol,benh_nhan,26,26,có
+50922,Ethanol,moc_do,46,46,có
+50922,Ethanol,gia_tri,1,1,có
+50922,Ethanol,do_lap,5,5,có
+50922,Ethanol,don_vi,mg/dL (46),mg/dL (46),có
+50924,Ferritin,nhom,Blood Chemistry,Blood Chemistry,có
+50924,Ferritin,label,Ferritin,Ferritin,có
+50924,Ferritin,ket_qua,76,76,có
+50924,Ferritin,benh_nhan,32,32,có
+50924,Ferritin,moc_do,76,76,có
+50924,Ferritin,gia_tri,71,71,có
+50924,Ferritin,do_lap,16,16,có
+50924,Ferritin,don_vi,ng/mL (76),ng/mL (76),có
+50925,Folate,nhom,Blood Chemistry,Blood Chemistry,có
+50925,Folate,label,Folate,Folate,có
+50925,Folate,ket_qua,29,29,có
+50925,Folate,benh_nhan,13,13,có
+50925,Folate,moc_do,29,29,có
+50925,Folate,gia_tri,16,16,có
+50925,Folate,do_lap,6,6,có
+50925,Folate,don_vi,ng/mL (29),ng/mL (29),có
+50927,Gamma Glutamyltransferase,nhom,Blood Chemistry,Blood Chemistry,có
+50927,Gamma Glutamyltransferase,label,Gamma Glutamyltransferase,Gamma Glutamyltransferase,có
+50927,Gamma Glutamyltransferase,ket_qua,4,4,có
+50927,Gamma Glutamyltransferase,benh_nhan,4,4,có
+50927,Gamma Glutamyltransferase,moc_do,4,4,có
+50927,Gamma Glutamyltransferase,gia_tri,4,4,có
+50927,Gamma Glutamyltransferase,do_lap,0,0,có
+50927,Gamma Glutamyltransferase,don_vi,IU/L (4),IU/L (4),có
+50930,Globulin,nhom,Blood Chemistry,Blood Chemistry,có
+50930,Globulin,label,Globulin,Globulin,có
+50930,Globulin,ket_qua,163,163,có
+50930,Globulin,benh_nhan,20,20,có
+50930,Globulin,moc_do,163,163,có
+50930,Globulin,gia_tri,25,25,có
+50930,Globulin,do_lap,5,5,có
+50930,Globulin,don_vi,g/dL (163),g/dL (163),có
+50931,Glucose,nhom,Blood Chemistry,Blood Chemistry,có
+50931,Glucose,label,Glucose,Glucose,có
+50931,Glucose,ket_qua,2711,2711,có
+50931,Glucose,benh_nhan,100,100,có
+50931,Glucose,moc_do,2708,2708,có
+50931,Glucose,gia_tri,1,1,có
+50931,Glucose,do_lap,100,100,có
+50931,Glucose,don_vi,mg/dL (2711),mg/dL (2711),có
+50933,Green Top Hold (plasma),nhom,Blood Chemistry,Blood Chemistry,có
+50933,Green Top Hold (plasma),label,Green Top Hold (plasma),Green Top Hold (plasma),có
+50933,Green Top Hold (plasma),ket_qua,137,137,có
+50933,Green Top Hold (plasma),benh_nhan,52,52,có
+50933,Green Top Hold (plasma),moc_do,137,137,có
+50933,Green Top Hold (plasma),gia_tri,1,1,có
+50933,Green Top Hold (plasma),do_lap,25,25,có
+50933,Green Top Hold (plasma),don_vi,Không có,Không có,có
+50934,H,nhom,Blood Chemistry,Blood Chemistry,có
+50934,H,label,H,H,có
+50934,H,ket_qua,1300,1300,có
+50934,H,benh_nhan,34,34,có
+50934,H,moc_do,1191,1191,có
+50934,H,gia_tri,120,120,có
+50934,H,do_lap,32,32,có
+50934,H,don_vi,U (2),U (2),có
+50935,Haptoglobin,nhom,Blood Chemistry,Blood Chemistry,có
+50935,Haptoglobin,label,Haptoglobin,Haptoglobin,có
+50935,Haptoglobin,ket_qua,75,75,có
+50935,Haptoglobin,benh_nhan,22,22,có
+50935,Haptoglobin,moc_do,75,75,có
+50935,Haptoglobin,gia_tri,48,48,có
+50935,Haptoglobin,do_lap,8,8,có
+50935,Haptoglobin,don_vi,mg/dL (75),mg/dL (75),có
+50937,Hepatitis A Virus Antibody,nhom,Blood Chemistry,Blood Chemistry,có
+50937,Hepatitis A Virus Antibody,label,Hepatitis A Virus Antibody,Hepatitis A Virus Antibody,có
+50937,Hepatitis A Virus Antibody,ket_qua,8,8,có
+50937,Hepatitis A Virus Antibody,benh_nhan,8,8,có
+50937,Hepatitis A Virus Antibody,moc_do,8,8,có
+50937,Hepatitis A Virus Antibody,gia_tri,1,1,có
+50937,Hepatitis A Virus Antibody,do_lap,0,0,có
+50937,Hepatitis A Virus Antibody,don_vi,N/A (1),N/A (1),có
+50938,Hepatitis A Virus IgM Antibody,nhom,Blood Chemistry,Blood Chemistry,có
+50938,Hepatitis A Virus IgM Antibody,label,Hepatitis A Virus IgM Antibody,Hepatitis A Virus IgM Antibody,có
+50938,Hepatitis A Virus IgM Antibody,ket_qua,2,2,có
+50938,Hepatitis A Virus IgM Antibody,benh_nhan,2,2,có
+50938,Hepatitis A Virus IgM Antibody,moc_do,2,2,có
+50938,Hepatitis A Virus IgM Antibody,gia_tri,1,1,có
+50938,Hepatitis A Virus IgM Antibody,do_lap,0,0,có
+50938,Hepatitis A Virus IgM Antibody,don_vi,Không có,Không có,có
+50940,Hepatitis B Surface Antibody,nhom,Blood Chemistry,Blood Chemistry,có
+50940,Hepatitis B Surface Antibody,label,Hepatitis B Surface Antibody,Hepatitis B Surface Antibody,có
+50940,Hepatitis B Surface Antibody,ket_qua,25,25,có
+50940,Hepatitis B Surface Antibody,benh_nhan,15,15,có
+50940,Hepatitis B Surface Antibody,moc_do,25,25,có
+50940,Hepatitis B Surface Antibody,gia_tri,0,0,có
+50940,Hepatitis B Surface Antibody,do_lap,5,5,có
+50940,Hepatitis B Surface Antibody,don_vi,N/A (5),N/A (5),có
+50941,Hepatitis B Surface Antigen,nhom,Blood Chemistry,Blood Chemistry,có
+50941,Hepatitis B Surface Antigen,label,Hepatitis B Surface Antigen,Hepatitis B Surface Antigen,có
+50941,Hepatitis B Surface Antigen,ket_qua,24,24,có
+50941,Hepatitis B Surface Antigen,benh_nhan,15,15,có
+50941,Hepatitis B Surface Antigen,moc_do,24,24,có
+50941,Hepatitis B Surface Antigen,gia_tri,0,0,có
+50941,Hepatitis B Surface Antigen,do_lap,5,5,có
+50941,Hepatitis B Surface Antigen,don_vi,N/A (5),N/A (5),có
+50942,Hepatitis B Virus Core Antibody,nhom,Blood Chemistry,Blood Chemistry,có
+50942,Hepatitis B Virus Core Antibody,label,Hepatitis B Virus Core Antibody,Hepatitis B Virus Core Antibody,có
+50942,Hepatitis B Virus Core Antibody,ket_qua,22,22,có
+50942,Hepatitis B Virus Core Antibody,benh_nhan,13,13,có
+50942,Hepatitis B Virus Core Antibody,moc_do,22,22,có
+50942,Hepatitis B Virus Core Antibody,gia_tri,0,0,có
+50942,Hepatitis B Virus Core Antibody,do_lap,5,5,có
+50942,Hepatitis B Virus Core Antibody,don_vi,N/A (5),N/A (5),có
+50943,Hepatitis C Virus Antibody,nhom,Blood Chemistry,Blood Chemistry,có
+50943,Hepatitis C Virus Antibody,label,Hepatitis C Virus Antibody,Hepatitis C Virus Antibody,có
+50943,Hepatitis C Virus Antibody,ket_qua,23,23,có
+50943,Hepatitis C Virus Antibody,benh_nhan,15,15,có
+50943,Hepatitis C Virus Antibody,moc_do,23,23,có
+50943,Hepatitis C Virus Antibody,gia_tri,0,0,có
+50943,Hepatitis C Virus Antibody,do_lap,4,4,có
+50943,Hepatitis C Virus Antibody,don_vi,N/A (5),N/A (5),có
+50946,Human Chorionic Gonadotropin,nhom,Blood Chemistry,Blood Chemistry,có
+50946,Human Chorionic Gonadotropin,label,Human Chorionic Gonadotropin,Human Chorionic Gonadotropin,có
+50946,Human Chorionic Gonadotropin,ket_qua,17,17,có
+50946,Human Chorionic Gonadotropin,benh_nhan,5,5,có
+50946,Human Chorionic Gonadotropin,moc_do,17,17,có
+50946,Human Chorionic Gonadotropin,gia_tri,1,1,có
+50946,Human Chorionic Gonadotropin,do_lap,2,2,có
+50946,Human Chorionic Gonadotropin,don_vi,mIU/mL (17),mIU/mL (17),có
+50947,I,nhom,Blood Chemistry,Blood Chemistry,có
+50947,I,label,I,I,có
+50947,I,ket_qua,1300,1300,có
+50947,I,benh_nhan,34,34,có
+50947,I,moc_do,1191,1191,có
+50947,I,gia_tri,8,8,có
+50947,I,do_lap,32,32,có
+50947,I,don_vi,U (2),U (2),có
+50948,Immunofixation,nhom,Blood Chemistry,Blood Chemistry,có
+50948,Immunofixation,label,Immunofixation,Immunofixation,có
+50948,Immunofixation,ket_qua,8,8,có
+50948,Immunofixation,benh_nhan,7,7,có
+50948,Immunofixation,moc_do,8,8,có
+50948,Immunofixation,gia_tri,0,0,có
+50948,Immunofixation,do_lap,1,1,có
+50948,Immunofixation,don_vi,Không có,Không có,có
+50949,Immunoglobulin A,nhom,Blood Chemistry,Blood Chemistry,có
+50949,Immunoglobulin A,label,Immunoglobulin A,Immunoglobulin A,có
+50949,Immunoglobulin A,ket_qua,21,21,có
+50949,Immunoglobulin A,benh_nhan,13,13,có
+50949,Immunoglobulin A,moc_do,21,21,có
+50949,Immunoglobulin A,gia_tri,21,21,có
+50949,Immunoglobulin A,do_lap,5,5,có
+50949,Immunoglobulin A,don_vi,mg/dL (21),mg/dL (21),có
+50950,Immunoglobulin G,nhom,Blood Chemistry,Blood Chemistry,có
+50950,Immunoglobulin G,label,Immunoglobulin G,Immunoglobulin G,có
+50950,Immunoglobulin G,ket_qua,26,26,có
+50950,Immunoglobulin G,benh_nhan,14,14,có
+50950,Immunoglobulin G,moc_do,26,26,có
+50950,Immunoglobulin G,gia_tri,26,26,có
+50950,Immunoglobulin G,do_lap,5,5,có
+50950,Immunoglobulin G,don_vi,mg/dL (26),mg/dL (26),có
+50951,Immunoglobulin M,nhom,Blood Chemistry,Blood Chemistry,có
+50951,Immunoglobulin M,label,Immunoglobulin M,Immunoglobulin M,có
+50951,Immunoglobulin M,ket_qua,20,20,có
+50951,Immunoglobulin M,benh_nhan,13,13,có
+50951,Immunoglobulin M,moc_do,20,20,có
+50951,Immunoglobulin M,gia_tri,19,19,có
+50951,Immunoglobulin M,do_lap,4,4,có
+50951,Immunoglobulin M,don_vi,mg/dL (20),mg/dL (20),có
+50952,Iron,nhom,Blood Chemistry,Blood Chemistry,có
+50952,Iron,label,Iron,Iron,có
+50952,Iron,ket_qua,58,58,có
+50952,Iron,benh_nhan,30,30,có
+50952,Iron,moc_do,58,58,có
+50952,Iron,gia_tri,44,44,có
+50952,Iron,do_lap,13,13,có
+50952,Iron,don_vi,ug/dL (58),ug/dL (58),có
+50953,"Iron Binding Capacity, Total",nhom,Blood Chemistry,Blood Chemistry,có
+50953,"Iron Binding Capacity, Total",label,"Iron Binding Capacity, Total","Iron Binding Capacity, Total",có
+50953,"Iron Binding Capacity, Total",ket_qua,53,53,có
+50953,"Iron Binding Capacity, Total",benh_nhan,29,29,có
+50953,"Iron Binding Capacity, Total",moc_do,53,53,có
+50953,"Iron Binding Capacity, Total",gia_tri,53,53,có
+50953,"Iron Binding Capacity, Total",do_lap,11,11,có
+50953,"Iron Binding Capacity, Total",don_vi,ug/dL (53),ug/dL (53),có
+50954,Lactate Dehydrogenase (LD),nhom,Blood Chemistry,Blood Chemistry,có
+50954,Lactate Dehydrogenase (LD),label,Lactate Dehydrogenase (LD),Lactate Dehydrogenase (LD),có
+50954,Lactate Dehydrogenase (LD),ket_qua,663,663,có
+50954,Lactate Dehydrogenase (LD),benh_nhan,59,59,có
+50954,Lactate Dehydrogenase (LD),moc_do,662,662,có
+50954,Lactate Dehydrogenase (LD),gia_tri,349,349,có
+50954,Lactate Dehydrogenase (LD),do_lap,38,38,có
+50954,Lactate Dehydrogenase (LD),don_vi,IU/L (663),IU/L (663),có
+50955,Light Green Top Hold,nhom,Blood Chemistry,Blood Chemistry,có
+50955,Light Green Top Hold,label,Light Green Top Hold,Light Green Top Hold,có
+50955,Light Green Top Hold,ket_qua,101,101,có
+50955,Light Green Top Hold,benh_nhan,39,39,có
+50955,Light Green Top Hold,moc_do,101,101,có
+50955,Light Green Top Hold,gia_tri,1,1,có
+50955,Light Green Top Hold,do_lap,19,19,có
+50955,Light Green Top Hold,don_vi,Không có,Không có,có
+50956,Lipase,nhom,Blood Chemistry,Blood Chemistry,có
+50956,Lipase,label,Lipase,Lipase,có
+50956,Lipase,ket_qua,126,126,có
+50956,Lipase,benh_nhan,46,46,có
+50956,Lipase,moc_do,126,126,có
+50956,Lipase,gia_tri,76,76,có
+50956,Lipase,do_lap,23,23,có
+50956,Lipase,don_vi,IU/L (126),IU/L (126),có
+50957,Lithium,nhom,Blood Chemistry,Blood Chemistry,có
+50957,Lithium,label,Lithium,Lithium,có
+50957,Lithium,ket_qua,1,1,có
+50957,Lithium,benh_nhan,1,1,có
+50957,Lithium,moc_do,1,1,có
+50957,Lithium,gia_tri,0,0,có
+50957,Lithium,do_lap,0,0,có
+50957,Lithium,don_vi,mmol/L (1),mmol/L (1),có
+50960,Magnesium,nhom,Blood Chemistry,Blood Chemistry,có
+50960,Magnesium,label,Magnesium,Magnesium,có
+50960,Magnesium,ket_qua,2470,2470,có
+50960,Magnesium,benh_nhan,100,100,có
+50960,Magnesium,moc_do,2468,2468,có
+50960,Magnesium,gia_tri,29,29,có
+50960,Magnesium,do_lap,100,100,có
+50960,Magnesium,don_vi,mg/dL (2470),mg/dL (2470),có
+50963,NTproBNP,nhom,Blood Chemistry,Blood Chemistry,có
+50963,NTproBNP,label,NTproBNP,NTproBNP,có
+50963,NTproBNP,ket_qua,76,76,có
+50963,NTproBNP,benh_nhan,27,27,có
+50963,NTproBNP,moc_do,76,76,có
+50963,NTproBNP,gia_tri,1,1,có
+50963,NTproBNP,do_lap,14,14,có
+50963,NTproBNP,don_vi,pg/mL (76),pg/mL (76),có
+50964,"Osmolality, Measured",nhom,Blood Chemistry,Blood Chemistry,có
+50964,"Osmolality, Measured",label,"Osmolality, Measured","Osmolality, Measured",có
+50964,"Osmolality, Measured",ket_qua,30,30,có
+50964,"Osmolality, Measured",benh_nhan,13,13,có
+50964,"Osmolality, Measured",moc_do,30,30,có
+50964,"Osmolality, Measured",gia_tri,26,26,có
+50964,"Osmolality, Measured",do_lap,7,7,có
+50964,"Osmolality, Measured",don_vi,mOsm/kg (30),mOsm/kg (30),có
+50965,Parathyroid Hormone,nhom,Blood Chemistry,Blood Chemistry,có
+50965,Parathyroid Hormone,label,Parathyroid Hormone,Parathyroid Hormone,có
+50965,Parathyroid Hormone,ket_qua,13,13,có
+50965,Parathyroid Hormone,benh_nhan,9,9,có
+50965,Parathyroid Hormone,moc_do,13,13,có
+50965,Parathyroid Hormone,gia_tri,12,12,có
+50965,Parathyroid Hormone,do_lap,3,3,có
+50965,Parathyroid Hormone,don_vi,pg/mL (13),pg/mL (13),có
+50966,Phenobarbital,nhom,Blood Chemistry,Blood Chemistry,có
+50966,Phenobarbital,label,Phenobarbital,Phenobarbital,có
+50966,Phenobarbital,ket_qua,1,1,có
+50966,Phenobarbital,benh_nhan,1,1,có
+50966,Phenobarbital,moc_do,1,1,có
+50966,Phenobarbital,gia_tri,1,1,có
+50966,Phenobarbital,do_lap,0,0,có
+50966,Phenobarbital,don_vi,ug/mL (1),ug/mL (1),có
+50967,Phenytoin,nhom,Blood Chemistry,Blood Chemistry,có
+50967,Phenytoin,label,Phenytoin,Phenytoin,có
+50967,Phenytoin,ket_qua,13,13,có
+50967,Phenytoin,benh_nhan,4,4,có
+50967,Phenytoin,moc_do,13,13,có
+50967,Phenytoin,gia_tri,13,13,có
+50967,Phenytoin,do_lap,2,2,có
+50967,Phenytoin,don_vi,ug/mL (13),ug/mL (13),có
+50970,Phosphate,nhom,Blood Chemistry,Blood Chemistry,có
+50970,Phosphate,label,Phosphate,Phosphate,có
+50970,Phosphate,ket_qua,2337,2337,có
+50970,Phosphate,benh_nhan,100,100,có
+50970,Phosphate,moc_do,2335,2335,có
+50970,Phosphate,gia_tri,92,92,có
+50970,Phosphate,do_lap,95,95,có
+50970,Phosphate,don_vi,mg/dL (2337),mg/dL (2337),có
+50971,Potassium,nhom,Blood Chemistry,Blood Chemistry,có
+50971,Potassium,label,Potassium,Potassium,có
+50971,Potassium,ket_qua,3022,3022,có
+50971,Potassium,benh_nhan,100,100,có
+50971,Potassium,moc_do,3018,3018,có
+50971,Potassium,gia_tri,31,31,có
+50971,Potassium,do_lap,100,100,có
+50971,Potassium,don_vi,mEq/L (3022),mEq/L (3022),có
+50973,Prolactin,nhom,Blood Chemistry,Blood Chemistry,có
+50973,Prolactin,label,Prolactin,Prolactin,có
+50973,Prolactin,ket_qua,1,1,có
+50973,Prolactin,benh_nhan,1,1,có
+50973,Prolactin,moc_do,1,1,có
+50973,Prolactin,gia_tri,1,1,có
+50973,Prolactin,do_lap,0,0,có
+50973,Prolactin,don_vi,ng/mL (1),ng/mL (1),có
+50974,Prostate Specific Antigen,nhom,Blood Chemistry,Blood Chemistry,có
+50974,Prostate Specific Antigen,label,Prostate Specific Antigen,Prostate Specific Antigen,có
+50974,Prostate Specific Antigen,ket_qua,10,10,có
+50974,Prostate Specific Antigen,benh_nhan,8,8,có
+50974,Prostate Specific Antigen,moc_do,10,10,có
+50974,Prostate Specific Antigen,gia_tri,1,1,có
+50974,Prostate Specific Antigen,do_lap,2,2,có
+50974,Prostate Specific Antigen,don_vi,ng/mL (10),ng/mL (10),có
+50975,Protein Electrophoresis,nhom,Blood Chemistry,Blood Chemistry,có
+50975,Protein Electrophoresis,label,Protein Electrophoresis,Protein Electrophoresis,có
+50975,Protein Electrophoresis,ket_qua,16,16,có
+50975,Protein Electrophoresis,benh_nhan,13,13,có
+50975,Protein Electrophoresis,moc_do,16,16,có
+50975,Protein Electrophoresis,gia_tri,0,0,có
+50975,Protein Electrophoresis,do_lap,2,2,có
+50975,Protein Electrophoresis,don_vi,Không có,Không có,có
+50976,"Protein, Total",nhom,Blood Chemistry,Blood Chemistry,có
+50976,"Protein, Total",label,"Protein, Total","Protein, Total",có
+50976,"Protein, Total",ket_qua,181,181,có
+50976,"Protein, Total",benh_nhan,29,29,có
+50976,"Protein, Total",moc_do,181,181,có
+50976,"Protein, Total",gia_tri,35,35,có
+50976,"Protein, Total",do_lap,9,9,có
+50976,"Protein, Total",don_vi,g/dL (181),g/dL (181),có
+50979,Red Top Hold,nhom,Blood Chemistry,Blood Chemistry,có
+50979,Red Top Hold,label,Red Top Hold,Red Top Hold,có
+50979,Red Top Hold,ket_qua,133,133,có
+50979,Red Top Hold,benh_nhan,42,42,có
+50979,Red Top Hold,moc_do,129,129,có
+50979,Red Top Hold,gia_tri,0,0,có
+50979,Red Top Hold,do_lap,19,19,có
+50979,Red Top Hold,don_vi,Không có,Không có,có
+50980,Rheumatoid Factor,nhom,Blood Chemistry,Blood Chemistry,có
+50980,Rheumatoid Factor,label,Rheumatoid Factor,Rheumatoid Factor,có
+50980,Rheumatoid Factor,ket_qua,2,2,có
+50980,Rheumatoid Factor,benh_nhan,2,2,có
+50980,Rheumatoid Factor,moc_do,2,2,có
+50980,Rheumatoid Factor,gia_tri,1,1,có
+50980,Rheumatoid Factor,do_lap,0,0,có
+50980,Rheumatoid Factor,don_vi,IU/mL (2),IU/mL (2),có
+50981,Salicylate,nhom,Blood Chemistry,Blood Chemistry,có
+50981,Salicylate,label,Salicylate,Salicylate,có
+50981,Salicylate,ket_qua,48,48,có
+50981,Salicylate,benh_nhan,28,28,có
+50981,Salicylate,moc_do,48,48,có
+50981,Salicylate,gia_tri,1,1,có
+50981,Salicylate,do_lap,6,6,có
+50981,Salicylate,don_vi,mg/dL (48),mg/dL (48),có
+50983,Sodium,nhom,Blood Chemistry,Blood Chemistry,có
+50983,Sodium,label,Sodium,Sodium,có
+50983,Sodium,ket_qua,3007,3007,có
+50983,Sodium,benh_nhan,100,100,có
+50983,Sodium,moc_do,3003,3003,có
+50983,Sodium,gia_tri,27,27,có
+50983,Sodium,do_lap,100,100,có
+50983,Sodium,don_vi,mEq/L (3007),mEq/L (3007),có
+50986,tacroFK,nhom,Blood Chemistry,Blood Chemistry,có
+50986,tacroFK,label,tacroFK,tacroFK,có
+50986,tacroFK,ket_qua,41,41,có
+50986,tacroFK,benh_nhan,1,1,có
+50986,tacroFK,moc_do,41,41,có
+50986,tacroFK,gia_tri,1,1,có
+50986,tacroFK,do_lap,1,1,có
+50986,tacroFK,don_vi,ng/mL (41),ng/mL (41),có
+50991,Thyroglobulin,nhom,Blood Chemistry,Blood Chemistry,có
+50991,Thyroglobulin,label,Thyroglobulin,Thyroglobulin,có
+50991,Thyroglobulin,ket_qua,2,2,có
+50991,Thyroglobulin,benh_nhan,2,2,có
+50991,Thyroglobulin,moc_do,2,2,có
+50991,Thyroglobulin,gia_tri,0,0,có
+50991,Thyroglobulin,do_lap,0,0,có
+50991,Thyroglobulin,don_vi,ng/mL (2),ng/mL (2),có
+50992,Thyroid Peroxidase Antibodies,nhom,Blood Chemistry,Blood Chemistry,có
+50992,Thyroid Peroxidase Antibodies,label,Thyroid Peroxidase Antibodies,Thyroid Peroxidase Antibodies,có
+50992,Thyroid Peroxidase Antibodies,ket_qua,2,2,có
+50992,Thyroid Peroxidase Antibodies,benh_nhan,2,2,có
+50992,Thyroid Peroxidase Antibodies,moc_do,2,2,có
+50992,Thyroid Peroxidase Antibodies,gia_tri,1,1,có
+50992,Thyroid Peroxidase Antibodies,do_lap,0,0,có
+50992,Thyroid Peroxidase Antibodies,don_vi,IU/mL (2),IU/mL (2),có
+50993,Thyroid Stimulating Hormone,nhom,Blood Chemistry,Blood Chemistry,có
+50993,Thyroid Stimulating Hormone,label,Thyroid Stimulating Hormone,Thyroid Stimulating Hormone,có
+50993,Thyroid Stimulating Hormone,ket_qua,120,120,có
+50993,Thyroid Stimulating Hormone,benh_nhan,41,41,có
+50993,Thyroid Stimulating Hormone,moc_do,120,120,có
+50993,Thyroid Stimulating Hormone,gia_tri,71,71,có
+50993,Thyroid Stimulating Hormone,do_lap,19,19,có
+50993,Thyroid Stimulating Hormone,don_vi,uIU/mL (120),uIU/mL (120),có
+50994,Thyroxine (T4),nhom,Blood Chemistry,Blood Chemistry,có
+50994,Thyroxine (T4),label,Thyroxine (T4),Thyroxine (T4),có
+50994,Thyroxine (T4),ket_qua,13,13,có
+50994,Thyroxine (T4),benh_nhan,11,11,có
+50994,Thyroxine (T4),moc_do,13,13,có
+50994,Thyroxine (T4),gia_tri,12,12,có
+50994,Thyroxine (T4),do_lap,2,2,có
+50994,Thyroxine (T4),don_vi,ug/dL (13),ug/dL (13),có
+50995,"Thyroxine (T4), Free",nhom,Blood Chemistry,Blood Chemistry,có
+50995,"Thyroxine (T4), Free",label,"Thyroxine (T4), Free","Thyroxine (T4), Free",có
+50995,"Thyroxine (T4), Free",ket_qua,33,33,có
+50995,"Thyroxine (T4), Free",benh_nhan,14,14,có
+50995,"Thyroxine (T4), Free",moc_do,33,33,có
+50995,"Thyroxine (T4), Free",gia_tri,14,14,có
+50995,"Thyroxine (T4), Free",do_lap,6,6,có
+50995,"Thyroxine (T4), Free",don_vi,ng/dL (33),ng/dL (33),có
+50996,"Tissue Transglutaminase Ab, IgA",nhom,Blood Chemistry,Blood Chemistry,có
+50996,"Tissue Transglutaminase Ab, IgA",label,"Tissue Transglutaminase Ab, IgA","Tissue Transglutaminase Ab, IgA",có
+50996,"Tissue Transglutaminase Ab, IgA",ket_qua,1,1,có
+50996,"Tissue Transglutaminase Ab, IgA",benh_nhan,1,1,có
+50996,"Tissue Transglutaminase Ab, IgA",moc_do,1,1,có
+50996,"Tissue Transglutaminase Ab, IgA",gia_tri,1,1,có
+50996,"Tissue Transglutaminase Ab, IgA",do_lap,0,0,có
+50996,"Tissue Transglutaminase Ab, IgA",don_vi,units (1),units (1),có
+50997,Tobramycin,nhom,Blood Chemistry,Blood Chemistry,có
+50997,Tobramycin,label,Tobramycin,Tobramycin,có
+50997,Tobramycin,ket_qua,2,2,có
+50997,Tobramycin,benh_nhan,2,2,có
+50997,Tobramycin,moc_do,2,2,có
+50997,Tobramycin,gia_tri,2,2,có
+50997,Tobramycin,do_lap,0,0,có
+50997,Tobramycin,don_vi,ug/mL (2),ug/mL (2),có
+50998,Transferrin,nhom,Blood Chemistry,Blood Chemistry,có
+50998,Transferrin,label,Transferrin,Transferrin,có
+50998,Transferrin,ket_qua,53,53,có
+50998,Transferrin,benh_nhan,29,29,có
+50998,Transferrin,moc_do,53,53,có
+50998,Transferrin,gia_tri,53,53,có
+50998,Transferrin,do_lap,11,11,có
+50998,Transferrin,don_vi,mg/dL (53),mg/dL (53),có
+50999,Tricyclic Antidepressant Screen,nhom,Blood Chemistry,Blood Chemistry,có
+50999,Tricyclic Antidepressant Screen,label,Tricyclic Antidepressant Screen,Tricyclic Antidepressant Screen,có
+50999,Tricyclic Antidepressant Screen,ket_qua,45,45,có
+50999,Tricyclic Antidepressant Screen,benh_nhan,26,26,có
+50999,Tricyclic Antidepressant Screen,moc_do,45,45,có
+50999,Tricyclic Antidepressant Screen,gia_tri,2,2,có
+50999,Tricyclic Antidepressant Screen,do_lap,5,5,có
+50999,Tricyclic Antidepressant Screen,don_vi,N/A (11),N/A (11),có
+51000,Triglycerides,nhom,Blood Chemistry,Blood Chemistry,có
+51000,Triglycerides,label,Triglycerides,Triglycerides,có
+51000,Triglycerides,ket_qua,78,78,có
+51000,Triglycerides,benh_nhan,38,38,có
+51000,Triglycerides,moc_do,78,78,có
+51000,Triglycerides,gia_tri,27,27,có
+51000,Triglycerides,do_lap,14,14,có
+51000,Triglycerides,don_vi,mg/dL (78),mg/dL (78),có
+51001,Triiodothyronine (T3),nhom,Blood Chemistry,Blood Chemistry,có
+51001,Triiodothyronine (T3),label,Triiodothyronine (T3),Triiodothyronine (T3),có
+51001,Triiodothyronine (T3),ket_qua,13,13,có
+51001,Triiodothyronine (T3),benh_nhan,7,7,có
+51001,Triiodothyronine (T3),moc_do,13,13,có
+51001,Triiodothyronine (T3),gia_tri,12,12,có
+51001,Triiodothyronine (T3),do_lap,2,2,có
+51001,Triiodothyronine (T3),don_vi,ng/dL (13),ng/dL (13),có
+51003,Troponin T,nhom,Blood Chemistry,Blood Chemistry,có
+51003,Troponin T,label,Troponin T,Troponin T,có
+51003,Troponin T,ket_qua,278,278,có
+51003,Troponin T,benh_nhan,59,59,có
+51003,Troponin T,moc_do,277,277,có
+51003,Troponin T,gia_tri,1,1,có
+51003,Troponin T,do_lap,46,46,có
+51003,Troponin T,don_vi,ng/mL (278),ng/mL (278),có
+51005,Uptake Ratio,nhom,Blood Chemistry,Blood Chemistry,có
+51005,Uptake Ratio,label,Uptake Ratio,Uptake Ratio,có
+51005,Uptake Ratio,ket_qua,1,1,có
+51005,Uptake Ratio,benh_nhan,1,1,có
+51005,Uptake Ratio,moc_do,1,1,có
+51005,Uptake Ratio,gia_tri,1,1,có
+51005,Uptake Ratio,do_lap,0,0,có
+51005,Uptake Ratio,don_vi,Ratio (1),Ratio (1),có
+51006,Urea Nitrogen,nhom,Blood Chemistry,Blood Chemistry,có
+51006,Urea Nitrogen,label,Urea Nitrogen,Urea Nitrogen,có
+51006,Urea Nitrogen,ket_qua,2974,2974,có
+51006,Urea Nitrogen,benh_nhan,100,100,có
+51006,Urea Nitrogen,moc_do,2969,2969,có
+51006,Urea Nitrogen,gia_tri,133,133,có
+51006,Urea Nitrogen,do_lap,100,100,có
+51006,Urea Nitrogen,don_vi,mg/dL (2974),mg/dL (2974),có
+51007,Uric Acid,nhom,Blood Chemistry,Blood Chemistry,có
+51007,Uric Acid,label,Uric Acid,Uric Acid,có
+51007,Uric Acid,ket_qua,282,282,có
+51007,Uric Acid,benh_nhan,8,8,có
+51007,Uric Acid,moc_do,282,282,có
+51007,Uric Acid,gia_tri,109,109,có
+51007,Uric Acid,do_lap,6,6,có
+51007,Uric Acid,don_vi,mg/dL (282),mg/dL (282),có
+51009,Vancomycin,nhom,Blood Chemistry,Blood Chemistry,có
+51009,Vancomycin,label,Vancomycin,Vancomycin,có
+51009,Vancomycin,ket_qua,153,153,có
+51009,Vancomycin,benh_nhan,33,33,có
+51009,Vancomycin,moc_do,153,153,có
+51009,Vancomycin,gia_tri,108,108,có
+51009,Vancomycin,do_lap,25,25,có
+51009,Vancomycin,don_vi,ug/mL (153),ug/mL (153),có
+51010,Vitamin B12,nhom,Blood Chemistry,Blood Chemistry,có
+51010,Vitamin B12,label,Vitamin B12,Vitamin B12,có
+51010,Vitamin B12,ket_qua,49,49,có
+51010,Vitamin B12,benh_nhan,23,23,có
+51010,Vitamin B12,moc_do,49,49,có
+51010,Vitamin B12,gia_tri,42,42,có
+51010,Vitamin B12,do_lap,9,9,có
+51010,Vitamin B12,don_vi,pg/mL (49),pg/mL (49),có
+51025,"Albumin, Body Fluid",nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51025,"Albumin, Body Fluid",label,"Albumin, Body Fluid","Albumin, Body Fluid",có
+51025,"Albumin, Body Fluid",ket_qua,1,1,có
+51025,"Albumin, Body Fluid",benh_nhan,1,1,có
+51025,"Albumin, Body Fluid",moc_do,1,1,có
+51025,"Albumin, Body Fluid",gia_tri,1,1,có
+51025,"Albumin, Body Fluid",do_lap,0,0,có
+51025,"Albumin, Body Fluid",don_vi,g/dL (1),g/dL (1),có
+51026,"Amylase, Body Fluid",nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51026,"Amylase, Body Fluid",label,"Amylase, Body Fluid","Amylase, Body Fluid",có
+51026,"Amylase, Body Fluid",ket_qua,2,2,có
+51026,"Amylase, Body Fluid",benh_nhan,2,2,có
+51026,"Amylase, Body Fluid",moc_do,2,2,có
+51026,"Amylase, Body Fluid",gia_tri,2,2,có
+51026,"Amylase, Body Fluid",do_lap,0,0,có
+51026,"Amylase, Body Fluid",don_vi,IU/L (2),IU/L (2),có
+51028,"Bilirubin, Total, Body Fluid",nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51028,"Bilirubin, Total, Body Fluid",label,"Bilirubin, Total, Body Fluid","Bilirubin, Total, Body Fluid",có
+51028,"Bilirubin, Total, Body Fluid",ket_qua,1,1,có
+51028,"Bilirubin, Total, Body Fluid",benh_nhan,1,1,có
+51028,"Bilirubin, Total, Body Fluid",moc_do,1,1,có
+51028,"Bilirubin, Total, Body Fluid",gia_tri,1,1,có
+51028,"Bilirubin, Total, Body Fluid",do_lap,0,0,có
+51028,"Bilirubin, Total, Body Fluid",don_vi,mg/dL (1),mg/dL (1),có
+51034,"Glucose, Body Fluid",nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51034,"Glucose, Body Fluid",label,"Glucose, Body Fluid","Glucose, Body Fluid",có
+51034,"Glucose, Body Fluid",ket_qua,2,2,có
+51034,"Glucose, Body Fluid",benh_nhan,2,2,có
+51034,"Glucose, Body Fluid",moc_do,2,2,có
+51034,"Glucose, Body Fluid",gia_tri,2,2,có
+51034,"Glucose, Body Fluid",do_lap,0,0,có
+51034,"Glucose, Body Fluid",don_vi,mg/dL (2),mg/dL (2),có
+51035,"LD, Body Fluid",nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51035,"LD, Body Fluid",label,"LD, Body Fluid","LD, Body Fluid",có
+51035,"LD, Body Fluid",ket_qua,2,2,có
+51035,"LD, Body Fluid",benh_nhan,2,2,có
+51035,"LD, Body Fluid",moc_do,2,2,có
+51035,"LD, Body Fluid",gia_tri,2,2,có
+51035,"LD, Body Fluid",do_lap,0,0,có
+51035,"LD, Body Fluid",don_vi,IU/L (2),IU/L (2),có
+51038,"Miscellaneous, Body Fluid",nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51038,"Miscellaneous, Body Fluid",label,"Miscellaneous, Body Fluid","Miscellaneous, Body Fluid",có
+51038,"Miscellaneous, Body Fluid",ket_qua,1,1,có
+51038,"Miscellaneous, Body Fluid",benh_nhan,1,1,có
+51038,"Miscellaneous, Body Fluid",moc_do,1,1,có
+51038,"Miscellaneous, Body Fluid",gia_tri,0,0,có
+51038,"Miscellaneous, Body Fluid",do_lap,0,0,có
+51038,"Miscellaneous, Body Fluid",don_vi,Không có,Không có,có
+51043,"Total Protein, Body Fluid",nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51043,"Total Protein, Body Fluid",label,"Total Protein, Body Fluid","Total Protein, Body Fluid",có
+51043,"Total Protein, Body Fluid",ket_qua,2,2,có
+51043,"Total Protein, Body Fluid",benh_nhan,2,2,có
+51043,"Total Protein, Body Fluid",moc_do,2,2,có
+51043,"Total Protein, Body Fluid",gia_tri,2,2,có
+51043,"Total Protein, Body Fluid",do_lap,0,0,có
+51043,"Total Protein, Body Fluid",don_vi,g/dL (2),g/dL (2),có
+51044,Triglycer,nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51044,Triglycer,label,Triglycer,Triglycer,có
+51044,Triglycer,ket_qua,1,1,có
+51044,Triglycer,benh_nhan,1,1,có
+51044,Triglycer,moc_do,1,1,có
+51044,Triglycer,gia_tri,1,1,có
+51044,Triglycer,do_lap,0,0,có
+51044,Triglycer,don_vi,mg/dL (1),mg/dL (1),có
+51046,"Albumin, Pleural",nhom,Pleural Chemistry,Pleural Chemistry,có
+51046,"Albumin, Pleural",label,"Albumin, Pleural","Albumin, Pleural",có
+51046,"Albumin, Pleural",ket_qua,6,6,có
+51046,"Albumin, Pleural",benh_nhan,6,6,có
+51046,"Albumin, Pleural",moc_do,6,6,có
+51046,"Albumin, Pleural",gia_tri,5,5,có
+51046,"Albumin, Pleural",do_lap,0,0,có
+51046,"Albumin, Pleural",don_vi,g/dL (6),g/dL (6),có
+51047,"Amylase, Pleural",nhom,Pleural Chemistry,Pleural Chemistry,có
+51047,"Amylase, Pleural",label,"Amylase, Pleural","Amylase, Pleural",có
+51047,"Amylase, Pleural",ket_qua,2,2,có
+51047,"Amylase, Pleural",benh_nhan,2,2,có
+51047,"Amylase, Pleural",moc_do,2,2,có
+51047,"Amylase, Pleural",gia_tri,2,2,có
+51047,"Amylase, Pleural",do_lap,0,0,có
+51047,"Amylase, Pleural",don_vi,IU/L (2),IU/L (2),có
+51051,"Cholesterol, Pleural",nhom,Pleural Chemistry,Pleural Chemistry,có
+51051,"Cholesterol, Pleural",label,"Cholesterol, Pleural","Cholesterol, Pleural",có
+51051,"Cholesterol, Pleural",ket_qua,4,4,có
+51051,"Cholesterol, Pleural",benh_nhan,4,4,có
+51051,"Cholesterol, Pleural",moc_do,4,4,có
+51051,"Cholesterol, Pleural",gia_tri,4,4,có
+51051,"Cholesterol, Pleural",do_lap,0,0,có
+51051,"Cholesterol, Pleural",don_vi,mg/dL (4),mg/dL (4),có
+51052,"Creatinine, Pleural",nhom,Pleural Chemistry,Pleural Chemistry,có
+51052,"Creatinine, Pleural",label,"Creatinine, Pleural","Creatinine, Pleural",có
+51052,"Creatinine, Pleural",ket_qua,1,1,có
+51052,"Creatinine, Pleural",benh_nhan,1,1,có
+51052,"Creatinine, Pleural",moc_do,1,1,có
+51052,"Creatinine, Pleural",gia_tri,1,1,có
+51052,"Creatinine, Pleural",do_lap,0,0,có
+51052,"Creatinine, Pleural",don_vi,mg/dL (1),mg/dL (1),có
+51053,"Glucose, Pleural",nhom,Pleural Chemistry,Pleural Chemistry,có
+51053,"Glucose, Pleural",label,"Glucose, Pleural","Glucose, Pleural",có
+51053,"Glucose, Pleural",ket_qua,8,8,có
+51053,"Glucose, Pleural",benh_nhan,7,7,có
+51053,"Glucose, Pleural",moc_do,8,8,có
+51053,"Glucose, Pleural",gia_tri,8,8,có
+51053,"Glucose, Pleural",do_lap,1,1,có
+51053,"Glucose, Pleural",don_vi,mg/dL (8),mg/dL (8),có
+51054,"Lactate Dehydrogenase, Pleural",nhom,Pleural Chemistry,Pleural Chemistry,có
+51054,"Lactate Dehydrogenase, Pleural",label,"Lactate Dehydrogenase, Pleural","Lactate Dehydrogenase, Pleural",có
+51054,"Lactate Dehydrogenase, Pleural",ket_qua,9,9,có
+51054,"Lactate Dehydrogenase, Pleural",benh_nhan,8,8,có
+51054,"Lactate Dehydrogenase, Pleural",moc_do,9,9,có
+51054,"Lactate Dehydrogenase, Pleural",gia_tri,9,9,có
+51054,"Lactate Dehydrogenase, Pleural",do_lap,1,1,có
+51054,"Lactate Dehydrogenase, Pleural",don_vi,IU/L (9),IU/L (9),có
+51056,"Miscellaneous, Pleural",nhom,Pleural Chemistry,Pleural Chemistry,có
+51056,"Miscellaneous, Pleural",label,"Miscellaneous, Pleural","Miscellaneous, Pleural",có
+51056,"Miscellaneous, Pleural",ket_qua,2,2,có
+51056,"Miscellaneous, Pleural",benh_nhan,2,2,có
+51056,"Miscellaneous, Pleural",moc_do,2,2,có
+51056,"Miscellaneous, Pleural",gia_tri,0,0,có
+51056,"Miscellaneous, Pleural",do_lap,0,0,có
+51056,"Miscellaneous, Pleural",don_vi,Không có,Không có,có
+51059,"Total Protein, Pleural",nhom,Pleural Chemistry,Pleural Chemistry,có
+51059,"Total Protein, Pleural",label,"Total Protein, Pleural","Total Protein, Pleural",có
+51059,"Total Protein, Pleural",ket_qua,9,9,có
+51059,"Total Protein, Pleural",benh_nhan,8,8,có
+51059,"Total Protein, Pleural",moc_do,9,9,có
+51059,"Total Protein, Pleural",gia_tri,8,8,có
+51059,"Total Protein, Pleural",do_lap,1,1,có
+51059,"Total Protein, Pleural",don_vi,g/dL (9),g/dL (9),có
+51067,24 hr Creatinine,nhom,Urine Chemistry,Urine Chemistry,có
+51067,24 hr Creatinine,label,24 hr Creatinine,24 hr Creatinine,có
+51067,24 hr Creatinine,ket_qua,2,2,có
+51067,24 hr Creatinine,benh_nhan,1,1,có
+51067,24 hr Creatinine,moc_do,1,1,có
+51067,24 hr Creatinine,gia_tri,2,2,có
+51067,24 hr Creatinine,do_lap,1,1,có
+51067,24 hr Creatinine,don_vi,mg/24hr (2),mg/24hr (2),có
+51069,"Albumin, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51069,"Albumin, Urine",label,"Albumin, Urine","Albumin, Urine",có
+51069,"Albumin, Urine",ket_qua,26,26,có
+51069,"Albumin, Urine",benh_nhan,10,10,có
+51069,"Albumin, Urine",moc_do,26,26,có
+51069,"Albumin, Urine",gia_tri,16,16,có
+51069,"Albumin, Urine",do_lap,6,6,có
+51069,"Albumin, Urine",don_vi,mg/dL (26),mg/dL (26),có
+51070,"Albumin/Creatinine, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51070,"Albumin/Creatinine, Urine",label,"Albumin/Creatinine, Urine","Albumin/Creatinine, Urine",có
+51070,"Albumin/Creatinine, Urine",ket_qua,23,23,có
+51070,"Albumin/Creatinine, Urine",benh_nhan,8,8,có
+51070,"Albumin/Creatinine, Urine",moc_do,23,23,có
+51070,"Albumin/Creatinine, Urine",gia_tri,20,20,có
+51070,"Albumin/Creatinine, Urine",do_lap,5,5,có
+51070,"Albumin/Creatinine, Urine",don_vi,mg/g (23),mg/g (23),có
+51071,"Amphetamine Screen, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51071,"Amphetamine Screen, Urine",label,"Amphetamine Screen, Urine","Amphetamine Screen, Urine",có
+51071,"Amphetamine Screen, Urine",ket_qua,35,35,có
+51071,"Amphetamine Screen, Urine",benh_nhan,21,21,có
+51071,"Amphetamine Screen, Urine",moc_do,35,35,có
+51071,"Amphetamine Screen, Urine",gia_tri,2,2,có
+51071,"Amphetamine Screen, Urine",do_lap,5,5,có
+51071,"Amphetamine Screen, Urine",don_vi,N/A (7),N/A (7),có
+51074,"Barbiturate Screen, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51074,"Barbiturate Screen, Urine",label,"Barbiturate Screen, Urine","Barbiturate Screen, Urine",có
+51074,"Barbiturate Screen, Urine",ket_qua,34,34,có
+51074,"Barbiturate Screen, Urine",benh_nhan,20,20,có
+51074,"Barbiturate Screen, Urine",moc_do,34,34,có
+51074,"Barbiturate Screen, Urine",gia_tri,1,1,có
+51074,"Barbiturate Screen, Urine",do_lap,5,5,có
+51074,"Barbiturate Screen, Urine",don_vi,N/A (7),N/A (7),có
+51075,"Benzodiazepine Screen, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51075,"Benzodiazepine Screen, Urine",label,"Benzodiazepine Screen, Urine","Benzodiazepine Screen, Urine",có
+51075,"Benzodiazepine Screen, Urine",ket_qua,34,34,có
+51075,"Benzodiazepine Screen, Urine",benh_nhan,20,20,có
+51075,"Benzodiazepine Screen, Urine",moc_do,34,34,có
+51075,"Benzodiazepine Screen, Urine",gia_tri,2,2,có
+51075,"Benzodiazepine Screen, Urine",do_lap,5,5,có
+51075,"Benzodiazepine Screen, Urine",don_vi,N/A (7),N/A (7),có
+51076,"Bicarbonate, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51076,"Bicarbonate, Urine",label,"Bicarbonate, Urine","Bicarbonate, Urine",có
+51076,"Bicarbonate, Urine",ket_qua,6,6,có
+51076,"Bicarbonate, Urine",benh_nhan,6,6,có
+51076,"Bicarbonate, Urine",moc_do,6,6,có
+51076,"Bicarbonate, Urine",gia_tri,1,1,có
+51076,"Bicarbonate, Urine",do_lap,0,0,có
+51076,"Bicarbonate, Urine",don_vi,mEq/L (6),mEq/L (6),có
+51077,"Calcium, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51077,"Calcium, Urine",label,"Calcium, Urine","Calcium, Urine",có
+51077,"Calcium, Urine",ket_qua,2,2,có
+51077,"Calcium, Urine",benh_nhan,2,2,có
+51077,"Calcium, Urine",moc_do,2,2,có
+51077,"Calcium, Urine",gia_tri,1,1,có
+51077,"Calcium, Urine",do_lap,0,0,có
+51077,"Calcium, Urine",don_vi,mg/dL (2),mg/dL (2),có
+51078,"Chloride, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51078,"Chloride, Urine",label,"Chloride, Urine","Chloride, Urine",có
+51078,"Chloride, Urine",ket_qua,56,56,có
+51078,"Chloride, Urine",benh_nhan,30,30,có
+51078,"Chloride, Urine",moc_do,56,56,có
+51078,"Chloride, Urine",gia_tri,36,36,có
+51078,"Chloride, Urine",do_lap,14,14,có
+51078,"Chloride, Urine",don_vi,mEq/L (56),mEq/L (56),có
+51079,"Cocaine, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51079,"Cocaine, Urine",label,"Cocaine, Urine","Cocaine, Urine",có
+51079,"Cocaine, Urine",ket_qua,37,37,có
+51079,"Cocaine, Urine",benh_nhan,21,21,có
+51079,"Cocaine, Urine",moc_do,37,37,có
+51079,"Cocaine, Urine",gia_tri,2,2,có
+51079,"Cocaine, Urine",do_lap,5,5,có
+51079,"Cocaine, Urine",don_vi,N/A (9),N/A (9),có
+51080,Creatinine Clearance,nhom,Urine Chemistry,Urine Chemistry,có
+51080,Creatinine Clearance,label,Creatinine Clearance,Creatinine Clearance,có
+51080,Creatinine Clearance,ket_qua,1,1,có
+51080,Creatinine Clearance,benh_nhan,1,1,có
+51080,Creatinine Clearance,moc_do,1,1,có
+51080,Creatinine Clearance,gia_tri,1,1,có
+51080,Creatinine Clearance,do_lap,0,0,có
+51080,Creatinine Clearance,don_vi,mL/min (1),mL/min (1),có
+51081,"Creatinine, Serum",nhom,Urine Chemistry,Urine Chemistry,có
+51081,"Creatinine, Serum",label,"Creatinine, Serum","Creatinine, Serum",có
+51081,"Creatinine, Serum",ket_qua,1,1,có
+51081,"Creatinine, Serum",benh_nhan,1,1,có
+51081,"Creatinine, Serum",moc_do,1,1,có
+51081,"Creatinine, Serum",gia_tri,1,1,có
+51081,"Creatinine, Serum",do_lap,0,0,có
+51081,"Creatinine, Serum",don_vi,mg/dL (1),mg/dL (1),có
+51082,"Creatinine, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51082,"Creatinine, Urine",label,"Creatinine, Urine","Creatinine, Urine",có
+51082,"Creatinine, Urine",ket_qua,106,106,có
+51082,"Creatinine, Urine",benh_nhan,35,35,có
+51082,"Creatinine, Urine",moc_do,105,105,có
+51082,"Creatinine, Urine",gia_tri,78,78,có
+51082,"Creatinine, Urine",do_lap,21,21,có
+51082,"Creatinine, Urine",don_vi,mg/dL (106),mg/dL (106),có
+51085,"HCG, Urine, Qualitative",nhom,Urine Chemistry,Urine Chemistry,có
+51085,"HCG, Urine, Qualitative",label,"HCG, Urine, Qualitative","HCG, Urine, Qualitative",có
+51085,"HCG, Urine, Qualitative",ket_qua,18,18,có
+51085,"HCG, Urine, Qualitative",benh_nhan,9,9,có
+51085,"HCG, Urine, Qualitative",moc_do,18,18,có
+51085,"HCG, Urine, Qualitative",gia_tri,1,1,có
+51085,"HCG, Urine, Qualitative",do_lap,4,4,có
+51085,"HCG, Urine, Qualitative",don_vi,+/- (12); N/A (6),+/- (12); N/A (6),có
+51086,"Immunofixation, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51086,"Immunofixation, Urine",label,"Immunofixation, Urine","Immunofixation, Urine",có
+51086,"Immunofixation, Urine",ket_qua,1,1,có
+51086,"Immunofixation, Urine",benh_nhan,1,1,có
+51086,"Immunofixation, Urine",moc_do,1,1,có
+51086,"Immunofixation, Urine",gia_tri,0,0,có
+51086,"Immunofixation, Urine",do_lap,0,0,có
+51086,"Immunofixation, Urine",don_vi,Không có,Không có,có
+51087,Length of Urine Collection,nhom,Urine Chemistry,Urine Chemistry,có
+51087,Length of Urine Collection,label,Length of Urine Collection,Length of Urine Collection,có
+51087,Length of Urine Collection,ket_qua,302,302,có
+51087,Length of Urine Collection,benh_nhan,66,66,có
+51087,Length of Urine Collection,moc_do,253,253,có
+51087,Length of Urine Collection,gia_tri,1,1,có
+51087,Length of Urine Collection,do_lap,48,48,có
+51087,Length of Urine Collection,don_vi,Không có,Không có,có
+51088,"Magnesium, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51088,"Magnesium, Urine",label,"Magnesium, Urine","Magnesium, Urine",có
+51088,"Magnesium, Urine",ket_qua,3,3,có
+51088,"Magnesium, Urine",benh_nhan,3,3,có
+51088,"Magnesium, Urine",moc_do,3,3,có
+51088,"Magnesium, Urine",gia_tri,3,3,có
+51088,"Magnesium, Urine",do_lap,0,0,có
+51088,"Magnesium, Urine",don_vi,mg/dL (3),mg/dL (3),có
+51089,Marijuana,nhom,Urine Chemistry,Urine Chemistry,có
+51089,Marijuana,label,Marijuana,Marijuana,có
+51089,Marijuana,ket_qua,4,4,có
+51089,Marijuana,benh_nhan,2,2,có
+51089,Marijuana,moc_do,4,4,có
+51089,Marijuana,gia_tri,0,0,có
+51089,Marijuana,do_lap,2,2,có
+51089,Marijuana,don_vi,N/A (2),N/A (2),có
+51090,"Methadone, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51090,"Methadone, Urine",label,"Methadone, Urine","Methadone, Urine",có
+51090,"Methadone, Urine",ket_qua,33,33,có
+51090,"Methadone, Urine",benh_nhan,20,20,có
+51090,"Methadone, Urine",moc_do,33,33,có
+51090,"Methadone, Urine",gia_tri,2,2,có
+51090,"Methadone, Urine",do_lap,5,5,có
+51090,"Methadone, Urine",don_vi,N/A (6),N/A (6),có
+51092,"Opiate Screen, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51092,"Opiate Screen, Urine",label,"Opiate Screen, Urine","Opiate Screen, Urine",có
+51092,"Opiate Screen, Urine",ket_qua,36,36,có
+51092,"Opiate Screen, Urine",benh_nhan,20,20,có
+51092,"Opiate Screen, Urine",moc_do,36,36,có
+51092,"Opiate Screen, Urine",gia_tri,2,2,có
+51092,"Opiate Screen, Urine",do_lap,5,5,có
+51092,"Opiate Screen, Urine",don_vi,N/A (9),N/A (9),có
+51093,"Osmolality, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51093,"Osmolality, Urine",label,"Osmolality, Urine","Osmolality, Urine",có
+51093,"Osmolality, Urine",ket_qua,69,69,có
+51093,"Osmolality, Urine",benh_nhan,32,32,có
+51093,"Osmolality, Urine",moc_do,69,69,có
+51093,"Osmolality, Urine",gia_tri,64,64,có
+51093,"Osmolality, Urine",do_lap,13,13,có
+51093,"Osmolality, Urine",don_vi,mOsm/kg (69),mOsm/kg (69),có
+51094,pH,nhom,Urine Chemistry,Urine Chemistry,có
+51094,pH,label,pH,pH,có
+51094,pH,ket_qua,3,3,có
+51094,pH,benh_nhan,1,1,có
+51094,pH,moc_do,2,2,có
+51094,pH,gia_tri,2,2,có
+51094,pH,do_lap,1,1,có
+51094,pH,don_vi,Không có,Không có,có
+51095,"Phosphate, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51095,"Phosphate, Urine",label,"Phosphate, Urine","Phosphate, Urine",có
+51095,"Phosphate, Urine",ket_qua,5,5,có
+51095,"Phosphate, Urine",benh_nhan,5,5,có
+51095,"Phosphate, Urine",moc_do,5,5,có
+51095,"Phosphate, Urine",gia_tri,1,1,có
+51095,"Phosphate, Urine",do_lap,0,0,có
+51095,"Phosphate, Urine",don_vi,mg/dL (5),mg/dL (5),có
+51097,"Potassium, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51097,"Potassium, Urine",label,"Potassium, Urine","Potassium, Urine",có
+51097,"Potassium, Urine",ket_qua,53,53,có
+51097,"Potassium, Urine",benh_nhan,29,29,có
+51097,"Potassium, Urine",moc_do,53,53,có
+51097,"Potassium, Urine",gia_tri,34,34,có
+51097,"Potassium, Urine",do_lap,14,14,có
+51097,"Potassium, Urine",don_vi,mEq/L (53),mEq/L (53),có
+51098,"Prot. Electrophoresis, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51098,"Prot. Electrophoresis, Urine",label,"Prot. Electrophoresis, Urine","Prot. Electrophoresis, Urine",có
+51098,"Prot. Electrophoresis, Urine",ket_qua,4,4,có
+51098,"Prot. Electrophoresis, Urine",benh_nhan,4,4,có
+51098,"Prot. Electrophoresis, Urine",moc_do,4,4,có
+51098,"Prot. Electrophoresis, Urine",gia_tri,0,0,có
+51098,"Prot. Electrophoresis, Urine",do_lap,0,0,có
+51098,"Prot. Electrophoresis, Urine",don_vi,Không có,Không có,có
+51099,Protein/Creatinine Ratio,nhom,Urine Chemistry,Urine Chemistry,có
+51099,Protein/Creatinine Ratio,label,Protein/Creatinine Ratio,Protein/Creatinine Ratio,có
+51099,Protein/Creatinine Ratio,ket_qua,15,15,có
+51099,Protein/Creatinine Ratio,benh_nhan,9,9,có
+51099,Protein/Creatinine Ratio,moc_do,15,15,có
+51099,Protein/Creatinine Ratio,gia_tri,12,12,có
+51099,Protein/Creatinine Ratio,do_lap,5,5,có
+51099,Protein/Creatinine Ratio,don_vi,mg/mg (11); Ratio (4),mg/mg (11); Ratio (4),có
+51100,"Sodium, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51100,"Sodium, Urine",label,"Sodium, Urine","Sodium, Urine",có
+51100,"Sodium, Urine",ket_qua,87,87,có
+51100,"Sodium, Urine",benh_nhan,35,35,có
+51100,"Sodium, Urine",moc_do,87,87,có
+51100,"Sodium, Urine",gia_tri,49,49,có
+51100,"Sodium, Urine",do_lap,17,17,có
+51100,"Sodium, Urine",don_vi,mEq/L (87),mEq/L (87),có
+51101,Total Collection Time,nhom,Urine Chemistry,Urine Chemistry,có
+51101,Total Collection Time,label,Total Collection Time,Total Collection Time,có
+51101,Total Collection Time,ket_qua,1,1,có
+51101,Total Collection Time,benh_nhan,1,1,có
+51101,Total Collection Time,moc_do,1,1,có
+51101,Total Collection Time,gia_tri,1,1,có
+51101,Total Collection Time,do_lap,0,0,có
+51101,Total Collection Time,don_vi,hrs (1),hrs (1),có
+51102,"Total Protein, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51102,"Total Protein, Urine",label,"Total Protein, Urine","Total Protein, Urine",có
+51102,"Total Protein, Urine",ket_qua,18,18,có
+51102,"Total Protein, Urine",benh_nhan,12,12,có
+51102,"Total Protein, Urine",moc_do,18,18,có
+51102,"Total Protein, Urine",gia_tri,15,15,có
+51102,"Total Protein, Urine",do_lap,5,5,có
+51102,"Total Protein, Urine",don_vi,mg/dL (18),mg/dL (18),có
+51103,Uhold,nhom,Urine Chemistry,Urine Chemistry,có
+51103,Uhold,label,Uhold,Uhold,có
+51103,Uhold,ket_qua,83,83,có
+51103,Uhold,benh_nhan,38,38,có
+51103,Uhold,moc_do,83,83,có
+51103,Uhold,gia_tri,1,1,có
+51103,Uhold,do_lap,16,16,có
+51103,Uhold,don_vi,Không có,Không có,có
+51104,"Urea Nitrogen, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51104,"Urea Nitrogen, Urine",label,"Urea Nitrogen, Urine","Urea Nitrogen, Urine",có
+51104,"Urea Nitrogen, Urine",ket_qua,51,51,có
+51104,"Urea Nitrogen, Urine",benh_nhan,24,24,có
+51104,"Urea Nitrogen, Urine",moc_do,51,51,có
+51104,"Urea Nitrogen, Urine",gia_tri,49,49,có
+51104,"Urea Nitrogen, Urine",do_lap,11,11,có
+51104,"Urea Nitrogen, Urine",don_vi,mg/dL (51),mg/dL (51),có
+51105,"Uric Acid, Urine",nhom,Urine Chemistry,Urine Chemistry,có
+51105,"Uric Acid, Urine",label,"Uric Acid, Urine","Uric Acid, Urine",có
+51105,"Uric Acid, Urine",ket_qua,1,1,có
+51105,"Uric Acid, Urine",benh_nhan,1,1,có
+51105,"Uric Acid, Urine",moc_do,1,1,có
+51105,"Uric Acid, Urine",gia_tri,1,1,có
+51105,"Uric Acid, Urine",do_lap,0,0,có
+51105,"Uric Acid, Urine",don_vi,mg/dL (1),mg/dL (1),có
+51106,Urine Creatinine,nhom,Urine Chemistry,Urine Chemistry,có
+51106,Urine Creatinine,label,Urine Creatinine,Urine Creatinine,có
+51106,Urine Creatinine,ket_qua,1,1,có
+51106,Urine Creatinine,benh_nhan,1,1,có
+51106,Urine Creatinine,moc_do,1,1,có
+51106,Urine Creatinine,gia_tri,1,1,có
+51106,Urine Creatinine,do_lap,0,0,có
+51106,Urine Creatinine,don_vi,mg/dL (1),mg/dL (1),có
+51107,"Urine tube, held",nhom,Urine Chemistry,Urine Chemistry,có
+51107,"Urine tube, held",label,"Urine tube, held","Urine tube, held",có
+51107,"Urine tube, held",ket_qua,53,53,có
+51107,"Urine tube, held",benh_nhan,33,33,có
+51107,"Urine tube, held",moc_do,53,53,có
+51107,"Urine tube, held",gia_tri,1,1,có
+51107,"Urine tube, held",do_lap,12,12,có
+51107,"Urine tube, held",don_vi,Không có,Không có,có
+51108,Urine Volume,nhom,Urine Chemistry,Urine Chemistry,có
+51108,Urine Volume,label,Urine Volume,Urine Volume,có
+51108,Urine Volume,ket_qua,3,3,có
+51108,Urine Volume,benh_nhan,1,1,có
+51108,Urine Volume,moc_do,2,2,có
+51108,Urine Volume,gia_tri,2,2,có
+51108,Urine Volume,do_lap,1,1,có
+51108,Urine Volume,don_vi,mL (3),mL (3),có
+51109,"Urine Volume, Total",nhom,Urine Chemistry,Urine Chemistry,có
+51109,"Urine Volume, Total",label,"Urine Volume, Total","Urine Volume, Total",có
+51109,"Urine Volume, Total",ket_qua,1,1,có
+51109,"Urine Volume, Total",benh_nhan,1,1,có
+51109,"Urine Volume, Total",moc_do,1,1,có
+51109,"Urine Volume, Total",gia_tri,1,1,có
+51109,"Urine Volume, Total",do_lap,0,0,có
+51109,"Urine Volume, Total",don_vi,mL (1),mL (1),có
+51110,Atypical Lymphocytes,nhom,Ascites Hematology,Ascites Hematology,có
+51110,Atypical Lymphocytes,label,Atypical Lymphocytes,Atypical Lymphocytes,có
+51110,Atypical Lymphocytes,ket_qua,3,3,có
+51110,Atypical Lymphocytes,benh_nhan,2,2,có
+51110,Atypical Lymphocytes,moc_do,3,3,có
+51110,Atypical Lymphocytes,gia_tri,3,3,có
+51110,Atypical Lymphocytes,do_lap,1,1,có
+51110,Atypical Lymphocytes,don_vi,% (3),% (3),có
+51112,Basophils,nhom,Ascites Hematology,Ascites Hematology,có
+51112,Basophils,label,Basophils,Basophils,có
+51112,Basophils,ket_qua,2,2,có
+51112,Basophils,benh_nhan,2,2,có
+51112,Basophils,moc_do,2,2,có
+51112,Basophils,gia_tri,1,1,có
+51112,Basophils,do_lap,0,0,có
+51112,Basophils,don_vi,% (2),% (2),có
+51114,Eosinophils,nhom,Ascites Hematology,Ascites Hematology,có
+51114,Eosinophils,label,Eosinophils,Eosinophils,có
+51114,Eosinophils,ket_qua,4,4,có
+51114,Eosinophils,benh_nhan,3,3,có
+51114,Eosinophils,moc_do,4,4,có
+51114,Eosinophils,gia_tri,2,2,có
+51114,Eosinophils,do_lap,1,1,có
+51114,Eosinophils,don_vi,% (4),% (4),có
+51115,"Hematocrit, Ascites",nhom,Ascites Hematology,Ascites Hematology,có
+51115,"Hematocrit, Ascites",label,"Hematocrit, Ascites","Hematocrit, Ascites",có
+51115,"Hematocrit, Ascites",ket_qua,2,2,có
+51115,"Hematocrit, Ascites",benh_nhan,1,1,có
+51115,"Hematocrit, Ascites",moc_do,2,2,có
+51115,"Hematocrit, Ascites",gia_tri,1,1,có
+51115,"Hematocrit, Ascites",do_lap,1,1,có
+51115,"Hematocrit, Ascites",don_vi,% (2),% (2),có
+51116,Lymphocytes,nhom,Ascites Hematology,Ascites Hematology,có
+51116,Lymphocytes,label,Lymphocytes,Lymphocytes,có
+51116,Lymphocytes,ket_qua,21,21,có
+51116,Lymphocytes,benh_nhan,6,6,có
+51116,Lymphocytes,moc_do,21,21,có
+51116,Lymphocytes,gia_tri,18,18,có
+51116,Lymphocytes,do_lap,5,5,có
+51116,Lymphocytes,don_vi,% (21),% (21),có
+51117,Macrophage,nhom,Ascites Hematology,Ascites Hematology,có
+51117,Macrophage,label,Macrophage,Macrophage,có
+51117,Macrophage,ket_qua,19,19,có
+51117,Macrophage,benh_nhan,6,6,có
+51117,Macrophage,moc_do,19,19,có
+51117,Macrophage,gia_tri,15,15,có
+51117,Macrophage,do_lap,5,5,có
+51117,Macrophage,don_vi,% (19),% (19),có
+51118,Mesothelial Cell,nhom,Ascites Hematology,Ascites Hematology,có
+51118,Mesothelial Cell,label,Mesothelial Cell,Mesothelial Cell,có
+51118,Mesothelial Cell,ket_qua,12,12,có
+51118,Mesothelial Cell,benh_nhan,6,6,có
+51118,Mesothelial Cell,moc_do,12,12,có
+51118,Mesothelial Cell,gia_tri,7,7,có
+51118,Mesothelial Cell,do_lap,3,3,có
+51118,Mesothelial Cell,don_vi,% (12),% (12),có
+51120,Monocytes,nhom,Ascites Hematology,Ascites Hematology,có
+51120,Monocytes,label,Monocytes,Monocytes,có
+51120,Monocytes,ket_qua,21,21,có
+51120,Monocytes,benh_nhan,6,6,có
+51120,Monocytes,moc_do,21,21,có
+51120,Monocytes,gia_tri,10,10,có
+51120,Monocytes,do_lap,5,5,có
+51120,Monocytes,don_vi,% (21),% (21),có
+51123,Other,nhom,Ascites Hematology,Ascites Hematology,có
+51123,Other,label,Other,Other,có
+51123,Other,ket_qua,6,6,có
+51123,Other,benh_nhan,4,4,có
+51123,Other,moc_do,6,6,có
+51123,Other,gia_tri,1,1,có
+51123,Other,do_lap,2,2,có
+51123,Other,don_vi,% (6),% (6),có
+51124,Plasma,nhom,Ascites Hematology,Ascites Hematology,có
+51124,Plasma,label,Plasma,Plasma,có
+51124,Plasma,ket_qua,3,3,có
+51124,Plasma,benh_nhan,2,2,có
+51124,Plasma,moc_do,3,3,có
+51124,Plasma,gia_tri,2,2,có
+51124,Plasma,do_lap,1,1,có
+51124,Plasma,don_vi,% (3),% (3),có
+51125,Polys,nhom,Ascites Hematology,Ascites Hematology,có
+51125,Polys,label,Polys,Polys,có
+51125,Polys,ket_qua,21,21,có
+51125,Polys,benh_nhan,6,6,có
+51125,Polys,moc_do,21,21,có
+51125,Polys,gia_tri,16,16,có
+51125,Polys,do_lap,5,5,có
+51125,Polys,don_vi,% (21),% (21),có
+51127,"RBC, Ascites",nhom,Ascites Hematology,Ascites Hematology,có
+51127,"RBC, Ascites",label,"RBC, Ascites","RBC, Ascites",có
+51127,"RBC, Ascites",ket_qua,19,19,có
+51127,"RBC, Ascites",benh_nhan,6,6,có
+51127,"RBC, Ascites",moc_do,19,19,có
+51127,"RBC, Ascites",gia_tri,19,19,có
+51127,"RBC, Ascites",do_lap,5,5,có
+51127,"RBC, Ascites",don_vi,#/uL (19),#/uL (19),có
+51130,Absolute CD3 Count,nhom,Blood Hematology,Blood Hematology,có
+51130,Absolute CD3 Count,label,Absolute CD3 Count,Absolute CD3 Count,có
+51130,Absolute CD3 Count,ket_qua,16,16,có
+51130,Absolute CD3 Count,benh_nhan,1,1,có
+51130,Absolute CD3 Count,moc_do,16,16,có
+51130,Absolute CD3 Count,gia_tri,15,15,có
+51130,Absolute CD3 Count,do_lap,1,1,có
+51130,Absolute CD3 Count,don_vi,#/uL (16),#/uL (16),có
+51131,Absolute CD4 Count,nhom,Blood Hematology,Blood Hematology,có
+51131,Absolute CD4 Count,label,Absolute CD4 Count,Absolute CD4 Count,có
+51131,Absolute CD4 Count,ket_qua,16,16,có
+51131,Absolute CD4 Count,benh_nhan,1,1,có
+51131,Absolute CD4 Count,moc_do,16,16,có
+51131,Absolute CD4 Count,gia_tri,15,15,có
+51131,Absolute CD4 Count,do_lap,1,1,có
+51131,Absolute CD4 Count,don_vi,#/uL (16),#/uL (16),có
+51132,Absolute CD8 Count,nhom,Blood Hematology,Blood Hematology,có
+51132,Absolute CD8 Count,label,Absolute CD8 Count,Absolute CD8 Count,có
+51132,Absolute CD8 Count,ket_qua,16,16,có
+51132,Absolute CD8 Count,benh_nhan,1,1,có
+51132,Absolute CD8 Count,moc_do,16,16,có
+51132,Absolute CD8 Count,gia_tri,16,16,có
+51132,Absolute CD8 Count,do_lap,1,1,có
+51132,Absolute CD8 Count,don_vi,#/uL (16),#/uL (16),có
+51133,Absolute Lymphocyte Count,nhom,Blood Hematology,Blood Hematology,có
+51133,Absolute Lymphocyte Count,label,Absolute Lymphocyte Count,Absolute Lymphocyte Count,có
+51133,Absolute Lymphocyte Count,ket_qua,569,569,có
+51133,Absolute Lymphocyte Count,benh_nhan,45,45,có
+51133,Absolute Lymphocyte Count,moc_do,569,569,có
+51133,Absolute Lymphocyte Count,gia_tri,372,372,có
+51133,Absolute Lymphocyte Count,do_lap,34,34,có
+51133,Absolute Lymphocyte Count,don_vi,K/uL (569),K/uL (569),có
+51134,Acanthocytes,nhom,Blood Hematology,Blood Hematology,có
+51134,Acanthocytes,label,Acanthocytes,Acanthocytes,có
+51134,Acanthocytes,ket_qua,14,14,có
+51134,Acanthocytes,benh_nhan,5,5,có
+51134,Acanthocytes,moc_do,14,14,có
+51134,Acanthocytes,gia_tri,0,0,có
+51134,Acanthocytes,do_lap,4,4,có
+51134,Acanthocytes,don_vi,N/A (4),N/A (4),có
+51135,ADP,nhom,Blood Hematology,Blood Hematology,có
+51135,ADP,label,ADP,ADP,có
+51135,ADP,ket_qua,2,2,có
+51135,ADP,benh_nhan,2,2,có
+51135,ADP,moc_do,2,2,có
+51135,ADP,gia_tri,0,0,có
+51135,ADP,do_lap,0,0,có
+51135,ADP,don_vi,Không có,Không có,có
+51137,Anisocytosis,nhom,Blood Hematology,Blood Hematology,có
+51137,Anisocytosis,label,Anisocytosis,Anisocytosis,có
+51137,Anisocytosis,ket_qua,427,427,có
+51137,Anisocytosis,benh_nhan,34,34,có
+51137,Anisocytosis,moc_do,427,427,có
+51137,Anisocytosis,gia_tri,0,0,có
+51137,Anisocytosis,do_lap,22,22,có
+51137,Anisocytosis,don_vi,N/A (186),N/A (186),có
+51138,Anticardiolipin Antibody IgG,nhom,Blood Hematology,Blood Hematology,có
+51138,Anticardiolipin Antibody IgG,label,Anticardiolipin Antibody IgG,Anticardiolipin Antibody IgG,có
+51138,Anticardiolipin Antibody IgG,ket_qua,1,1,có
+51138,Anticardiolipin Antibody IgG,benh_nhan,1,1,có
+51138,Anticardiolipin Antibody IgG,moc_do,1,1,có
+51138,Anticardiolipin Antibody IgG,gia_tri,1,1,có
+51138,Anticardiolipin Antibody IgG,do_lap,0,0,có
+51138,Anticardiolipin Antibody IgG,don_vi,GPL (1),GPL (1),có
+51139,Anticardiolipin Antibody IgM,nhom,Blood Hematology,Blood Hematology,có
+51139,Anticardiolipin Antibody IgM,label,Anticardiolipin Antibody IgM,Anticardiolipin Antibody IgM,có
+51139,Anticardiolipin Antibody IgM,ket_qua,1,1,có
+51139,Anticardiolipin Antibody IgM,benh_nhan,1,1,có
+51139,Anticardiolipin Antibody IgM,moc_do,1,1,có
+51139,Anticardiolipin Antibody IgM,gia_tri,1,1,có
+51139,Anticardiolipin Antibody IgM,do_lap,0,0,có
+51139,Anticardiolipin Antibody IgM,don_vi,MPL (1),MPL (1),có
+51142,Arachadonic Acid,nhom,Blood Hematology,Blood Hematology,có
+51142,Arachadonic Acid,label,Arachadonic Acid,Arachadonic Acid,có
+51142,Arachadonic Acid,ket_qua,2,2,có
+51142,Arachadonic Acid,benh_nhan,2,2,có
+51142,Arachadonic Acid,moc_do,2,2,có
+51142,Arachadonic Acid,gia_tri,0,0,có
+51142,Arachadonic Acid,do_lap,0,0,có
+51142,Arachadonic Acid,don_vi,Không có,Không có,có
+51143,Atypical Lymphocytes,nhom,Blood Hematology,Blood Hematology,có
+51143,Atypical Lymphocytes,label,Atypical Lymphocytes,Atypical Lymphocytes,có
+51143,Atypical Lymphocytes,ket_qua,404,404,có
+51143,Atypical Lymphocytes,benh_nhan,30,30,có
+51143,Atypical Lymphocytes,moc_do,404,404,có
+51143,Atypical Lymphocytes,gia_tri,9,9,có
+51143,Atypical Lymphocytes,do_lap,19,19,có
+51143,Atypical Lymphocytes,don_vi,% (404),% (404),có
+51144,Bands,nhom,Blood Hematology,Blood Hematology,có
+51144,Bands,label,Bands,Bands,có
+51144,Bands,ket_qua,395,395,có
+51144,Bands,benh_nhan,30,30,có
+51144,Bands,moc_do,395,395,có
+51144,Bands,gia_tri,17,17,có
+51144,Bands,do_lap,19,19,có
+51144,Bands,don_vi,% (395),% (395),có
+51145,Basophilic Stippling,nhom,Blood Hematology,Blood Hematology,có
+51145,Basophilic Stippling,label,Basophilic Stippling,Basophilic Stippling,có
+51145,Basophilic Stippling,ket_qua,33,33,có
+51145,Basophilic Stippling,benh_nhan,7,7,có
+51145,Basophilic Stippling,moc_do,33,33,có
+51145,Basophilic Stippling,gia_tri,0,0,có
+51145,Basophilic Stippling,do_lap,2,2,có
+51145,Basophilic Stippling,don_vi,N/A (16),N/A (16),có
+51146,Basophils,nhom,Blood Hematology,Blood Hematology,có
+51146,Basophils,label,Basophils,Basophils,có
+51146,Basophils,ket_qua,943,943,có
+51146,Basophils,benh_nhan,91,91,có
+51146,Basophils,moc_do,943,943,có
+51146,Basophils,gia_tri,39,39,có
+51146,Basophils,do_lap,65,65,có
+51146,Basophils,don_vi,% (943),% (943),có
+51147,Bite Cells,nhom,Blood Hematology,Blood Hematology,có
+51147,Bite Cells,label,Bite Cells,Bite Cells,có
+51147,Bite Cells,ket_qua,15,15,có
+51147,Bite Cells,benh_nhan,5,5,có
+51147,Bite Cells,moc_do,15,15,có
+51147,Bite Cells,gia_tri,0,0,có
+51147,Bite Cells,do_lap,3,3,có
+51147,Bite Cells,don_vi,N/A (10),N/A (10),có
+51148,Blasts,nhom,Blood Hematology,Blood Hematology,có
+51148,Blasts,label,Blasts,Blasts,có
+51148,Blasts,ket_qua,107,107,có
+51148,Blasts,benh_nhan,3,3,có
+51148,Blasts,moc_do,107,107,có
+51148,Blasts,gia_tri,30,30,có
+51148,Blasts,do_lap,3,3,có
+51148,Blasts,don_vi,% (107),% (107),có
+51149,Bleeding Time,nhom,Blood Hematology,Blood Hematology,có
+51149,Bleeding Time,label,Bleeding Time,Bleeding Time,có
+51149,Bleeding Time,ket_qua,1,1,có
+51149,Bleeding Time,benh_nhan,1,1,có
+51149,Bleeding Time,moc_do,1,1,có
+51149,Bleeding Time,gia_tri,1,1,có
+51149,Bleeding Time,do_lap,0,0,có
+51149,Bleeding Time,don_vi,min (1),min (1),có
+51150,Blood Parasite Smear,nhom,Blood Hematology,Blood Hematology,có
+51150,Blood Parasite Smear,label,Blood Parasite Smear,Blood Parasite Smear,có
+51150,Blood Parasite Smear,ket_qua,5,5,có
+51150,Blood Parasite Smear,benh_nhan,3,3,có
+51150,Blood Parasite Smear,moc_do,5,5,có
+51150,Blood Parasite Smear,gia_tri,1,1,có
+51150,Blood Parasite Smear,do_lap,1,1,có
+51150,Blood Parasite Smear,don_vi,N/A (3),N/A (3),có
+51152,CD10,nhom,Blood Hematology,Blood Hematology,có
+51152,CD10,label,CD10,CD10,có
+51152,CD10,ket_qua,1,1,có
+51152,CD10,benh_nhan,1,1,có
+51152,CD10,moc_do,1,1,có
+51152,CD10,gia_tri,1,1,có
+51152,CD10,do_lap,0,0,có
+51152,CD10,don_vi,Không có,Không có,có
+51154,CD117,nhom,Blood Hematology,Blood Hematology,có
+51154,CD117,label,CD117,CD117,có
+51154,CD117,ket_qua,1,1,có
+51154,CD117,benh_nhan,1,1,có
+51154,CD117,moc_do,1,1,có
+51154,CD117,gia_tri,1,1,có
+51154,CD117,do_lap,0,0,có
+51154,CD117,don_vi,Không có,Không có,có
+51155,CD11c,nhom,Blood Hematology,Blood Hematology,có
+51155,CD11c,label,CD11c,CD11c,có
+51155,CD11c,ket_qua,1,1,có
+51155,CD11c,benh_nhan,1,1,có
+51155,CD11c,moc_do,1,1,có
+51155,CD11c,gia_tri,1,1,có
+51155,CD11c,do_lap,0,0,có
+51155,CD11c,don_vi,Không có,Không có,có
+51156,CD13,nhom,Blood Hematology,Blood Hematology,có
+51156,CD13,label,CD13,CD13,có
+51156,CD13,ket_qua,1,1,có
+51156,CD13,benh_nhan,1,1,có
+51156,CD13,moc_do,1,1,có
+51156,CD13,gia_tri,1,1,có
+51156,CD13,do_lap,0,0,có
+51156,CD13,don_vi,Không có,Không có,có
+51158,CD14,nhom,Blood Hematology,Blood Hematology,có
+51158,CD14,label,CD14,CD14,có
+51158,CD14,ket_qua,1,1,có
+51158,CD14,benh_nhan,1,1,có
+51158,CD14,moc_do,1,1,có
+51158,CD14,gia_tri,1,1,có
+51158,CD14,do_lap,0,0,có
+51158,CD14,don_vi,Không có,Không có,có
+51159,CD15,nhom,Blood Hematology,Blood Hematology,có
+51159,CD15,label,CD15,CD15,có
+51159,CD15,ket_qua,1,1,có
+51159,CD15,benh_nhan,1,1,có
+51159,CD15,moc_do,1,1,có
+51159,CD15,gia_tri,1,1,có
+51159,CD15,do_lap,0,0,có
+51159,CD15,don_vi,Không có,Không có,có
+51164,CD19,nhom,Blood Hematology,Blood Hematology,có
+51164,CD19,label,CD19,CD19,có
+51164,CD19,ket_qua,1,1,có
+51164,CD19,benh_nhan,1,1,có
+51164,CD19,moc_do,1,1,có
+51164,CD19,gia_tri,1,1,có
+51164,CD19,do_lap,0,0,có
+51164,CD19,don_vi,Không có,Không có,có
+51167,CD2,nhom,Blood Hematology,Blood Hematology,có
+51167,CD2,label,CD2,CD2,có
+51167,CD2,ket_qua,1,1,có
+51167,CD2,benh_nhan,1,1,có
+51167,CD2,moc_do,1,1,có
+51167,CD2,gia_tri,1,1,có
+51167,CD2,do_lap,0,0,có
+51167,CD2,don_vi,Không có,Không có,có
+51168,CD20,nhom,Blood Hematology,Blood Hematology,có
+51168,CD20,label,CD20,CD20,có
+51168,CD20,ket_qua,1,1,có
+51168,CD20,benh_nhan,1,1,có
+51168,CD20,moc_do,1,1,có
+51168,CD20,gia_tri,1,1,có
+51168,CD20,do_lap,0,0,có
+51168,CD20,don_vi,Không có,Không có,có
+51176,"CD3 Cells, Percent",nhom,Blood Hematology,Blood Hematology,có
+51176,"CD3 Cells, Percent",label,"CD3 Cells, Percent","CD3 Cells, Percent",có
+51176,"CD3 Cells, Percent",ket_qua,17,17,có
+51176,"CD3 Cells, Percent",benh_nhan,2,2,có
+51176,"CD3 Cells, Percent",moc_do,17,17,có
+51176,"CD3 Cells, Percent",gia_tri,13,13,có
+51176,"CD3 Cells, Percent",do_lap,1,1,có
+51176,"CD3 Cells, Percent",don_vi,% (17),% (17),có
+51177,CD33,nhom,Blood Hematology,Blood Hematology,có
+51177,CD33,label,CD33,CD33,có
+51177,CD33,ket_qua,1,1,có
+51177,CD33,benh_nhan,1,1,có
+51177,CD33,moc_do,1,1,có
+51177,CD33,gia_tri,1,1,có
+51177,CD33,do_lap,0,0,có
+51177,CD33,don_vi,Không có,Không có,có
+51178,CD34,nhom,Blood Hematology,Blood Hematology,có
+51178,CD34,label,CD34,CD34,có
+51178,CD34,ket_qua,1,1,có
+51178,CD34,benh_nhan,1,1,có
+51178,CD34,moc_do,1,1,có
+51178,CD34,gia_tri,1,1,có
+51178,CD34,do_lap,0,0,có
+51178,CD34,don_vi,% (1),% (1),có
+51180,"CD4 Cells, Percent",nhom,Blood Hematology,Blood Hematology,có
+51180,"CD4 Cells, Percent",label,"CD4 Cells, Percent","CD4 Cells, Percent",có
+51180,"CD4 Cells, Percent",ket_qua,17,17,có
+51180,"CD4 Cells, Percent",benh_nhan,2,2,có
+51180,"CD4 Cells, Percent",moc_do,17,17,có
+51180,"CD4 Cells, Percent",gia_tri,11,11,có
+51180,"CD4 Cells, Percent",do_lap,1,1,có
+51180,"CD4 Cells, Percent",don_vi,% (17),% (17),có
+51181,CD4/CD8 Ratio,nhom,Blood Hematology,Blood Hematology,có
+51181,CD4/CD8 Ratio,label,CD4/CD8 Ratio,CD4/CD8 Ratio,có
+51181,CD4/CD8 Ratio,ket_qua,16,16,có
+51181,CD4/CD8 Ratio,benh_nhan,1,1,có
+51181,CD4/CD8 Ratio,moc_do,16,16,có
+51181,CD4/CD8 Ratio,gia_tri,9,9,có
+51181,CD4/CD8 Ratio,do_lap,1,1,có
+51181,CD4/CD8 Ratio,don_vi,Ratio (16),Ratio (16),có
+51182,CD41,nhom,Blood Hematology,Blood Hematology,có
+51182,CD41,label,CD41,CD41,có
+51182,CD41,ket_qua,1,1,có
+51182,CD41,benh_nhan,1,1,có
+51182,CD41,moc_do,1,1,có
+51182,CD41,gia_tri,1,1,có
+51182,CD41,do_lap,0,0,có
+51182,CD41,don_vi,Không có,Không có,có
+51183,CD45,nhom,Blood Hematology,Blood Hematology,có
+51183,CD45,label,CD45,CD45,có
+51183,CD45,ket_qua,1,1,có
+51183,CD45,benh_nhan,1,1,có
+51183,CD45,moc_do,1,1,có
+51183,CD45,gia_tri,1,1,có
+51183,CD45,do_lap,0,0,có
+51183,CD45,don_vi,Không có,Không có,có
+51184,CD5,nhom,Blood Hematology,Blood Hematology,có
+51184,CD5,label,CD5,CD5,có
+51184,CD5,ket_qua,1,1,có
+51184,CD5,benh_nhan,1,1,có
+51184,CD5,moc_do,1,1,có
+51184,CD5,gia_tri,1,1,có
+51184,CD5,do_lap,0,0,có
+51184,CD5,don_vi,Không có,Không có,có
+51188,CD56,nhom,Blood Hematology,Blood Hematology,có
+51188,CD56,label,CD56,CD56,có
+51188,CD56,ket_qua,1,1,có
+51188,CD56,benh_nhan,1,1,có
+51188,CD56,moc_do,1,1,có
+51188,CD56,gia_tri,1,1,có
+51188,CD56,do_lap,0,0,có
+51188,CD56,don_vi,Không có,Không có,có
+51191,CD64,nhom,Blood Hematology,Blood Hematology,có
+51191,CD64,label,CD64,CD64,có
+51191,CD64,ket_qua,1,1,có
+51191,CD64,benh_nhan,1,1,có
+51191,CD64,moc_do,1,1,có
+51191,CD64,gia_tri,1,1,có
+51191,CD64,do_lap,0,0,có
+51191,CD64,don_vi,Không có,Không có,có
+51192,CD7,nhom,Blood Hematology,Blood Hematology,có
+51192,CD7,label,CD7,CD7,có
+51192,CD7,ket_qua,1,1,có
+51192,CD7,benh_nhan,1,1,có
+51192,CD7,moc_do,1,1,có
+51192,CD7,gia_tri,1,1,có
+51192,CD7,do_lap,0,0,có
+51192,CD7,don_vi,Không có,Không có,có
+51193,CD71,nhom,Blood Hematology,Blood Hematology,có
+51193,CD71,label,CD71,CD71,có
+51193,CD71,ket_qua,1,1,có
+51193,CD71,benh_nhan,1,1,có
+51193,CD71,moc_do,1,1,có
+51193,CD71,gia_tri,1,1,có
+51193,CD71,do_lap,0,0,có
+51193,CD71,don_vi,Không có,Không có,có
+51194,"CD8 Cells, Percent",nhom,Blood Hematology,Blood Hematology,có
+51194,"CD8 Cells, Percent",label,"CD8 Cells, Percent","CD8 Cells, Percent",có
+51194,"CD8 Cells, Percent",ket_qua,17,17,có
+51194,"CD8 Cells, Percent",benh_nhan,2,2,có
+51194,"CD8 Cells, Percent",moc_do,17,17,có
+51194,"CD8 Cells, Percent",gia_tri,11,11,có
+51194,"CD8 Cells, Percent",do_lap,1,1,có
+51194,"CD8 Cells, Percent",don_vi,% (17),% (17),có
+51195,Collagen,nhom,Blood Hematology,Blood Hematology,có
+51195,Collagen,label,Collagen,Collagen,có
+51195,Collagen,ket_qua,2,2,có
+51195,Collagen,benh_nhan,2,2,có
+51195,Collagen,moc_do,2,2,có
+51195,Collagen,gia_tri,0,0,có
+51195,Collagen,do_lap,0,0,có
+51195,Collagen,don_vi,Không có,Không có,có
+51196,D-Dimer,nhom,Blood Hematology,Blood Hematology,có
+51196,D-Dimer,label,D-Dimer,D-Dimer,có
+51196,D-Dimer,ket_qua,1,1,có
+51196,D-Dimer,benh_nhan,1,1,có
+51196,D-Dimer,moc_do,1,1,có
+51196,D-Dimer,gia_tri,1,1,có
+51196,D-Dimer,do_lap,0,0,có
+51196,D-Dimer,don_vi,ng/mL FEU (1),ng/mL FEU (1),có
+51197,Elliptocytes,nhom,Blood Hematology,Blood Hematology,có
+51197,Elliptocytes,label,Elliptocytes,Elliptocytes,có
+51197,Elliptocytes,ket_qua,44,44,có
+51197,Elliptocytes,benh_nhan,4,4,có
+51197,Elliptocytes,moc_do,44,44,có
+51197,Elliptocytes,gia_tri,0,0,có
+51197,Elliptocytes,do_lap,2,2,có
+51197,Elliptocytes,don_vi,N/A (37),N/A (37),có
+51198,Envelope Cells,nhom,Blood Hematology,Blood Hematology,có
+51198,Envelope Cells,label,Envelope Cells,Envelope Cells,có
+51198,Envelope Cells,ket_qua,5,5,có
+51198,Envelope Cells,benh_nhan,2,2,có
+51198,Envelope Cells,moc_do,5,5,có
+51198,Envelope Cells,gia_tri,0,0,có
+51198,Envelope Cells,do_lap,2,2,có
+51198,Envelope Cells,don_vi,N/A (3),N/A (3),có
+51200,Eosinophils,nhom,Blood Hematology,Blood Hematology,có
+51200,Eosinophils,label,Eosinophils,Eosinophils,có
+51200,Eosinophils,ket_qua,943,943,có
+51200,Eosinophils,benh_nhan,91,91,có
+51200,Eosinophils,moc_do,943,943,có
+51200,Eosinophils,gia_tri,124,124,có
+51200,Eosinophils,do_lap,65,65,có
+51200,Eosinophils,don_vi,% (943),% (943),có
+51213,Fibrin Degradation Products,nhom,Blood Hematology,Blood Hematology,có
+51213,Fibrin Degradation Products,label,Fibrin Degradation Products,Fibrin Degradation Products,có
+51213,Fibrin Degradation Products,ket_qua,2,2,có
+51213,Fibrin Degradation Products,benh_nhan,2,2,có
+51213,Fibrin Degradation Products,moc_do,2,2,có
+51213,Fibrin Degradation Products,gia_tri,2,2,có
+51213,Fibrin Degradation Products,do_lap,0,0,có
+51213,Fibrin Degradation Products,don_vi,ug/mL (2),ug/mL (2),có
+51214,"Fibrinogen, Functional",nhom,Blood Hematology,Blood Hematology,có
+51214,"Fibrinogen, Functional",label,"Fibrinogen, Functional","Fibrinogen, Functional",có
+51214,"Fibrinogen, Functional",ket_qua,166,166,có
+51214,"Fibrinogen, Functional",benh_nhan,47,47,có
+51214,"Fibrinogen, Functional",moc_do,166,166,có
+51214,"Fibrinogen, Functional",gia_tri,133,133,có
+51214,"Fibrinogen, Functional",do_lap,20,20,có
+51214,"Fibrinogen, Functional",don_vi,mg/dL (166),mg/dL (166),có
+51216,Fragmented Cells,nhom,Blood Hematology,Blood Hematology,có
+51216,Fragmented Cells,label,Fragmented Cells,Fragmented Cells,có
+51216,Fragmented Cells,ket_qua,13,13,có
+51216,Fragmented Cells,benh_nhan,4,4,có
+51216,Fragmented Cells,moc_do,13,13,có
+51216,Fragmented Cells,gia_tri,0,0,có
+51216,Fragmented Cells,do_lap,1,1,có
+51216,Fragmented Cells,don_vi,N/A (10),N/A (10),có
+51217,Glyco A,nhom,Blood Hematology,Blood Hematology,có
+51217,Glyco A,label,Glyco A,Glyco A,có
+51217,Glyco A,ket_qua,1,1,có
+51217,Glyco A,benh_nhan,1,1,có
+51217,Glyco A,moc_do,1,1,có
+51217,Glyco A,gia_tri,1,1,có
+51217,Glyco A,do_lap,0,0,có
+51217,Glyco A,don_vi,Không có,Không có,có
+51218,Granulocyte Count,nhom,Blood Hematology,Blood Hematology,có
+51218,Granulocyte Count,label,Granulocyte Count,Granulocyte Count,có
+51218,Granulocyte Count,ket_qua,2,2,có
+51218,Granulocyte Count,benh_nhan,1,1,có
+51218,Granulocyte Count,moc_do,2,2,có
+51218,Granulocyte Count,gia_tri,2,2,có
+51218,Granulocyte Count,do_lap,1,1,có
+51218,Granulocyte Count,don_vi,#/uL (2),#/uL (2),có
+51219,H/O Smear,nhom,Blood Hematology,Blood Hematology,có
+51219,H/O Smear,label,H/O Smear,H/O Smear,có
+51219,H/O Smear,ket_qua,14,14,có
+51219,H/O Smear,benh_nhan,4,4,có
+51219,H/O Smear,moc_do,14,14,có
+51219,H/O Smear,gia_tri,1,1,có
+51219,H/O Smear,do_lap,3,3,có
+51219,H/O Smear,don_vi,Không có,Không có,có
+51221,Hematocrit,nhom,Blood Hematology,Blood Hematology,có
+51221,Hematocrit,label,Hematocrit,Hematocrit,có
+51221,Hematocrit,ket_qua,2913,2913,có
+51221,Hematocrit,benh_nhan,100,100,có
+51221,Hematocrit,moc_do,2912,2912,có
+51221,Hematocrit,gia_tri,312,312,có
+51221,Hematocrit,do_lap,100,100,có
+51221,Hematocrit,don_vi,% (2913),% (2913),có
+51222,Hemoglobin,nhom,Blood Hematology,Blood Hematology,có
+51222,Hemoglobin,label,Hemoglobin,Hemoglobin,có
+51222,Hemoglobin,ket_qua,2787,2787,có
+51222,Hemoglobin,benh_nhan,100,100,có
+51222,Hemoglobin,moc_do,2786,2786,có
+51222,Hemoglobin,gia_tri,128,128,có
+51222,Hemoglobin,do_lap,100,100,có
+51222,Hemoglobin,don_vi,g/dL (2787),g/dL (2787),có
+51224,Hemoglobin C,nhom,Blood Hematology,Blood Hematology,có
+51224,Hemoglobin C,label,Hemoglobin C,Hemoglobin C,có
+51224,Hemoglobin C,ket_qua,1,1,có
+51224,Hemoglobin C,benh_nhan,1,1,có
+51224,Hemoglobin C,moc_do,1,1,có
+51224,Hemoglobin C,gia_tri,1,1,có
+51224,Hemoglobin C,do_lap,0,0,có
+51224,Hemoglobin C,don_vi,% (1),% (1),có
+51226,Hemogloblin A,nhom,Blood Hematology,Blood Hematology,có
+51226,Hemogloblin A,label,Hemogloblin A,Hemogloblin A,có
+51226,Hemogloblin A,ket_qua,1,1,có
+51226,Hemogloblin A,benh_nhan,1,1,có
+51226,Hemogloblin A,moc_do,1,1,có
+51226,Hemogloblin A,gia_tri,1,1,có
+51226,Hemogloblin A,do_lap,0,0,có
+51226,Hemogloblin A,don_vi,% (1),% (1),có
+51227,Hemogloblin S,nhom,Blood Hematology,Blood Hematology,có
+51227,Hemogloblin S,label,Hemogloblin S,Hemogloblin S,có
+51227,Hemogloblin S,ket_qua,1,1,có
+51227,Hemogloblin S,benh_nhan,1,1,có
+51227,Hemogloblin S,moc_do,1,1,có
+51227,Hemogloblin S,gia_tri,1,1,có
+51227,Hemogloblin S,do_lap,0,0,có
+51227,Hemogloblin S,don_vi,% (1),% (1),có
+51228,Heparin,nhom,Blood Hematology,Blood Hematology,có
+51228,Heparin,label,Heparin,Heparin,có
+51228,Heparin,ket_qua,1,1,có
+51228,Heparin,benh_nhan,1,1,có
+51228,Heparin,moc_do,1,1,có
+51228,Heparin,gia_tri,1,1,có
+51228,Heparin,do_lap,0,0,có
+51228,Heparin,don_vi,IU/mL (1),IU/mL (1),có
+51229,"Heparin, LMW",nhom,Blood Hematology,Blood Hematology,có
+51229,"Heparin, LMW",label,"Heparin, LMW","Heparin, LMW",có
+51229,"Heparin, LMW",ket_qua,1,1,có
+51229,"Heparin, LMW",benh_nhan,1,1,có
+51229,"Heparin, LMW",moc_do,1,1,có
+51229,"Heparin, LMW",gia_tri,1,1,có
+51229,"Heparin, LMW",do_lap,0,0,có
+51229,"Heparin, LMW",don_vi,IU/mL (1),IU/mL (1),có
+51230,HLA-DR,nhom,Blood Hematology,Blood Hematology,có
+51230,HLA-DR,label,HLA-DR,HLA-DR,có
+51230,HLA-DR,ket_qua,1,1,có
+51230,HLA-DR,benh_nhan,1,1,có
+51230,HLA-DR,moc_do,1,1,có
+51230,HLA-DR,gia_tri,1,1,có
+51230,HLA-DR,do_lap,0,0,có
+51230,HLA-DR,don_vi,Không có,Không có,có
+51231,Howell-Jolly Bodies,nhom,Blood Hematology,Blood Hematology,có
+51231,Howell-Jolly Bodies,label,Howell-Jolly Bodies,Howell-Jolly Bodies,có
+51231,Howell-Jolly Bodies,ket_qua,1,1,có
+51231,Howell-Jolly Bodies,benh_nhan,1,1,có
+51231,Howell-Jolly Bodies,moc_do,1,1,có
+51231,Howell-Jolly Bodies,gia_tri,0,0,có
+51231,Howell-Jolly Bodies,do_lap,0,0,có
+51231,Howell-Jolly Bodies,don_vi,Không có,Không có,có
+51233,Hypochromia,nhom,Blood Hematology,Blood Hematology,có
+51233,Hypochromia,label,Hypochromia,Hypochromia,có
+51233,Hypochromia,ket_qua,417,417,có
+51233,Hypochromia,benh_nhan,34,34,có
+51233,Hypochromia,moc_do,417,417,có
+51233,Hypochromia,gia_tri,0,0,có
+51233,Hypochromia,do_lap,22,22,có
+51233,Hypochromia,don_vi,N/A (184),N/A (184),có
+51234,Immunophenotyping,nhom,Blood Hematology,Blood Hematology,có
+51234,Immunophenotyping,label,Immunophenotyping,Immunophenotyping,có
+51234,Immunophenotyping,ket_qua,5,5,có
+51234,Immunophenotyping,benh_nhan,4,4,có
+51234,Immunophenotyping,moc_do,5,5,có
+51234,Immunophenotyping,gia_tri,1,1,có
+51234,Immunophenotyping,do_lap,1,1,có
+51234,Immunophenotyping,don_vi,Không có,Không có,có
+51236,Inpatient Hematology/Oncology Smear,nhom,Blood Hematology,Blood Hematology,có
+51236,Inpatient Hematology/Oncology Smear,label,Inpatient Hematology/Oncology Smear,Inpatient Hematology/Oncology Smear,có
+51236,Inpatient Hematology/Oncology Smear,ket_qua,7,7,có
+51236,Inpatient Hematology/Oncology Smear,benh_nhan,6,6,có
+51236,Inpatient Hematology/Oncology Smear,moc_do,7,7,có
+51236,Inpatient Hematology/Oncology Smear,gia_tri,1,1,có
+51236,Inpatient Hematology/Oncology Smear,do_lap,1,1,có
+51236,Inpatient Hematology/Oncology Smear,don_vi,Không có,Không có,có
+51237,INR(PT),nhom,Blood Hematology,Blood Hematology,có
+51237,INR(PT),label,INR(PT),INR(PT),có
+51237,INR(PT),ket_qua,1481,1481,có
+51237,INR(PT),benh_nhan,100,100,có
+51237,INR(PT),moc_do,1480,1480,có
+51237,INR(PT),gia_tri,41,41,có
+51237,INR(PT),do_lap,94,94,có
+51237,INR(PT),don_vi,Không có,Không có,có
+51238,Kappa,nhom,Blood Hematology,Blood Hematology,có
+51238,Kappa,label,Kappa,Kappa,có
+51238,Kappa,ket_qua,1,1,có
+51238,Kappa,benh_nhan,1,1,có
+51238,Kappa,moc_do,1,1,có
+51238,Kappa,gia_tri,1,1,có
+51238,Kappa,do_lap,0,0,có
+51238,Kappa,don_vi,Không có,Không có,có
+51239,Lambda,nhom,Blood Hematology,Blood Hematology,có
+51239,Lambda,label,Lambda,Lambda,có
+51239,Lambda,ket_qua,1,1,có
+51239,Lambda,benh_nhan,1,1,có
+51239,Lambda,moc_do,1,1,có
+51239,Lambda,gia_tri,1,1,có
+51239,Lambda,do_lap,0,0,có
+51239,Lambda,don_vi,Không có,Không có,có
+51243,Lupus Anticoagulant,nhom,Blood Hematology,Blood Hematology,có
+51243,Lupus Anticoagulant,label,Lupus Anticoagulant,Lupus Anticoagulant,có
+51243,Lupus Anticoagulant,ket_qua,2,2,có
+51243,Lupus Anticoagulant,benh_nhan,2,2,có
+51243,Lupus Anticoagulant,moc_do,2,2,có
+51243,Lupus Anticoagulant,gia_tri,1,1,có
+51243,Lupus Anticoagulant,do_lap,0,0,có
+51243,Lupus Anticoagulant,don_vi,Không có,Không có,có
+51244,Lymphocytes,nhom,Blood Hematology,Blood Hematology,có
+51244,Lymphocytes,label,Lymphocytes,Lymphocytes,có
+51244,Lymphocytes,ket_qua,943,943,có
+51244,Lymphocytes,benh_nhan,91,91,có
+51244,Lymphocytes,moc_do,943,943,có
+51244,Lymphocytes,gia_tri,385,385,có
+51244,Lymphocytes,do_lap,65,65,có
+51244,Lymphocytes,don_vi,% (943),% (943),có
+51245,"Lymphocytes, Percent",nhom,Blood Hematology,Blood Hematology,có
+51245,"Lymphocytes, Percent",label,"Lymphocytes, Percent","Lymphocytes, Percent",có
+51245,"Lymphocytes, Percent",ket_qua,16,16,có
+51245,"Lymphocytes, Percent",benh_nhan,1,1,có
+51245,"Lymphocytes, Percent",moc_do,16,16,có
+51245,"Lymphocytes, Percent",gia_tri,15,15,có
+51245,"Lymphocytes, Percent",do_lap,1,1,có
+51245,"Lymphocytes, Percent",don_vi,% (16),% (16),có
+51246,Macrocytes,nhom,Blood Hematology,Blood Hematology,có
+51246,Macrocytes,label,Macrocytes,Macrocytes,có
+51246,Macrocytes,ket_qua,415,415,có
+51246,Macrocytes,benh_nhan,34,34,có
+51246,Macrocytes,moc_do,415,415,có
+51246,Macrocytes,gia_tri,0,0,có
+51246,Macrocytes,do_lap,22,22,có
+51246,Macrocytes,don_vi,N/A (174),N/A (174),có
+51247,MacroOvalocytes,nhom,Blood Hematology,Blood Hematology,có
+51247,MacroOvalocytes,label,MacroOvalocytes,MacroOvalocytes,có
+51247,MacroOvalocytes,ket_qua,1,1,có
+51247,MacroOvalocytes,benh_nhan,1,1,có
+51247,MacroOvalocytes,moc_do,1,1,có
+51247,MacroOvalocytes,gia_tri,0,0,có
+51247,MacroOvalocytes,do_lap,0,0,có
+51247,MacroOvalocytes,don_vi,Không có,Không có,có
+51248,MCH,nhom,Blood Hematology,Blood Hematology,có
+51248,MCH,label,MCH,MCH,có
+51248,MCH,ket_qua,2760,2760,có
+51248,MCH,benh_nhan,100,100,có
+51248,MCH,moc_do,2759,2759,có
+51248,MCH,gia_tri,159,159,có
+51248,MCH,do_lap,100,100,có
+51248,MCH,don_vi,pg (2760),pg (2760),có
+51249,MCHC,nhom,Blood Hematology,Blood Hematology,có
+51249,MCHC,label,MCHC,MCHC,có
+51249,MCHC,ket_qua,2760,2760,có
+51249,MCHC,benh_nhan,100,100,có
+51249,MCHC,moc_do,2759,2759,có
+51249,MCHC,gia_tri,102,102,có
+51249,MCHC,do_lap,100,100,có
+51249,MCHC,don_vi,g/dL (1555); % (1205),g/dL (1555); % (1205),có
+51250,MCV,nhom,Blood Hematology,Blood Hematology,có
+51250,MCV,label,MCV,MCV,có
+51250,MCV,ket_qua,2760,2760,có
+51250,MCV,benh_nhan,100,100,có
+51250,MCV,moc_do,2759,2759,có
+51250,MCV,gia_tri,52,52,có
+51250,MCV,do_lap,100,100,có
+51250,MCV,don_vi,fL (2760),fL (2760),có
+51251,Metamyelocytes,nhom,Blood Hematology,Blood Hematology,có
+51251,Metamyelocytes,label,Metamyelocytes,Metamyelocytes,có
+51251,Metamyelocytes,ket_qua,397,397,có
+51251,Metamyelocytes,benh_nhan,30,30,có
+51251,Metamyelocytes,moc_do,397,397,có
+51251,Metamyelocytes,gia_tri,15,15,có
+51251,Metamyelocytes,do_lap,19,19,có
+51251,Metamyelocytes,don_vi,% (397),% (397),có
+51252,Microcytes,nhom,Blood Hematology,Blood Hematology,có
+51252,Microcytes,label,Microcytes,Microcytes,có
+51252,Microcytes,ket_qua,418,418,có
+51252,Microcytes,benh_nhan,34,34,có
+51252,Microcytes,moc_do,418,418,có
+51252,Microcytes,gia_tri,0,0,có
+51252,Microcytes,do_lap,22,22,có
+51252,Microcytes,don_vi,N/A (177),N/A (177),có
+51254,Monocytes,nhom,Blood Hematology,Blood Hematology,có
+51254,Monocytes,label,Monocytes,Monocytes,có
+51254,Monocytes,ket_qua,943,943,có
+51254,Monocytes,benh_nhan,91,91,có
+51254,Monocytes,moc_do,943,943,có
+51254,Monocytes,gia_tri,193,193,có
+51254,Monocytes,do_lap,65,65,có
+51254,Monocytes,don_vi,% (943),% (943),có
+51255,Myelocytes,nhom,Blood Hematology,Blood Hematology,có
+51255,Myelocytes,label,Myelocytes,Myelocytes,có
+51255,Myelocytes,ket_qua,396,396,có
+51255,Myelocytes,benh_nhan,30,30,có
+51255,Myelocytes,moc_do,396,396,có
+51255,Myelocytes,gia_tri,12,12,có
+51255,Myelocytes,do_lap,19,19,có
+51255,Myelocytes,don_vi,% (396),% (396),có
+51256,Neutrophils,nhom,Blood Hematology,Blood Hematology,có
+51256,Neutrophils,label,Neutrophils,Neutrophils,có
+51256,Neutrophils,ket_qua,943,943,có
+51256,Neutrophils,benh_nhan,91,91,có
+51256,Neutrophils,moc_do,943,943,có
+51256,Neutrophils,gia_tri,413,413,có
+51256,Neutrophils,do_lap,65,65,có
+51256,Neutrophils,don_vi,% (943),% (943),có
+51257,Nucleated Red Cells,nhom,Blood Hematology,Blood Hematology,có
+51257,Nucleated Red Cells,label,Nucleated Red Cells,Nucleated Red Cells,có
+51257,Nucleated Red Cells,ket_qua,115,115,có
+51257,Nucleated Red Cells,benh_nhan,16,16,có
+51257,Nucleated Red Cells,moc_do,115,115,có
+51257,Nucleated Red Cells,gia_tri,24,24,có
+51257,Nucleated Red Cells,do_lap,10,10,có
+51257,Nucleated Red Cells,don_vi,% (115),% (115),có
+51259,Other Cells,nhom,Blood Hematology,Blood Hematology,có
+51259,Other Cells,label,Other Cells,Other Cells,có
+51259,Other Cells,ket_qua,60,60,có
+51259,Other Cells,benh_nhan,4,4,có
+51259,Other Cells,moc_do,60,60,có
+51259,Other Cells,gia_tri,3,3,có
+51259,Other Cells,do_lap,3,3,có
+51259,Other Cells,don_vi,% (60),% (60),có
+51260,Ovalocytes,nhom,Blood Hematology,Blood Hematology,có
+51260,Ovalocytes,label,Ovalocytes,Ovalocytes,có
+51260,Ovalocytes,ket_qua,218,218,có
+51260,Ovalocytes,benh_nhan,20,20,có
+51260,Ovalocytes,moc_do,218,218,có
+51260,Ovalocytes,gia_tri,0,0,có
+51260,Ovalocytes,do_lap,9,9,có
+51260,Ovalocytes,don_vi,N/A (115),N/A (115),có
+51261,Pappenheimer Bodies,nhom,Blood Hematology,Blood Hematology,có
+51261,Pappenheimer Bodies,label,Pappenheimer Bodies,Pappenheimer Bodies,có
+51261,Pappenheimer Bodies,ket_qua,3,3,có
+51261,Pappenheimer Bodies,benh_nhan,3,3,có
+51261,Pappenheimer Bodies,moc_do,3,3,có
+51261,Pappenheimer Bodies,gia_tri,0,0,có
+51261,Pappenheimer Bodies,do_lap,0,0,có
+51261,Pappenheimer Bodies,don_vi,N/A (1),N/A (1),có
+51263,Plasma Cells,nhom,Blood Hematology,Blood Hematology,có
+51263,Plasma Cells,label,Plasma Cells,Plasma Cells,có
+51263,Plasma Cells,ket_qua,2,2,có
+51263,Plasma Cells,benh_nhan,2,2,có
+51263,Plasma Cells,moc_do,2,2,có
+51263,Plasma Cells,gia_tri,2,2,có
+51263,Plasma Cells,do_lap,0,0,có
+51263,Plasma Cells,don_vi,% (2),% (2),có
+51265,Platelet Count,nhom,Blood Hematology,Blood Hematology,có
+51265,Platelet Count,label,Platelet Count,Platelet Count,có
+51265,Platelet Count,ket_qua,2827,2827,có
+51265,Platelet Count,benh_nhan,100,100,có
+51265,Platelet Count,moc_do,2825,2825,có
+51265,Platelet Count,gia_tri,553,553,có
+51265,Platelet Count,do_lap,100,100,có
+51265,Platelet Count,don_vi,K/uL (2827),K/uL (2827),có
+51266,Platelet Smear,nhom,Blood Hematology,Blood Hematology,có
+51266,Platelet Smear,label,Platelet Smear,Platelet Smear,có
+51266,Platelet Smear,ket_qua,454,454,có
+51266,Platelet Smear,benh_nhan,39,39,có
+51266,Platelet Smear,moc_do,454,454,có
+51266,Platelet Smear,gia_tri,0,0,có
+51266,Platelet Smear,do_lap,22,22,có
+51266,Platelet Smear,don_vi,N/A (201),N/A (201),có
+51267,Poikilocytosis,nhom,Blood Hematology,Blood Hematology,có
+51267,Poikilocytosis,label,Poikilocytosis,Poikilocytosis,có
+51267,Poikilocytosis,ket_qua,433,433,có
+51267,Poikilocytosis,benh_nhan,34,34,có
+51267,Poikilocytosis,moc_do,433,433,có
+51267,Poikilocytosis,gia_tri,0,0,có
+51267,Poikilocytosis,do_lap,22,22,có
+51267,Poikilocytosis,don_vi,N/A (192),N/A (192),có
+51268,Polychromasia,nhom,Blood Hematology,Blood Hematology,có
+51268,Polychromasia,label,Polychromasia,Polychromasia,có
+51268,Polychromasia,ket_qua,426,426,có
+51268,Polychromasia,benh_nhan,34,34,có
+51268,Polychromasia,moc_do,426,426,có
+51268,Polychromasia,gia_tri,0,0,có
+51268,Polychromasia,do_lap,22,22,có
+51268,Polychromasia,don_vi,N/A (185),N/A (185),có
+51269,Promyelocytes,nhom,Blood Hematology,Blood Hematology,có
+51269,Promyelocytes,label,Promyelocytes,Promyelocytes,có
+51269,Promyelocytes,ket_qua,43,43,có
+51269,Promyelocytes,benh_nhan,3,3,có
+51269,Promyelocytes,moc_do,43,43,có
+51269,Promyelocytes,gia_tri,8,8,có
+51269,Promyelocytes,do_lap,2,2,có
+51269,Promyelocytes,don_vi,% (43),% (43),có
+51271,"Protein C, Functional",nhom,Blood Hematology,Blood Hematology,có
+51271,"Protein C, Functional",label,"Protein C, Functional","Protein C, Functional",có
+51271,"Protein C, Functional",ket_qua,1,1,có
+51271,"Protein C, Functional",benh_nhan,1,1,có
+51271,"Protein C, Functional",moc_do,1,1,có
+51271,"Protein C, Functional",gia_tri,1,1,có
+51271,"Protein C, Functional",do_lap,0,0,có
+51271,"Protein C, Functional",don_vi,% (1),% (1),có
+51274,PT,nhom,Blood Hematology,Blood Hematology,có
+51274,PT,label,PT,PT,có
+51274,PT,ket_qua,1481,1481,có
+51274,PT,benh_nhan,100,100,có
+51274,PT,moc_do,1480,1480,có
+51274,PT,gia_tri,245,245,có
+51274,PT,do_lap,94,94,có
+51274,PT,don_vi,sec (1481),sec (1481),có
+51275,PTT,nhom,Blood Hematology,Blood Hematology,có
+51275,PTT,label,PTT,PTT,có
+51275,PTT,ket_qua,1500,1500,có
+51275,PTT,benh_nhan,100,100,có
+51275,PTT,moc_do,1498,1498,có
+51275,PTT,gia_tri,441,441,có
+51275,PTT,do_lap,93,93,có
+51275,PTT,don_vi,sec (1500),sec (1500),có
+51276,Quantitative G6PD,nhom,Blood Hematology,Blood Hematology,có
+51276,Quantitative G6PD,label,Quantitative G6PD,Quantitative G6PD,có
+51276,Quantitative G6PD,ket_qua,1,1,có
+51276,Quantitative G6PD,benh_nhan,1,1,có
+51276,Quantitative G6PD,moc_do,1,1,có
+51276,Quantitative G6PD,gia_tri,1,1,có
+51276,Quantitative G6PD,do_lap,0,0,có
+51276,Quantitative G6PD,don_vi,U/g/Hb (1),U/g/Hb (1),có
+51277,RDW,nhom,Blood Hematology,Blood Hematology,có
+51277,RDW,label,RDW,RDW,có
+51277,RDW,ket_qua,2760,2760,có
+51277,RDW,benh_nhan,100,100,có
+51277,RDW,moc_do,2759,2759,có
+51277,RDW,gia_tri,147,147,có
+51277,RDW,do_lap,100,100,có
+51277,RDW,don_vi,% (2760),% (2760),có
+51279,Red Blood Cells,nhom,Blood Hematology,Blood Hematology,có
+51279,Red Blood Cells,label,Red Blood Cells,Red Blood Cells,có
+51279,Red Blood Cells,ket_qua,2760,2760,có
+51279,Red Blood Cells,benh_nhan,100,100,có
+51279,Red Blood Cells,moc_do,2759,2759,có
+51279,Red Blood Cells,gia_tri,380,380,có
+51279,Red Blood Cells,do_lap,100,100,có
+51279,Red Blood Cells,don_vi,m/uL (2760),m/uL (2760),có
+51282,"Reticulocyte Count, Absolute",nhom,Blood Hematology,Blood Hematology,có
+51282,"Reticulocyte Count, Absolute",label,"Reticulocyte Count, Absolute","Reticulocyte Count, Absolute",có
+51282,"Reticulocyte Count, Absolute",ket_qua,28,28,có
+51282,"Reticulocyte Count, Absolute",benh_nhan,12,12,có
+51282,"Reticulocyte Count, Absolute",moc_do,28,28,có
+51282,"Reticulocyte Count, Absolute",gia_tri,16,16,có
+51282,"Reticulocyte Count, Absolute",do_lap,6,6,có
+51282,"Reticulocyte Count, Absolute",don_vi,m/uL (28),m/uL (28),có
+51283,"Reticulocyte Count, Automated",nhom,Blood Hematology,Blood Hematology,có
+51283,"Reticulocyte Count, Automated",label,"Reticulocyte Count, Automated","Reticulocyte Count, Automated",có
+51283,"Reticulocyte Count, Automated",ket_qua,39,39,có
+51283,"Reticulocyte Count, Automated",benh_nhan,17,17,có
+51283,"Reticulocyte Count, Automated",moc_do,39,39,có
+51283,"Reticulocyte Count, Automated",gia_tri,29,29,có
+51283,"Reticulocyte Count, Automated",do_lap,8,8,có
+51283,"Reticulocyte Count, Automated",don_vi,% (39),% (39),có
+51287,Schistocytes,nhom,Blood Hematology,Blood Hematology,có
+51287,Schistocytes,label,Schistocytes,Schistocytes,có
+51287,Schistocytes,ket_qua,89,89,có
+51287,Schistocytes,benh_nhan,12,12,có
+51287,Schistocytes,moc_do,89,89,có
+51287,Schistocytes,gia_tri,0,0,có
+51287,Schistocytes,do_lap,6,6,có
+51287,Schistocytes,don_vi,N/A (38),N/A (38),có
+51288,Sedimentation Rate,nhom,Blood Hematology,Blood Hematology,có
+51288,Sedimentation Rate,label,Sedimentation Rate,Sedimentation Rate,có
+51288,Sedimentation Rate,ket_qua,19,19,có
+51288,Sedimentation Rate,benh_nhan,8,8,có
+51288,Sedimentation Rate,moc_do,19,19,có
+51288,Sedimentation Rate,gia_tri,19,19,có
+51288,Sedimentation Rate,do_lap,3,3,có
+51288,Sedimentation Rate,don_vi,mm/hr (19),mm/hr (19),có
+51292,Spherocytes,nhom,Blood Hematology,Blood Hematology,có
+51292,Spherocytes,label,Spherocytes,Spherocytes,có
+51292,Spherocytes,ket_qua,34,34,có
+51292,Spherocytes,benh_nhan,4,4,có
+51292,Spherocytes,moc_do,34,34,có
+51292,Spherocytes,gia_tri,0,0,có
+51292,Spherocytes,do_lap,3,3,có
+51292,Spherocytes,don_vi,N/A (17),N/A (17),có
+51294,Target Cells,nhom,Blood Hematology,Blood Hematology,có
+51294,Target Cells,label,Target Cells,Target Cells,có
+51294,Target Cells,ket_qua,11,11,có
+51294,Target Cells,benh_nhan,5,5,có
+51294,Target Cells,moc_do,11,11,có
+51294,Target Cells,gia_tri,0,0,có
+51294,Target Cells,do_lap,5,5,có
+51294,Target Cells,don_vi,Không có,Không có,có
+51296,Teardrop Cells,nhom,Blood Hematology,Blood Hematology,có
+51296,Teardrop Cells,label,Teardrop Cells,Teardrop Cells,có
+51296,Teardrop Cells,ket_qua,171,171,có
+51296,Teardrop Cells,benh_nhan,12,12,có
+51296,Teardrop Cells,moc_do,171,171,có
+51296,Teardrop Cells,gia_tri,0,0,có
+51296,Teardrop Cells,do_lap,7,7,có
+51296,Teardrop Cells,don_vi,N/A (98),N/A (98),có
+51297,Thrombin,nhom,Blood Hematology,Blood Hematology,có
+51297,Thrombin,label,Thrombin,Thrombin,có
+51297,Thrombin,ket_qua,1,1,có
+51297,Thrombin,benh_nhan,1,1,có
+51297,Thrombin,moc_do,1,1,có
+51297,Thrombin,gia_tri,1,1,có
+51297,Thrombin,do_lap,0,0,có
+51297,Thrombin,don_vi,sec (1),sec (1),có
+51300,WBC Count,nhom,Blood Hematology,Blood Hematology,có
+51300,WBC Count,label,WBC Count,WBC Count,có
+51300,WBC Count,ket_qua,16,16,có
+51300,WBC Count,benh_nhan,1,1,có
+51300,WBC Count,moc_do,16,16,có
+51300,WBC Count,gia_tri,13,13,có
+51300,WBC Count,do_lap,1,1,có
+51300,WBC Count,don_vi,K/uL (16),K/uL (16),có
+51301,White Blood Cells,nhom,Blood Hematology,Blood Hematology,có
+51301,White Blood Cells,label,White Blood Cells,White Blood Cells,có
+51301,White Blood Cells,ket_qua,2760,2760,có
+51301,White Blood Cells,benh_nhan,100,100,có
+51301,White Blood Cells,moc_do,2759,2759,có
+51301,White Blood Cells,gia_tri,411,411,có
+51301,White Blood Cells,do_lap,100,100,có
+51301,White Blood Cells,don_vi,K/uL (2760),K/uL (2760),có
+51305,CD117,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51305,CD117,label,CD117,CD117,có
+51305,CD117,ket_qua,4,4,có
+51305,CD117,benh_nhan,1,1,có
+51305,CD117,moc_do,4,4,có
+51305,CD117,gia_tri,1,1,có
+51305,CD117,do_lap,1,1,có
+51305,CD117,don_vi,Không có,Không có,có
+51306,CD11c,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51306,CD11c,label,CD11c,CD11c,có
+51306,CD11c,ket_qua,1,1,có
+51306,CD11c,benh_nhan,1,1,có
+51306,CD11c,moc_do,1,1,có
+51306,CD11c,gia_tri,1,1,có
+51306,CD11c,do_lap,0,0,có
+51306,CD11c,don_vi,Không có,Không có,có
+51307,CD13,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51307,CD13,label,CD13,CD13,có
+51307,CD13,ket_qua,4,4,có
+51307,CD13,benh_nhan,1,1,có
+51307,CD13,moc_do,4,4,có
+51307,CD13,gia_tri,1,1,có
+51307,CD13,do_lap,1,1,có
+51307,CD13,don_vi,Không có,Không có,có
+51309,CD14,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51309,CD14,label,CD14,CD14,có
+51309,CD14,ket_qua,1,1,có
+51309,CD14,benh_nhan,1,1,có
+51309,CD14,moc_do,1,1,có
+51309,CD14,gia_tri,1,1,có
+51309,CD14,do_lap,0,0,có
+51309,CD14,don_vi,Không có,Không có,có
+51310,CD15,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51310,CD15,label,CD15,CD15,có
+51310,CD15,ket_qua,4,4,có
+51310,CD15,benh_nhan,1,1,có
+51310,CD15,moc_do,4,4,có
+51310,CD15,gia_tri,1,1,có
+51310,CD15,do_lap,1,1,có
+51310,CD15,don_vi,Không có,Không có,có
+51313,CD19,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51313,CD19,label,CD19,CD19,có
+51313,CD19,ket_qua,1,1,có
+51313,CD19,benh_nhan,1,1,có
+51313,CD19,moc_do,1,1,có
+51313,CD19,gia_tri,1,1,có
+51313,CD19,do_lap,0,0,có
+51313,CD19,don_vi,Không có,Không có,có
+51314,CD2,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51314,CD2,label,CD2,CD2,có
+51314,CD2,ket_qua,1,1,có
+51314,CD2,benh_nhan,1,1,có
+51314,CD2,moc_do,1,1,có
+51314,CD2,gia_tri,1,1,có
+51314,CD2,do_lap,0,0,có
+51314,CD2,don_vi,Không có,Không có,có
+51315,CD20,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51315,CD20,label,CD20,CD20,có
+51315,CD20,ket_qua,1,1,có
+51315,CD20,benh_nhan,1,1,có
+51315,CD20,moc_do,1,1,có
+51315,CD20,gia_tri,1,1,có
+51315,CD20,do_lap,0,0,có
+51315,CD20,don_vi,Không có,Không có,có
+51319,CD3,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51319,CD3,label,CD3,CD3,có
+51319,CD3,ket_qua,1,1,có
+51319,CD3,benh_nhan,1,1,có
+51319,CD3,moc_do,1,1,có
+51319,CD3,gia_tri,1,1,có
+51319,CD3,do_lap,0,0,có
+51319,CD3,don_vi,Không có,Không có,có
+51320,CD33,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51320,CD33,label,CD33,CD33,có
+51320,CD33,ket_qua,1,1,có
+51320,CD33,benh_nhan,1,1,có
+51320,CD33,moc_do,1,1,có
+51320,CD33,gia_tri,1,1,có
+51320,CD33,do_lap,0,0,có
+51320,CD33,don_vi,Không có,Không có,có
+51321,CD34,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51321,CD34,label,CD34,CD34,có
+51321,CD34,ket_qua,4,4,có
+51321,CD34,benh_nhan,1,1,có
+51321,CD34,moc_do,4,4,có
+51321,CD34,gia_tri,1,1,có
+51321,CD34,do_lap,1,1,có
+51321,CD34,don_vi,Không có,Không có,có
+51323,CD4,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51323,CD4,label,CD4,CD4,có
+51323,CD4,ket_qua,1,1,có
+51323,CD4,benh_nhan,1,1,có
+51323,CD4,moc_do,1,1,có
+51323,CD4,gia_tri,1,1,có
+51323,CD4,do_lap,0,0,có
+51323,CD4,don_vi,Không có,Không có,có
+51324,CD41,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51324,CD41,label,CD41,CD41,có
+51324,CD41,ket_qua,1,1,có
+51324,CD41,benh_nhan,1,1,có
+51324,CD41,moc_do,1,1,có
+51324,CD41,gia_tri,1,1,có
+51324,CD41,do_lap,0,0,có
+51324,CD41,don_vi,Không có,Không có,có
+51325,CD45,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51325,CD45,label,CD45,CD45,có
+51325,CD45,ket_qua,4,4,có
+51325,CD45,benh_nhan,1,1,có
+51325,CD45,moc_do,4,4,có
+51325,CD45,gia_tri,1,1,có
+51325,CD45,do_lap,1,1,có
+51325,CD45,don_vi,Không có,Không có,có
+51326,CD5,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51326,CD5,label,CD5,CD5,có
+51326,CD5,ket_qua,1,1,có
+51326,CD5,benh_nhan,1,1,có
+51326,CD5,moc_do,1,1,có
+51326,CD5,gia_tri,1,1,có
+51326,CD5,do_lap,0,0,có
+51326,CD5,don_vi,Không có,Không có,có
+51328,CD56,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51328,CD56,label,CD56,CD56,có
+51328,CD56,ket_qua,1,1,có
+51328,CD56,benh_nhan,1,1,có
+51328,CD56,moc_do,1,1,có
+51328,CD56,gia_tri,1,1,có
+51328,CD56,do_lap,0,0,có
+51328,CD56,don_vi,Không có,Không có,có
+51331,CD64,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51331,CD64,label,CD64,CD64,có
+51331,CD64,ket_qua,1,1,có
+51331,CD64,benh_nhan,1,1,có
+51331,CD64,moc_do,1,1,có
+51331,CD64,gia_tri,1,1,có
+51331,CD64,do_lap,0,0,có
+51331,CD64,don_vi,Không có,Không có,có
+51332,CD7,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51332,CD7,label,CD7,CD7,có
+51332,CD7,ket_qua,1,1,có
+51332,CD7,benh_nhan,1,1,có
+51332,CD7,moc_do,1,1,có
+51332,CD7,gia_tri,1,1,có
+51332,CD7,do_lap,0,0,có
+51332,CD7,don_vi,Không có,Không có,có
+51333,CD71,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51333,CD71,label,CD71,CD71,có
+51333,CD71,ket_qua,1,1,có
+51333,CD71,benh_nhan,1,1,có
+51333,CD71,moc_do,1,1,có
+51333,CD71,gia_tri,1,1,có
+51333,CD71,do_lap,0,0,có
+51333,CD71,don_vi,Không có,Không có,có
+51334,CD8,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51334,CD8,label,CD8,CD8,có
+51334,CD8,ket_qua,1,1,có
+51334,CD8,benh_nhan,1,1,có
+51334,CD8,moc_do,1,1,có
+51334,CD8,gia_tri,1,1,có
+51334,CD8,do_lap,0,0,có
+51334,CD8,don_vi,Không có,Không có,có
+51336,Glyco A,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51336,Glyco A,label,Glyco A,Glyco A,có
+51336,Glyco A,ket_qua,1,1,có
+51336,Glyco A,benh_nhan,1,1,có
+51336,Glyco A,moc_do,1,1,có
+51336,Glyco A,gia_tri,1,1,có
+51336,Glyco A,do_lap,0,0,có
+51336,Glyco A,don_vi,Không có,Không có,có
+51337,HLA-DR,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51337,HLA-DR,label,HLA-DR,HLA-DR,có
+51337,HLA-DR,ket_qua,1,1,có
+51337,HLA-DR,benh_nhan,1,1,có
+51337,HLA-DR,moc_do,1,1,có
+51337,HLA-DR,gia_tri,1,1,có
+51337,HLA-DR,do_lap,0,0,có
+51337,HLA-DR,don_vi,Không có,Không có,có
+51338,Immunophenotyping,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51338,Immunophenotyping,label,Immunophenotyping,Immunophenotyping,có
+51338,Immunophenotyping,ket_qua,10,10,có
+51338,Immunophenotyping,benh_nhan,2,2,có
+51338,Immunophenotyping,moc_do,10,10,có
+51338,Immunophenotyping,gia_tri,1,1,có
+51338,Immunophenotyping,do_lap,2,2,có
+51338,Immunophenotyping,don_vi,Không có,Không có,có
+51340,Kappa,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51340,Kappa,label,Kappa,Kappa,có
+51340,Kappa,ket_qua,1,1,có
+51340,Kappa,benh_nhan,1,1,có
+51340,Kappa,moc_do,1,1,có
+51340,Kappa,gia_tri,1,1,có
+51340,Kappa,do_lap,0,0,có
+51340,Kappa,don_vi,Không có,Không có,có
+51341,Lambda,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+51341,Lambda,label,Lambda,Lambda,có
+51341,Lambda,ket_qua,1,1,có
+51341,Lambda,benh_nhan,1,1,có
+51341,Lambda,moc_do,1,1,có
+51341,Lambda,gia_tri,1,1,có
+51341,Lambda,do_lap,0,0,có
+51341,Lambda,don_vi,Không có,Không có,có
+51369,"Hematocrit, Joint Fluid",nhom,Joint Fluid Hematology,Joint Fluid Hematology,có
+51369,"Hematocrit, Joint Fluid",label,"Hematocrit, Joint Fluid","Hematocrit, Joint Fluid",có
+51369,"Hematocrit, Joint Fluid",ket_qua,1,1,có
+51369,"Hematocrit, Joint Fluid",benh_nhan,1,1,có
+51369,"Hematocrit, Joint Fluid",moc_do,1,1,có
+51369,"Hematocrit, Joint Fluid",gia_tri,1,1,có
+51369,"Hematocrit, Joint Fluid",do_lap,0,0,có
+51369,"Hematocrit, Joint Fluid",don_vi,% (1),% (1),có
+51373,"Joint Crystals, Number",nhom,Joint Fluid Hematology,Joint Fluid Hematology,có
+51373,"Joint Crystals, Number",label,"Joint Crystals, Number","Joint Crystals, Number",có
+51373,"Joint Crystals, Number",ket_qua,2,2,có
+51373,"Joint Crystals, Number",benh_nhan,2,2,có
+51373,"Joint Crystals, Number",moc_do,2,2,có
+51373,"Joint Crystals, Number",gia_tri,1,1,có
+51373,"Joint Crystals, Number",do_lap,0,0,có
+51373,"Joint Crystals, Number",don_vi,Không có,Không có,có
+51375,Lymphocytes,nhom,Joint Fluid Hematology,Joint Fluid Hematology,có
+51375,Lymphocytes,label,Lymphocytes,Lymphocytes,có
+51375,Lymphocytes,ket_qua,2,2,có
+51375,Lymphocytes,benh_nhan,2,2,có
+51375,Lymphocytes,moc_do,2,2,có
+51375,Lymphocytes,gia_tri,2,2,có
+51375,Lymphocytes,do_lap,0,0,có
+51375,Lymphocytes,don_vi,% (2),% (2),có
+51376,Macrophage,nhom,Joint Fluid Hematology,Joint Fluid Hematology,có
+51376,Macrophage,label,Macrophage,Macrophage,có
+51376,Macrophage,ket_qua,2,2,có
+51376,Macrophage,benh_nhan,2,2,có
+51376,Macrophage,moc_do,2,2,có
+51376,Macrophage,gia_tri,2,2,có
+51376,Macrophage,do_lap,0,0,có
+51376,Macrophage,don_vi,% (2),% (2),có
+51379,Monocytes,nhom,Joint Fluid Hematology,Joint Fluid Hematology,có
+51379,Monocytes,label,Monocytes,Monocytes,có
+51379,Monocytes,ket_qua,2,2,có
+51379,Monocytes,benh_nhan,2,2,có
+51379,Monocytes,moc_do,2,2,có
+51379,Monocytes,gia_tri,2,2,có
+51379,Monocytes,do_lap,0,0,có
+51379,Monocytes,don_vi,% (2),% (2),có
+51382,Polys,nhom,Joint Fluid Hematology,Joint Fluid Hematology,có
+51382,Polys,label,Polys,Polys,có
+51382,Polys,ket_qua,2,2,có
+51382,Polys,benh_nhan,2,2,có
+51382,Polys,moc_do,2,2,có
+51382,Polys,gia_tri,2,2,có
+51382,Polys,do_lap,0,0,có
+51382,Polys,don_vi,% (2),% (2),có
+51383,"RBC, Joint Fluid",nhom,Joint Fluid Hematology,Joint Fluid Hematology,có
+51383,"RBC, Joint Fluid",label,"RBC, Joint Fluid","RBC, Joint Fluid",có
+51383,"RBC, Joint Fluid",ket_qua,1,1,có
+51383,"RBC, Joint Fluid",benh_nhan,1,1,có
+51383,"RBC, Joint Fluid",moc_do,1,1,có
+51383,"RBC, Joint Fluid",gia_tri,1,1,có
+51383,"RBC, Joint Fluid",do_lap,0,0,có
+51383,"RBC, Joint Fluid",don_vi,#/uL (1),#/uL (1),có
+51386,Bands,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51386,Bands,label,Bands,Bands,có
+51386,Bands,ket_qua,1,1,có
+51386,Bands,benh_nhan,1,1,có
+51386,Bands,moc_do,1,1,có
+51386,Bands,gia_tri,1,1,có
+51386,Bands,do_lap,0,0,có
+51386,Bands,don_vi,% (1),% (1),có
+51387,Basophils,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51387,Basophils,label,Basophils,Basophils,có
+51387,Basophils,ket_qua,2,2,có
+51387,Basophils,benh_nhan,1,1,có
+51387,Basophils,moc_do,2,2,có
+51387,Basophils,gia_tri,1,1,có
+51387,Basophils,do_lap,1,1,có
+51387,Basophils,don_vi,% (2),% (2),có
+51388,CD10,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51388,CD10,label,CD10,CD10,có
+51388,CD10,ket_qua,1,1,có
+51388,CD10,benh_nhan,1,1,có
+51388,CD10,moc_do,1,1,có
+51388,CD10,gia_tri,1,1,có
+51388,CD10,do_lap,0,0,có
+51388,CD10,don_vi,Không có,Không có,có
+51398,CD19,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51398,CD19,label,CD19,CD19,có
+51398,CD19,ket_qua,3,3,có
+51398,CD19,benh_nhan,2,2,có
+51398,CD19,moc_do,3,3,có
+51398,CD19,gia_tri,3,3,có
+51398,CD19,do_lap,1,1,có
+51398,CD19,don_vi,Không có,Không có,có
+51400,CD20,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51400,CD20,label,CD20,CD20,có
+51400,CD20,ket_qua,1,1,có
+51400,CD20,benh_nhan,1,1,có
+51400,CD20,moc_do,1,1,có
+51400,CD20,gia_tri,1,1,có
+51400,CD20,do_lap,0,0,có
+51400,CD20,don_vi,Không có,Không có,có
+51404,CD3,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51404,CD3,label,CD3,CD3,có
+51404,CD3,ket_qua,2,2,có
+51404,CD3,benh_nhan,1,1,có
+51404,CD3,moc_do,2,2,có
+51404,CD3,gia_tri,2,2,có
+51404,CD3,do_lap,1,1,có
+51404,CD3,don_vi,Không có,Không có,có
+51406,CD34,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51406,CD34,label,CD34,CD34,có
+51406,CD34,ket_qua,2,2,có
+51406,CD34,benh_nhan,1,1,có
+51406,CD34,moc_do,2,2,có
+51406,CD34,gia_tri,2,2,có
+51406,CD34,do_lap,1,1,có
+51406,CD34,don_vi,#/uL (2),#/uL (2),có
+51411,CD45,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51411,CD45,label,CD45,CD45,có
+51411,CD45,ket_qua,3,3,có
+51411,CD45,benh_nhan,2,2,có
+51411,CD45,moc_do,3,3,có
+51411,CD45,gia_tri,1,1,có
+51411,CD45,do_lap,1,1,có
+51411,CD45,don_vi,Không có,Không có,có
+51412,CD5,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51412,CD5,label,CD5,CD5,có
+51412,CD5,ket_qua,1,1,có
+51412,CD5,benh_nhan,1,1,có
+51412,CD5,moc_do,1,1,có
+51412,CD5,gia_tri,1,1,có
+51412,CD5,do_lap,0,0,có
+51412,CD5,don_vi,Không có,Không có,có
+51419,Eosinophils,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51419,Eosinophils,label,Eosinophils,Eosinophils,có
+51419,Eosinophils,ket_qua,4,4,có
+51419,Eosinophils,benh_nhan,3,3,có
+51419,Eosinophils,moc_do,4,4,có
+51419,Eosinophils,gia_tri,3,3,có
+51419,Eosinophils,do_lap,1,1,có
+51419,Eosinophils,don_vi,% (4),% (4),có
+51422,"Hematocrit, Other Fluid",nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51422,"Hematocrit, Other Fluid",label,"Hematocrit, Other Fluid","Hematocrit, Other Fluid",có
+51422,"Hematocrit, Other Fluid",ket_qua,2,2,có
+51422,"Hematocrit, Other Fluid",benh_nhan,2,2,có
+51422,"Hematocrit, Other Fluid",moc_do,2,2,có
+51422,"Hematocrit, Other Fluid",gia_tri,1,1,có
+51422,"Hematocrit, Other Fluid",do_lap,0,0,có
+51422,"Hematocrit, Other Fluid",don_vi,% (2),% (2),có
+51424,Immunophenotyping,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51424,Immunophenotyping,label,Immunophenotyping,Immunophenotyping,có
+51424,Immunophenotyping,ket_qua,3,3,có
+51424,Immunophenotyping,benh_nhan,3,3,có
+51424,Immunophenotyping,moc_do,3,3,có
+51424,Immunophenotyping,gia_tri,1,1,có
+51424,Immunophenotyping,do_lap,0,0,có
+51424,Immunophenotyping,don_vi,Không có,Không có,có
+51425,Kappa,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51425,Kappa,label,Kappa,Kappa,có
+51425,Kappa,ket_qua,1,1,có
+51425,Kappa,benh_nhan,1,1,có
+51425,Kappa,moc_do,1,1,có
+51425,Kappa,gia_tri,1,1,có
+51425,Kappa,do_lap,0,0,có
+51425,Kappa,don_vi,Không có,Không có,có
+51426,Lambda,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51426,Lambda,label,Lambda,Lambda,có
+51426,Lambda,ket_qua,1,1,có
+51426,Lambda,benh_nhan,1,1,có
+51426,Lambda,moc_do,1,1,có
+51426,Lambda,gia_tri,1,1,có
+51426,Lambda,do_lap,0,0,có
+51426,Lambda,don_vi,Không có,Không có,có
+51427,Lymphocytes,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51427,Lymphocytes,label,Lymphocytes,Lymphocytes,có
+51427,Lymphocytes,ket_qua,13,13,có
+51427,Lymphocytes,benh_nhan,9,9,có
+51427,Lymphocytes,moc_do,13,13,có
+51427,Lymphocytes,gia_tri,10,10,có
+51427,Lymphocytes,do_lap,4,4,có
+51427,Lymphocytes,don_vi,% (13),% (13),có
+51428,Macrophage,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51428,Macrophage,label,Macrophage,Macrophage,có
+51428,Macrophage,ket_qua,9,9,có
+51428,Macrophage,benh_nhan,6,6,có
+51428,Macrophage,moc_do,9,9,có
+51428,Macrophage,gia_tri,6,6,có
+51428,Macrophage,do_lap,3,3,có
+51428,Macrophage,don_vi,% (9),% (9),có
+51429,Mesothelial cells,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51429,Mesothelial cells,label,Mesothelial cells,Mesothelial cells,có
+51429,Mesothelial cells,ket_qua,1,1,có
+51429,Mesothelial cells,benh_nhan,1,1,có
+51429,Mesothelial cells,moc_do,1,1,có
+51429,Mesothelial cells,gia_tri,1,1,có
+51429,Mesothelial cells,do_lap,0,0,có
+51429,Mesothelial cells,don_vi,% (1),% (1),có
+51431,Monos,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51431,Monos,label,Monos,Monos,có
+51431,Monos,ket_qua,13,13,có
+51431,Monos,benh_nhan,9,9,có
+51431,Monos,moc_do,13,13,có
+51431,Monos,gia_tri,8,8,có
+51431,Monos,do_lap,4,4,có
+51431,Monos,don_vi,% (13),% (13),có
+51434,Other Cell,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51434,Other Cell,label,Other Cell,Other Cell,có
+51434,Other Cell,ket_qua,9,9,có
+51434,Other Cell,benh_nhan,6,6,có
+51434,Other Cell,moc_do,9,9,có
+51434,Other Cell,gia_tri,1,1,có
+51434,Other Cell,do_lap,3,3,có
+51434,Other Cell,don_vi,% (9),% (9),có
+51436,Polys,nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51436,Polys,label,Polys,Polys,có
+51436,Polys,ket_qua,13,13,có
+51436,Polys,benh_nhan,9,9,có
+51436,Polys,moc_do,13,13,có
+51436,Polys,gia_tri,10,10,có
+51436,Polys,do_lap,4,4,có
+51436,Polys,don_vi,% (13),% (13),có
+51438,"RBC, Other Fluid",nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+51438,"RBC, Other Fluid",label,"RBC, Other Fluid","RBC, Other Fluid",có
+51438,"RBC, Other Fluid",ket_qua,1,1,có
+51438,"RBC, Other Fluid",benh_nhan,1,1,có
+51438,"RBC, Other Fluid",moc_do,1,1,có
+51438,"RBC, Other Fluid",gia_tri,1,1,có
+51438,"RBC, Other Fluid",do_lap,0,0,có
+51438,"RBC, Other Fluid",don_vi,#/uL (1),#/uL (1),có
+51444,Eosinophils,nhom,Pleural Hematology,Pleural Hematology,có
+51444,Eosinophils,label,Eosinophils,Eosinophils,có
+51444,Eosinophils,ket_qua,5,5,có
+51444,Eosinophils,benh_nhan,5,5,có
+51444,Eosinophils,moc_do,5,5,có
+51444,Eosinophils,gia_tri,4,4,có
+51444,Eosinophils,do_lap,0,0,có
+51444,Eosinophils,don_vi,% (5),% (5),có
+51446,Lymphocytes,nhom,Pleural Hematology,Pleural Hematology,có
+51446,Lymphocytes,label,Lymphocytes,Lymphocytes,có
+51446,Lymphocytes,ket_qua,9,9,có
+51446,Lymphocytes,benh_nhan,8,8,có
+51446,Lymphocytes,moc_do,9,9,có
+51446,Lymphocytes,gia_tri,8,8,có
+51446,Lymphocytes,do_lap,1,1,có
+51446,Lymphocytes,don_vi,% (9),% (9),có
+51447,Macrophages,nhom,Pleural Hematology,Pleural Hematology,có
+51447,Macrophages,label,Macrophages,Macrophages,có
+51447,Macrophages,ket_qua,7,7,có
+51447,Macrophages,benh_nhan,6,6,có
+51447,Macrophages,moc_do,7,7,có
+51447,Macrophages,gia_tri,6,6,có
+51447,Macrophages,do_lap,1,1,có
+51447,Macrophages,don_vi,% (7),% (7),có
+51448,Mesothelial Cells,nhom,Pleural Hematology,Pleural Hematology,có
+51448,Mesothelial Cells,label,Mesothelial Cells,Mesothelial Cells,có
+51448,Mesothelial Cells,ket_qua,7,7,có
+51448,Mesothelial Cells,benh_nhan,6,6,có
+51448,Mesothelial Cells,moc_do,7,7,có
+51448,Mesothelial Cells,gia_tri,5,5,có
+51448,Mesothelial Cells,do_lap,1,1,có
+51448,Mesothelial Cells,don_vi,% (7),% (7),có
+51450,Monos,nhom,Pleural Hematology,Pleural Hematology,có
+51450,Monos,label,Monos,Monos,có
+51450,Monos,ket_qua,9,9,có
+51450,Monos,benh_nhan,8,8,có
+51450,Monos,moc_do,9,9,có
+51450,Monos,gia_tri,6,6,có
+51450,Monos,do_lap,1,1,có
+51450,Monos,don_vi,% (9),% (9),có
+51453,Other,nhom,Pleural Hematology,Pleural Hematology,có
+51453,Other,label,Other,Other,có
+51453,Other,ket_qua,2,2,có
+51453,Other,benh_nhan,2,2,có
+51453,Other,moc_do,2,2,có
+51453,Other,gia_tri,1,1,có
+51453,Other,do_lap,0,0,có
+51453,Other,don_vi,% (2),% (2),có
+51454,Plasma Cells,nhom,Pleural Hematology,Pleural Hematology,có
+51454,Plasma Cells,label,Plasma Cells,Plasma Cells,có
+51454,Plasma Cells,ket_qua,1,1,có
+51454,Plasma Cells,benh_nhan,1,1,có
+51454,Plasma Cells,moc_do,1,1,có
+51454,Plasma Cells,gia_tri,1,1,có
+51454,Plasma Cells,do_lap,0,0,có
+51454,Plasma Cells,don_vi,% (1),% (1),có
+51455,Polys,nhom,Pleural Hematology,Pleural Hematology,có
+51455,Polys,label,Polys,Polys,có
+51455,Polys,ket_qua,9,9,có
+51455,Polys,benh_nhan,8,8,có
+51455,Polys,moc_do,9,9,có
+51455,Polys,gia_tri,9,9,có
+51455,Polys,do_lap,1,1,có
+51455,Polys,don_vi,% (9),% (9),có
+51457,"RBC, Pleural",nhom,Pleural Hematology,Pleural Hematology,có
+51457,"RBC, Pleural",label,"RBC, Pleural","RBC, Pleural",có
+51457,"RBC, Pleural",ket_qua,9,9,có
+51457,"RBC, Pleural",benh_nhan,8,8,có
+51457,"RBC, Pleural",moc_do,9,9,có
+51457,"RBC, Pleural",gia_tri,9,9,có
+51457,"RBC, Pleural",do_lap,1,1,có
+51457,"RBC, Pleural",don_vi,#/uL (9),#/uL (9),có
+51460,"Blood, Occult",nhom,Stool Hematology,Stool Hematology,có
+51460,"Blood, Occult",label,"Blood, Occult","Blood, Occult",có
+51460,"Blood, Occult",ket_qua,3,3,có
+51460,"Blood, Occult",benh_nhan,3,3,có
+51460,"Blood, Occult",moc_do,3,3,có
+51460,"Blood, Occult",gia_tri,0,0,có
+51460,"Blood, Occult",do_lap,0,0,có
+51460,"Blood, Occult",don_vi,N/A (1),N/A (1),có
+51462,Amorphous Crystals,nhom,Urine Hematology,Urine Hematology,có
+51462,Amorphous Crystals,label,Amorphous Crystals,Amorphous Crystals,có
+51462,Amorphous Crystals,ket_qua,24,24,có
+51462,Amorphous Crystals,benh_nhan,19,19,có
+51462,Amorphous Crystals,moc_do,24,24,có
+51462,Amorphous Crystals,gia_tri,0,0,có
+51462,Amorphous Crystals,do_lap,5,5,có
+51462,Amorphous Crystals,don_vi,/hpf (1),/hpf (1),có
+51463,Bacteria,nhom,Urine Hematology,Urine Hematology,có
+51463,Bacteria,label,Bacteria,Bacteria,có
+51463,Bacteria,ket_qua,267,267,có
+51463,Bacteria,benh_nhan,76,76,có
+51463,Bacteria,moc_do,267,267,có
+51463,Bacteria,gia_tri,4,4,có
+51463,Bacteria,do_lap,48,48,có
+51463,Bacteria,don_vi,/hpf (41),/hpf (41),có
+51464,Bilirubin,nhom,Urine Hematology,Urine Hematology,có
+51464,Bilirubin,label,Bilirubin,Bilirubin,có
+51464,Bilirubin,ket_qua,339,339,có
+51464,Bilirubin,benh_nhan,86,86,có
+51464,Bilirubin,moc_do,339,339,có
+51464,Bilirubin,gia_tri,4,4,có
+51464,Bilirubin,do_lap,58,58,có
+51464,Bilirubin,don_vi,mg/dL (283); N/A (56),mg/dL (283); N/A (56),có
+51466,Blood,nhom,Urine Hematology,Urine Hematology,có
+51466,Blood,label,Blood,Blood,có
+51466,Blood,ket_qua,339,339,có
+51466,Blood,benh_nhan,86,86,có
+51466,Blood,moc_do,339,339,có
+51466,Blood,gia_tri,5,5,có
+51466,Blood,do_lap,58,58,có
+51466,Blood,don_vi,N/A (56),N/A (56),có
+51469,Calcium Oxalate Crystals,nhom,Urine Hematology,Urine Hematology,có
+51469,Calcium Oxalate Crystals,label,Calcium Oxalate Crystals,Calcium Oxalate Crystals,có
+51469,Calcium Oxalate Crystals,ket_qua,5,5,có
+51469,Calcium Oxalate Crystals,benh_nhan,4,4,có
+51469,Calcium Oxalate Crystals,moc_do,5,5,có
+51469,Calcium Oxalate Crystals,gia_tri,0,0,có
+51469,Calcium Oxalate Crystals,do_lap,1,1,có
+51469,Calcium Oxalate Crystals,don_vi,/hpf (2),/hpf (2),có
+51474,Eosinophils,nhom,Urine Hematology,Urine Hematology,có
+51474,Eosinophils,label,Eosinophils,Eosinophils,có
+51474,Eosinophils,ket_qua,2,2,có
+51474,Eosinophils,benh_nhan,2,2,có
+51474,Eosinophils,moc_do,2,2,có
+51474,Eosinophils,gia_tri,0,0,có
+51474,Eosinophils,do_lap,0,0,có
+51474,Eosinophils,don_vi,Không có,Không có,có
+51476,Epithelial Cells,nhom,Urine Hematology,Urine Hematology,có
+51476,Epithelial Cells,label,Epithelial Cells,Epithelial Cells,có
+51476,Epithelial Cells,ket_qua,267,267,có
+51476,Epithelial Cells,benh_nhan,76,76,có
+51476,Epithelial Cells,moc_do,267,267,có
+51476,Epithelial Cells,gia_tri,21,21,có
+51476,Epithelial Cells,do_lap,48,48,có
+51476,Epithelial Cells,don_vi,#/hpf (267),#/hpf (267),có
+51478,Glucose,nhom,Urine Hematology,Urine Hematology,có
+51478,Glucose,label,Glucose,Glucose,có
+51478,Glucose,ket_qua,339,339,có
+51478,Glucose,benh_nhan,86,86,có
+51478,Glucose,moc_do,339,339,có
+51478,Glucose,gia_tri,7,7,có
+51478,Glucose,do_lap,58,58,có
+51478,Glucose,don_vi,mg/dL (339),mg/dL (339),có
+51479,Granular Casts,nhom,Urine Hematology,Urine Hematology,có
+51479,Granular Casts,label,Granular Casts,Granular Casts,có
+51479,Granular Casts,ket_qua,18,18,có
+51479,Granular Casts,benh_nhan,13,13,có
+51479,Granular Casts,moc_do,18,18,có
+51479,Granular Casts,gia_tri,12,12,có
+51479,Granular Casts,do_lap,4,4,có
+51479,Granular Casts,don_vi,#/lpf (18),#/lpf (18),có
+51482,Hyaline Casts,nhom,Urine Hematology,Urine Hematology,có
+51482,Hyaline Casts,label,Hyaline Casts,Hyaline Casts,có
+51482,Hyaline Casts,ket_qua,97,97,có
+51482,Hyaline Casts,benh_nhan,45,45,có
+51482,Hyaline Casts,moc_do,97,97,có
+51482,Hyaline Casts,gia_tri,31,31,có
+51482,Hyaline Casts,do_lap,22,22,có
+51482,Hyaline Casts,don_vi,#/lpf (97),#/lpf (97),có
+51484,Ketone,nhom,Urine Hematology,Urine Hematology,có
+51484,Ketone,label,Ketone,Ketone,có
+51484,Ketone,ket_qua,339,339,có
+51484,Ketone,benh_nhan,86,86,có
+51484,Ketone,moc_do,339,339,có
+51484,Ketone,gia_tri,7,7,có
+51484,Ketone,do_lap,58,58,có
+51484,Ketone,don_vi,mg/dL (339),mg/dL (339),có
+51486,Leukocytes,nhom,Urine Hematology,Urine Hematology,có
+51486,Leukocytes,label,Leukocytes,Leukocytes,có
+51486,Leukocytes,ket_qua,339,339,có
+51486,Leukocytes,benh_nhan,86,86,có
+51486,Leukocytes,moc_do,339,339,có
+51486,Leukocytes,gia_tri,5,5,có
+51486,Leukocytes,do_lap,58,58,có
+51486,Leukocytes,don_vi,N/A (56),N/A (56),có
+51487,Nitrite,nhom,Urine Hematology,Urine Hematology,có
+51487,Nitrite,label,Nitrite,Nitrite,có
+51487,Nitrite,ket_qua,339,339,có
+51487,Nitrite,benh_nhan,86,86,có
+51487,Nitrite,moc_do,339,339,có
+51487,Nitrite,gia_tri,2,2,có
+51487,Nitrite,do_lap,58,58,có
+51487,Nitrite,don_vi,N/A (56),N/A (56),có
+51489,NonSquamous Epithelial Cell,nhom,Urine Hematology,Urine Hematology,có
+51489,NonSquamous Epithelial Cell,label,NonSquamous Epithelial Cell,NonSquamous Epithelial Cell,có
+51489,NonSquamous Epithelial Cell,ket_qua,1,1,có
+51489,NonSquamous Epithelial Cell,benh_nhan,1,1,có
+51489,NonSquamous Epithelial Cell,moc_do,1,1,có
+51489,NonSquamous Epithelial Cell,gia_tri,0,0,có
+51489,NonSquamous Epithelial Cell,do_lap,0,0,có
+51489,NonSquamous Epithelial Cell,don_vi,#/hpf (1),#/hpf (1),có
+51491,pH,nhom,Urine Hematology,Urine Hematology,có
+51491,pH,label,pH,pH,có
+51491,pH,ket_qua,339,339,có
+51491,pH,benh_nhan,86,86,có
+51491,pH,moc_do,339,339,có
+51491,pH,gia_tri,9,9,có
+51491,pH,do_lap,58,58,có
+51491,pH,don_vi,units (339),units (339),có
+51492,Protein,nhom,Urine Hematology,Urine Hematology,có
+51492,Protein,label,Protein,Protein,có
+51492,Protein,ket_qua,339,339,có
+51492,Protein,benh_nhan,86,86,có
+51492,Protein,moc_do,339,339,có
+51492,Protein,gia_tri,8,8,có
+51492,Protein,do_lap,58,58,có
+51492,Protein,don_vi,mg/dL (339),mg/dL (339),có
+51493,RBC,nhom,Urine Hematology,Urine Hematology,có
+51493,RBC,label,RBC,RBC,có
+51493,RBC,ket_qua,267,267,có
+51493,RBC,benh_nhan,76,76,có
+51493,RBC,moc_do,267,267,có
+51493,RBC,gia_tri,54,54,có
+51493,RBC,do_lap,48,48,có
+51493,RBC,don_vi,#/hpf (267),#/hpf (267),có
+51497,Renal Epithelial Cells,nhom,Urine Hematology,Urine Hematology,có
+51497,Renal Epithelial Cells,label,Renal Epithelial Cells,Renal Epithelial Cells,có
+51497,Renal Epithelial Cells,ket_qua,1,1,có
+51497,Renal Epithelial Cells,benh_nhan,1,1,có
+51497,Renal Epithelial Cells,moc_do,1,1,có
+51497,Renal Epithelial Cells,gia_tri,1,1,có
+51497,Renal Epithelial Cells,do_lap,0,0,có
+51497,Renal Epithelial Cells,don_vi,#/hpf (1),#/hpf (1),có
+51498,Specific Gravity,nhom,Urine Hematology,Urine Hematology,có
+51498,Specific Gravity,label,Specific Gravity,Specific Gravity,có
+51498,Specific Gravity,ket_qua,339,339,có
+51498,Specific Gravity,benh_nhan,86,86,có
+51498,Specific Gravity,moc_do,339,339,có
+51498,Specific Gravity,gia_tri,44,44,có
+51498,Specific Gravity,do_lap,58,58,có
+51498,Specific Gravity,don_vi,Không có,Không có,có
+51501,Transitional Epithelial Cells,nhom,Urine Hematology,Urine Hematology,có
+51501,Transitional Epithelial Cells,label,Transitional Epithelial Cells,Transitional Epithelial Cells,có
+51501,Transitional Epithelial Cells,ket_qua,43,43,có
+51501,Transitional Epithelial Cells,benh_nhan,29,29,có
+51501,Transitional Epithelial Cells,moc_do,43,43,có
+51501,Transitional Epithelial Cells,gia_tri,3,3,có
+51501,Transitional Epithelial Cells,do_lap,8,8,có
+51501,Transitional Epithelial Cells,don_vi,#/hpf (43),#/hpf (43),có
+51503,Triple Phosphate Crystals,nhom,Urine Hematology,Urine Hematology,có
+51503,Triple Phosphate Crystals,label,Triple Phosphate Crystals,Triple Phosphate Crystals,có
+51503,Triple Phosphate Crystals,ket_qua,2,2,có
+51503,Triple Phosphate Crystals,benh_nhan,1,1,có
+51503,Triple Phosphate Crystals,moc_do,2,2,có
+51503,Triple Phosphate Crystals,gia_tri,0,0,có
+51503,Triple Phosphate Crystals,do_lap,1,1,có
+51503,Triple Phosphate Crystals,don_vi,Không có,Không có,có
+51505,Uric Acid Crystals,nhom,Urine Hematology,Urine Hematology,có
+51505,Uric Acid Crystals,label,Uric Acid Crystals,Uric Acid Crystals,có
+51505,Uric Acid Crystals,ket_qua,2,2,có
+51505,Uric Acid Crystals,benh_nhan,2,2,có
+51505,Uric Acid Crystals,moc_do,2,2,có
+51505,Uric Acid Crystals,gia_tri,0,0,có
+51505,Uric Acid Crystals,do_lap,0,0,có
+51505,Uric Acid Crystals,don_vi,Không có,Không có,có
+51506,Urine Appearance,nhom,Urine Hematology,Urine Hematology,có
+51506,Urine Appearance,label,Urine Appearance,Urine Appearance,có
+51506,Urine Appearance,ket_qua,339,339,có
+51506,Urine Appearance,benh_nhan,86,86,có
+51506,Urine Appearance,moc_do,339,339,có
+51506,Urine Appearance,gia_tri,5,5,có
+51506,Urine Appearance,do_lap,58,58,có
+51506,Urine Appearance,don_vi,N/A (56),N/A (56),có
+51508,Urine Color,nhom,Urine Hematology,Urine Hematology,có
+51508,Urine Color,label,Urine Color,Urine Color,có
+51508,Urine Color,ket_qua,339,339,có
+51508,Urine Color,benh_nhan,86,86,có
+51508,Urine Color,moc_do,339,339,có
+51508,Urine Color,gia_tri,12,12,có
+51508,Urine Color,do_lap,58,58,có
+51508,Urine Color,don_vi,N/A (56),N/A (56),có
+51510,"Urine Crystals, Other",nhom,Urine Hematology,Urine Hematology,có
+51510,"Urine Crystals, Other",label,"Urine Crystals, Other","Urine Crystals, Other",có
+51510,"Urine Crystals, Other",ket_qua,1,1,có
+51510,"Urine Crystals, Other",benh_nhan,1,1,có
+51510,"Urine Crystals, Other",moc_do,1,1,có
+51510,"Urine Crystals, Other",gia_tri,0,0,có
+51510,"Urine Crystals, Other",do_lap,0,0,có
+51510,"Urine Crystals, Other",don_vi,Không có,Không có,có
+51512,Urine Mucous,nhom,Urine Hematology,Urine Hematology,có
+51512,Urine Mucous,label,Urine Mucous,Urine Mucous,có
+51512,Urine Mucous,ket_qua,179,179,có
+51512,Urine Mucous,benh_nhan,68,68,có
+51512,Urine Mucous,moc_do,179,179,có
+51512,Urine Mucous,gia_tri,1,1,có
+51512,Urine Mucous,do_lap,39,39,có
+51512,Urine Mucous,don_vi,/hpf (22),/hpf (22),có
+51513,Urine Specimen Type,nhom,Urine Hematology,Urine Hematology,có
+51513,Urine Specimen Type,label,Urine Specimen Type,Urine Specimen Type,có
+51513,Urine Specimen Type,ket_qua,5,5,có
+51513,Urine Specimen Type,benh_nhan,1,1,có
+51513,Urine Specimen Type,moc_do,5,5,có
+51513,Urine Specimen Type,gia_tri,1,1,có
+51513,Urine Specimen Type,do_lap,1,1,có
+51513,Urine Specimen Type,don_vi,Không có,Không có,có
+51514,Urobilinogen,nhom,Urine Hematology,Urine Hematology,có
+51514,Urobilinogen,label,Urobilinogen,Urobilinogen,có
+51514,Urobilinogen,ket_qua,339,339,có
+51514,Urobilinogen,benh_nhan,86,86,có
+51514,Urobilinogen,moc_do,339,339,có
+51514,Urobilinogen,gia_tri,7,7,có
+51514,Urobilinogen,do_lap,58,58,có
+51514,Urobilinogen,don_vi,mg/dL (339),mg/dL (339),có
+51515,Waxy Casts,nhom,Urine Hematology,Urine Hematology,có
+51515,Waxy Casts,label,Waxy Casts,Waxy Casts,có
+51515,Waxy Casts,ket_qua,1,1,có
+51515,Waxy Casts,benh_nhan,1,1,có
+51515,Waxy Casts,moc_do,1,1,có
+51515,Waxy Casts,gia_tri,1,1,có
+51515,Waxy Casts,do_lap,0,0,có
+51515,Waxy Casts,don_vi,#/lpf (1),#/lpf (1),có
+51516,WBC,nhom,Urine Hematology,Urine Hematology,có
+51516,WBC,label,WBC,WBC,có
+51516,WBC,ket_qua,267,267,có
+51516,WBC,benh_nhan,76,76,có
+51516,WBC,moc_do,267,267,có
+51516,WBC,gia_tri,66,66,có
+51516,WBC,do_lap,48,48,có
+51516,WBC,don_vi,#/hpf (267),#/hpf (267),có
+51518,WBC Clumps,nhom,Urine Hematology,Urine Hematology,có
+51518,WBC Clumps,label,WBC Clumps,WBC Clumps,có
+51518,WBC Clumps,ket_qua,22,22,có
+51518,WBC Clumps,benh_nhan,10,10,có
+51518,WBC Clumps,moc_do,22,22,có
+51518,WBC Clumps,gia_tri,0,0,có
+51518,WBC Clumps,do_lap,6,6,có
+51518,WBC Clumps,don_vi,/hpf (10),/hpf (10),có
+51519,Yeast,nhom,Urine Hematology,Urine Hematology,có
+51519,Yeast,label,Yeast,Yeast,có
+51519,Yeast,ket_qua,267,267,có
+51519,Yeast,benh_nhan,76,76,có
+51519,Yeast,moc_do,267,267,có
+51519,Yeast,gia_tri,6,6,có
+51519,Yeast,do_lap,48,48,có
+51519,Yeast,don_vi,/hpf (41),/hpf (41),có
+51564,ARCH-1,nhom,Blood Chemistry,Blood Chemistry,có
+51564,ARCH-1,label,ARCH-1,ARCH-1,có
+51564,ARCH-1,ket_qua,6,6,có
+51564,ARCH-1,benh_nhan,6,6,có
+51564,ARCH-1,moc_do,6,6,có
+51564,ARCH-1,gia_tri,5,5,có
+51564,ARCH-1,do_lap,0,0,có
+51564,ARCH-1,don_vi,Không có,Không có,có
+51598,Cytomegalovirus Viral Load,nhom,Blood Chemistry,Blood Chemistry,có
+51598,Cytomegalovirus Viral Load,label,Cytomegalovirus Viral Load,Cytomegalovirus Viral Load,có
+51598,Cytomegalovirus Viral Load,ket_qua,3,3,có
+51598,Cytomegalovirus Viral Load,benh_nhan,2,2,có
+51598,Cytomegalovirus Viral Load,moc_do,3,3,có
+51598,Cytomegalovirus Viral Load,gia_tri,0,0,có
+51598,Cytomegalovirus Viral Load,do_lap,1,1,có
+51598,Cytomegalovirus Viral Load,don_vi,log10 IU/mL (3),log10 IU/mL (3),có
+51613,eAG,nhom,Blood Chemistry,Blood Chemistry,có
+51613,eAG,label,eAG,eAG,có
+51613,eAG,ket_qua,117,117,có
+51613,eAG,benh_nhan,44,44,có
+51613,eAG,moc_do,117,117,có
+51613,eAG,gia_tri,1,1,có
+51613,eAG,do_lap,15,15,có
+51613,eAG,don_vi,mg/dL (117),mg/dL (117),có
+51625,Free Kappa,nhom,Blood Chemistry,Blood Chemistry,có
+51625,Free Kappa,label,Free Kappa,Free Kappa,có
+51625,Free Kappa,ket_qua,2,2,có
+51625,Free Kappa,benh_nhan,2,2,có
+51625,Free Kappa,moc_do,2,2,có
+51625,Free Kappa,gia_tri,2,2,có
+51625,Free Kappa,do_lap,0,0,có
+51625,Free Kappa,don_vi,mg/L (2),mg/L (2),có
+51626,Free Kappa/Free Lambda Ratio,nhom,Blood Chemistry,Blood Chemistry,có
+51626,Free Kappa/Free Lambda Ratio,label,Free Kappa/Free Lambda Ratio,Free Kappa/Free Lambda Ratio,có
+51626,Free Kappa/Free Lambda Ratio,ket_qua,2,2,có
+51626,Free Kappa/Free Lambda Ratio,benh_nhan,2,2,có
+51626,Free Kappa/Free Lambda Ratio,moc_do,2,2,có
+51626,Free Kappa/Free Lambda Ratio,gia_tri,1,1,có
+51626,Free Kappa/Free Lambda Ratio,do_lap,0,0,có
+51626,Free Kappa/Free Lambda Ratio,don_vi,Không có,Không có,có
+51627,Free Lambda,nhom,Blood Chemistry,Blood Chemistry,có
+51627,Free Lambda,label,Free Lambda,Free Lambda,có
+51627,Free Lambda,ket_qua,2,2,có
+51627,Free Lambda,benh_nhan,2,2,có
+51627,Free Lambda,moc_do,2,2,có
+51627,Free Lambda,gia_tri,2,2,có
+51627,Free Lambda,do_lap,0,0,có
+51627,Free Lambda,don_vi,mg/L (2),mg/L (2),có
+51651,Hepatitis C Viral Load,nhom,Blood Chemistry,Blood Chemistry,có
+51651,Hepatitis C Viral Load,label,Hepatitis C Viral Load,Hepatitis C Viral Load,có
+51651,Hepatitis C Viral Load,ket_qua,4,4,có
+51651,Hepatitis C Viral Load,benh_nhan,1,1,có
+51651,Hepatitis C Viral Load,moc_do,4,4,có
+51651,Hepatitis C Viral Load,gia_tri,1,1,có
+51651,Hepatitis C Viral Load,do_lap,1,1,có
+51651,Hepatitis C Viral Load,don_vi,log10 IU/mL (4),log10 IU/mL (4),có
+51654,HIV 1 Viral Load,nhom,Blood Chemistry,Blood Chemistry,có
+51654,HIV 1 Viral Load,label,HIV 1 Viral Load,HIV 1 Viral Load,có
+51654,HIV 1 Viral Load,ket_qua,5,5,có
+51654,HIV 1 Viral Load,benh_nhan,1,1,có
+51654,HIV 1 Viral Load,moc_do,5,5,có
+51654,HIV 1 Viral Load,gia_tri,1,1,có
+51654,HIV 1 Viral Load,do_lap,1,1,có
+51654,HIV 1 Viral Load,don_vi,log10 copies/mL (3); log10 cop/mL (2),log10 copies/mL (3); log10 cop/mL (2),có
+51657,HPE1,nhom,Blood Chemistry,Blood Chemistry,có
+51657,HPE1,label,HPE1,HPE1,có
+51657,HPE1,ket_qua,9,9,có
+51657,HPE1,benh_nhan,6,6,có
+51657,HPE1,moc_do,9,9,có
+51657,HPE1,gia_tri,9,9,có
+51657,HPE1,do_lap,2,2,có
+51657,HPE1,don_vi,Không có,Không có,có
+51658,HPE2,nhom,Blood Chemistry,Blood Chemistry,có
+51658,HPE2,label,HPE2,HPE2,có
+51658,HPE2,ket_qua,9,9,có
+51658,HPE2,benh_nhan,6,6,có
+51658,HPE2,moc_do,9,9,có
+51658,HPE2,gia_tri,4,4,có
+51658,HPE2,do_lap,2,2,có
+51658,HPE2,don_vi,Không có,Không có,có
+51659,HPE3,nhom,Blood Chemistry,Blood Chemistry,có
+51659,HPE3,label,HPE3,HPE3,có
+51659,HPE3,ket_qua,9,9,có
+51659,HPE3,benh_nhan,6,6,có
+51659,HPE3,moc_do,9,9,có
+51659,HPE3,gia_tri,8,8,có
+51659,HPE3,do_lap,2,2,có
+51659,HPE3,don_vi,Không có,Không có,có
+51660,HPE4,nhom,Blood Chemistry,Blood Chemistry,có
+51660,HPE4,label,HPE4,HPE4,có
+51660,HPE4,ket_qua,2,2,có
+51660,HPE4,benh_nhan,2,2,có
+51660,HPE4,moc_do,2,2,có
+51660,HPE4,gia_tri,1,1,có
+51660,HPE4,do_lap,0,0,có
+51660,HPE4,don_vi,Không có,Không có,có
+51663,HPE7,nhom,Blood Chemistry,Blood Chemistry,có
+51663,HPE7,label,HPE7,HPE7,có
+51663,HPE7,ket_qua,9,9,có
+51663,HPE7,benh_nhan,6,6,có
+51663,HPE7,moc_do,9,9,có
+51663,HPE7,gia_tri,8,8,có
+51663,HPE7,do_lap,2,2,có
+51663,HPE7,don_vi,Không có,Không có,có
+51678,L,nhom,Blood Chemistry,Blood Chemistry,có
+51678,L,label,L,L,có
+51678,L,ket_qua,1300,1300,có
+51678,L,benh_nhan,34,34,có
+51678,L,moc_do,1191,1191,có
+51678,L,gia_tri,79,79,có
+51678,L,do_lap,32,32,có
+51678,L,don_vi,U (2),U (2),có
+51706,Problem Specimen,nhom,Blood Chemistry,Blood Chemistry,có
+51706,Problem Specimen,label,Problem Specimen,Problem Specimen,có
+51706,Problem Specimen,ket_qua,15,15,có
+51706,Problem Specimen,benh_nhan,14,14,có
+51706,Problem Specimen,moc_do,15,15,có
+51706,Problem Specimen,gia_tri,0,0,có
+51706,Problem Specimen,do_lap,1,1,có
+51706,Problem Specimen,don_vi,Không có,Không có,có
+51722,RFXLDLM,nhom,Blood Chemistry,Blood Chemistry,có
+51722,RFXLDLM,label,RFXLDLM,RFXLDLM,có
+51722,RFXLDLM,ket_qua,5,5,có
+51722,RFXLDLM,benh_nhan,2,2,có
+51722,RFXLDLM,moc_do,5,5,có
+51722,RFXLDLM,gia_tri,0,0,có
+51722,RFXLDLM,do_lap,1,1,có
+51722,RFXLDLM,don_vi,Không có,Không có,có
+51732,STX1,nhom,Blood Chemistry,Blood Chemistry,có
+51732,STX1,label,STX1,STX1,có
+51732,STX1,ket_qua,14,14,có
+51732,STX1,benh_nhan,6,6,có
+51732,STX1,moc_do,14,14,có
+51732,STX1,gia_tri,0,0,có
+51732,STX1,do_lap,3,3,có
+51732,STX1,don_vi,Không có,Không có,có
+51733,STX2,nhom,Blood Chemistry,Blood Chemistry,có
+51733,STX2,label,STX2,STX2,có
+51733,STX2,ket_qua,15,15,có
+51733,STX2,benh_nhan,6,6,có
+51733,STX2,moc_do,15,15,có
+51733,STX2,gia_tri,3,3,có
+51733,STX2,do_lap,2,2,có
+51733,STX2,don_vi,Không có,Không có,có
+51734,STX3,nhom,Blood Chemistry,Blood Chemistry,có
+51734,STX3,label,STX3,STX3,có
+51734,STX3,ket_qua,15,15,có
+51734,STX3,benh_nhan,6,6,có
+51734,STX3,moc_do,15,15,có
+51734,STX3,gia_tri,1,1,có
+51734,STX3,do_lap,4,4,có
+51734,STX3,don_vi,Không có,Không có,có
+51735,STX4,nhom,Blood Chemistry,Blood Chemistry,có
+51735,STX4,label,STX4,STX4,có
+51735,STX4,ket_qua,5,5,có
+51735,STX4,benh_nhan,4,4,có
+51735,STX4,moc_do,5,5,có
+51735,STX4,gia_tri,5,5,có
+51735,STX4,do_lap,1,1,có
+51735,STX4,don_vi,Không có,Không có,có
+51736,STX5,nhom,Blood Chemistry,Blood Chemistry,có
+51736,STX5,label,STX5,STX5,có
+51736,STX5,ket_qua,4,4,có
+51736,STX5,benh_nhan,3,3,có
+51736,STX5,moc_do,4,4,có
+51736,STX5,gia_tri,4,4,có
+51736,STX5,do_lap,1,1,có
+51736,STX5,don_vi,Không có,Không có,có
+51737,STX6,nhom,Blood Chemistry,Blood Chemistry,có
+51737,STX6,label,STX6,STX6,có
+51737,STX6,ket_qua,14,14,có
+51737,STX6,benh_nhan,6,6,có
+51737,STX6,moc_do,14,14,có
+51737,STX6,gia_tri,10,10,có
+51737,STX6,do_lap,3,3,có
+51737,STX6,don_vi,Không có,Không có,có
+51748,Treponema pallidum (Syphilis) Ab,nhom,Blood Chemistry,Blood Chemistry,có
+51748,Treponema pallidum (Syphilis) Ab,label,Treponema pallidum (Syphilis) Ab,Treponema pallidum (Syphilis) Ab,có
+51748,Treponema pallidum (Syphilis) Ab,ket_qua,3,3,có
+51748,Treponema pallidum (Syphilis) Ab,benh_nhan,2,2,có
+51748,Treponema pallidum (Syphilis) Ab,moc_do,2,2,có
+51748,Treponema pallidum (Syphilis) Ab,gia_tri,1,1,có
+51748,Treponema pallidum (Syphilis) Ab,do_lap,1,1,có
+51748,Treponema pallidum (Syphilis) Ab,don_vi,Không có,Không có,có
+51749,Treponema pallidum (syphilis) value,nhom,Blood Chemistry,Blood Chemistry,có
+51749,Treponema pallidum (syphilis) value,label,Treponema pallidum (syphilis) value,Treponema pallidum (syphilis) value,có
+51749,Treponema pallidum (syphilis) value,ket_qua,3,3,có
+51749,Treponema pallidum (syphilis) value,benh_nhan,2,2,có
+51749,Treponema pallidum (syphilis) value,moc_do,2,2,có
+51749,Treponema pallidum (syphilis) value,gia_tri,3,3,có
+51749,Treponema pallidum (syphilis) value,do_lap,1,1,có
+51749,Treponema pallidum (syphilis) value,don_vi,Không có,Không có,có
+51752,Voided Specimen,nhom,Blood Chemistry,Blood Chemistry,có
+51752,Voided Specimen,label,Voided Specimen,Voided Specimen,có
+51752,Voided Specimen,ket_qua,15,15,có
+51752,Voided Specimen,benh_nhan,8,8,có
+51752,Voided Specimen,moc_do,10,10,có
+51752,Voided Specimen,gia_tri,0,0,có
+51752,Voided Specimen,do_lap,4,4,có
+51752,Voided Specimen,don_vi,Không có,Không có,có
+51763,EE2,nhom,Blood Chemistry,Blood Chemistry,có
+51763,EE2,label,EE2,EE2,có
+51763,EE2,ket_qua,1,1,có
+51763,EE2,benh_nhan,1,1,có
+51763,EE2,moc_do,1,1,có
+51763,EE2,gia_tri,1,1,có
+51763,EE2,do_lap,0,0,có
+51763,EE2,don_vi,Không có,Không có,có
+51772,PAN3,nhom,Blood Chemistry,Blood Chemistry,có
+51772,PAN3,label,PAN3,PAN3,có
+51772,PAN3,ket_qua,2,2,có
+51772,PAN3,benh_nhan,1,1,có
+51772,PAN3,moc_do,2,2,có
+51772,PAN3,gia_tri,0,0,có
+51772,PAN3,do_lap,1,1,có
+51772,PAN3,don_vi,Không có,Không có,có
+51790,"Glucose, CSF",nhom,Cerebrospinal Fluid Chemistry,Cerebrospinal Fluid Chemistry,có
+51790,"Glucose, CSF",label,"Glucose, CSF","Glucose, CSF",có
+51790,"Glucose, CSF",ket_qua,7,7,có
+51790,"Glucose, CSF",benh_nhan,6,6,có
+51790,"Glucose, CSF",moc_do,7,7,có
+51790,"Glucose, CSF",gia_tri,6,6,có
+51790,"Glucose, CSF",do_lap,1,1,có
+51790,"Glucose, CSF",don_vi,mg/dL (7),mg/dL (7),có
+51802,"Total Protein, CSF",nhom,Cerebrospinal Fluid Chemistry,Cerebrospinal Fluid Chemistry,có
+51802,"Total Protein, CSF",label,"Total Protein, CSF","Total Protein, CSF",có
+51802,"Total Protein, CSF",ket_qua,7,7,có
+51802,"Total Protein, CSF",benh_nhan,6,6,có
+51802,"Total Protein, CSF",moc_do,7,7,có
+51802,"Total Protein, CSF",gia_tri,6,6,có
+51802,"Total Protein, CSF",do_lap,1,1,có
+51802,"Total Protein, CSF",don_vi,mg/dL (7),mg/dL (7),có
+51839,Anat Path Hold,nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51839,Anat Path Hold,label,Anat Path Hold,Anat Path Hold,có
+51839,Anat Path Hold,ket_qua,1,1,có
+51839,Anat Path Hold,benh_nhan,1,1,có
+51839,Anat Path Hold,moc_do,1,1,có
+51839,Anat Path Hold,gia_tri,0,0,có
+51839,Anat Path Hold,do_lap,0,0,có
+51839,Anat Path Hold,don_vi,Không có,Không có,có
+51846,Chlamydia trachomatis,nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51846,Chlamydia trachomatis,label,Chlamydia trachomatis,Chlamydia trachomatis,có
+51846,Chlamydia trachomatis,ket_qua,1,1,có
+51846,Chlamydia trachomatis,benh_nhan,1,1,có
+51846,Chlamydia trachomatis,moc_do,1,1,có
+51846,Chlamydia trachomatis,gia_tri,0,0,có
+51846,Chlamydia trachomatis,do_lap,0,0,có
+51846,Chlamydia trachomatis,don_vi,N/A (1),N/A (1),có
+51865,Influenza A by PCR,nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51865,Influenza A by PCR,label,Influenza A by PCR,Influenza A by PCR,có
+51865,Influenza A by PCR,ket_qua,15,15,có
+51865,Influenza A by PCR,benh_nhan,6,6,có
+51865,Influenza A by PCR,moc_do,15,15,có
+51865,Influenza A by PCR,gia_tri,0,0,có
+51865,Influenza A by PCR,do_lap,3,3,có
+51865,Influenza A by PCR,don_vi,Không có,Không có,có
+51873,Influenza B by PCR,nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51873,Influenza B by PCR,label,Influenza B by PCR,Influenza B by PCR,có
+51873,Influenza B by PCR,ket_qua,15,15,có
+51873,Influenza B by PCR,benh_nhan,6,6,có
+51873,Influenza B by PCR,moc_do,15,15,có
+51873,Influenza B by PCR,gia_tri,0,0,có
+51873,Influenza B by PCR,do_lap,3,3,có
+51873,Influenza B by PCR,don_vi,Không có,Không có,có
+51879,Neisseria gonorrhoeae,nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51879,Neisseria gonorrhoeae,label,Neisseria gonorrhoeae,Neisseria gonorrhoeae,có
+51879,Neisseria gonorrhoeae,ket_qua,1,1,có
+51879,Neisseria gonorrhoeae,benh_nhan,1,1,có
+51879,Neisseria gonorrhoeae,moc_do,1,1,có
+51879,Neisseria gonorrhoeae,gia_tri,0,0,có
+51879,Neisseria gonorrhoeae,do_lap,0,0,có
+51879,Neisseria gonorrhoeae,don_vi,N/A (1),N/A (1),có
+51899,Trichomonas vaginalis,nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51899,Trichomonas vaginalis,label,Trichomonas vaginalis,Trichomonas vaginalis,có
+51899,Trichomonas vaginalis,ket_qua,1,1,có
+51899,Trichomonas vaginalis,benh_nhan,1,1,có
+51899,Trichomonas vaginalis,moc_do,1,1,có
+51899,Trichomonas vaginalis,gia_tri,0,0,có
+51899,Trichomonas vaginalis,do_lap,0,0,có
+51899,Trichomonas vaginalis,don_vi,N/A (1),N/A (1),có
+51903,PAN1,nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51903,PAN1,label,PAN1,PAN1,có
+51903,PAN1,ket_qua,1,1,có
+51903,PAN1,benh_nhan,1,1,có
+51903,PAN1,moc_do,1,1,có
+51903,PAN1,gia_tri,1,1,có
+51903,PAN1,do_lap,0,0,có
+51903,PAN1,don_vi,Không có,Không có,có
+51904,PAN2,nhom,Other Body Fluid Chemistry,Other Body Fluid Chemistry,có
+51904,PAN2,label,PAN2,PAN2,có
+51904,PAN2,ket_qua,1,1,có
+51904,PAN2,benh_nhan,1,1,có
+51904,PAN2,moc_do,1,1,có
+51904,PAN2,gia_tri,1,1,có
+51904,PAN2,do_lap,0,0,có
+51904,PAN2,don_vi,Không có,Không có,có
+51945,Norovirus Genogroup I,nhom,Stool Chemistry,Stool Chemistry,có
+51945,Norovirus Genogroup I,label,Norovirus Genogroup I,Norovirus Genogroup I,có
+51945,Norovirus Genogroup I,ket_qua,1,1,có
+51945,Norovirus Genogroup I,benh_nhan,1,1,có
+51945,Norovirus Genogroup I,moc_do,1,1,có
+51945,Norovirus Genogroup I,gia_tri,0,0,có
+51945,Norovirus Genogroup I,do_lap,0,0,có
+51945,Norovirus Genogroup I,don_vi,Không có,Không có,có
+51946,Norovirus Genogroup II,nhom,Stool Chemistry,Stool Chemistry,có
+51946,Norovirus Genogroup II,label,Norovirus Genogroup II,Norovirus Genogroup II,có
+51946,Norovirus Genogroup II,ket_qua,1,1,có
+51946,Norovirus Genogroup II,benh_nhan,1,1,có
+51946,Norovirus Genogroup II,moc_do,1,1,có
+51946,Norovirus Genogroup II,gia_tri,0,0,có
+51946,Norovirus Genogroup II,do_lap,0,0,có
+51946,Norovirus Genogroup II,don_vi,Không có,Không có,có
+51972,Chlamydia trachomatis,nhom,Urine Chemistry,Urine Chemistry,có
+51972,Chlamydia trachomatis,label,Chlamydia trachomatis,Chlamydia trachomatis,có
+51972,Chlamydia trachomatis,ket_qua,3,3,có
+51972,Chlamydia trachomatis,benh_nhan,2,2,có
+51972,Chlamydia trachomatis,moc_do,3,3,có
+51972,Chlamydia trachomatis,gia_tri,0,0,có
+51972,Chlamydia trachomatis,do_lap,1,1,có
+51972,Chlamydia trachomatis,don_vi,N/A (3),N/A (3),có
+51980,Fentanyl,nhom,Urine Chemistry,Urine Chemistry,có
+51980,Fentanyl,label,Fentanyl,Fentanyl,có
+51980,Fentanyl,ket_qua,1,1,có
+51980,Fentanyl,benh_nhan,1,1,có
+51980,Fentanyl,moc_do,1,1,có
+51980,Fentanyl,gia_tri,0,0,có
+51980,Fentanyl,do_lap,0,0,có
+51980,Fentanyl,don_vi,N/A (1),N/A (1),có
+51986,Neisseria gonorrhoeae,nhom,Urine Chemistry,Urine Chemistry,có
+51986,Neisseria gonorrhoeae,label,Neisseria gonorrhoeae,Neisseria gonorrhoeae,có
+51986,Neisseria gonorrhoeae,ket_qua,3,3,có
+51986,Neisseria gonorrhoeae,benh_nhan,2,2,có
+51986,Neisseria gonorrhoeae,moc_do,3,3,có
+51986,Neisseria gonorrhoeae,gia_tri,0,0,có
+51986,Neisseria gonorrhoeae,do_lap,1,1,có
+51986,Neisseria gonorrhoeae,don_vi,N/A (3),N/A (3),có
+51989,Oxycodone,nhom,Urine Chemistry,Urine Chemistry,có
+51989,Oxycodone,label,Oxycodone,Oxycodone,có
+51989,Oxycodone,ket_qua,16,16,có
+51989,Oxycodone,benh_nhan,9,9,có
+51989,Oxycodone,moc_do,16,16,có
+51989,Oxycodone,gia_tri,1,1,có
+51989,Oxycodone,do_lap,4,4,có
+51989,Oxycodone,don_vi,N/A (6),N/A (6),có
+52004,UTX1,nhom,Urine Chemistry,Urine Chemistry,có
+52004,UTX1,label,UTX1,UTX1,có
+52004,UTX1,ket_qua,10,10,có
+52004,UTX1,benh_nhan,6,6,có
+52004,UTX1,moc_do,10,10,có
+52004,UTX1,gia_tri,10,10,có
+52004,UTX1,do_lap,3,3,có
+52004,UTX1,don_vi,Không có,Không có,có
+52005,UTX2,nhom,Urine Chemistry,Urine Chemistry,có
+52005,UTX2,label,UTX2,UTX2,có
+52005,UTX2,ket_qua,10,10,có
+52005,UTX2,benh_nhan,6,6,có
+52005,UTX2,moc_do,10,10,có
+52005,UTX2,gia_tri,10,10,có
+52005,UTX2,do_lap,3,3,có
+52005,UTX2,don_vi,Không có,Không có,có
+52006,UTX3,nhom,Urine Chemistry,Urine Chemistry,có
+52006,UTX3,label,UTX3,UTX3,có
+52006,UTX3,ket_qua,12,12,có
+52006,UTX3,benh_nhan,6,6,có
+52006,UTX3,moc_do,12,12,có
+52006,UTX3,gia_tri,9,9,có
+52006,UTX3,do_lap,3,3,có
+52006,UTX3,don_vi,Không có,Không có,có
+52007,UTX4,nhom,Urine Chemistry,Urine Chemistry,có
+52007,UTX4,label,UTX4,UTX4,có
+52007,UTX4,ket_qua,12,12,có
+52007,UTX4,benh_nhan,6,6,có
+52007,UTX4,moc_do,12,12,có
+52007,UTX4,gia_tri,12,12,có
+52007,UTX4,do_lap,3,3,có
+52007,UTX4,don_vi,Không có,Không có,có
+52008,UTX5,nhom,Urine Chemistry,Urine Chemistry,có
+52008,UTX5,label,UTX5,UTX5,có
+52008,UTX5,ket_qua,10,10,có
+52008,UTX5,benh_nhan,6,6,có
+52008,UTX5,moc_do,10,10,có
+52008,UTX5,gia_tri,10,10,có
+52008,UTX5,do_lap,3,3,có
+52008,UTX5,don_vi,Không có,Không có,có
+52009,UTX6,nhom,Urine Chemistry,Urine Chemistry,có
+52009,UTX6,label,UTX6,UTX6,có
+52009,UTX6,ket_qua,9,9,có
+52009,UTX6,benh_nhan,6,6,có
+52009,UTX6,moc_do,9,9,có
+52009,UTX6,gia_tri,9,9,có
+52009,UTX6,do_lap,2,2,có
+52009,UTX6,don_vi,Không có,Không có,có
+52010,UTX7,nhom,Urine Chemistry,Urine Chemistry,có
+52010,UTX7,label,UTX7,UTX7,có
+52010,UTX7,ket_qua,9,9,có
+52010,UTX7,benh_nhan,6,6,có
+52010,UTX7,moc_do,9,9,có
+52010,UTX7,gia_tri,9,9,có
+52010,UTX7,do_lap,2,2,có
+52010,UTX7,don_vi,Không có,Không có,có
+52012,UTX9,nhom,Urine Chemistry,Urine Chemistry,có
+52012,UTX9,label,UTX9,UTX9,có
+52012,UTX9,ket_qua,2,2,có
+52012,UTX9,benh_nhan,1,1,có
+52012,UTX9,moc_do,2,2,có
+52012,UTX9,gia_tri,2,2,có
+52012,UTX9,do_lap,1,1,có
+52012,UTX9,don_vi,Không có,Không có,có
+52014,Voided Specimen,nhom,Urine Chemistry,Urine Chemistry,có
+52014,Voided Specimen,label,Voided Specimen,Voided Specimen,có
+52014,Voided Specimen,ket_qua,4,4,có
+52014,Voided Specimen,benh_nhan,2,2,có
+52014,Voided Specimen,moc_do,2,2,có
+52014,Voided Specimen,gia_tri,0,0,có
+52014,Voided Specimen,do_lap,2,2,có
+52014,Voided Specimen,don_vi,Không có,Không có,có
+52018,PAN1,nhom,Urine Chemistry,Urine Chemistry,có
+52018,PAN1,label,PAN1,PAN1,có
+52018,PAN1,ket_qua,3,3,có
+52018,PAN1,benh_nhan,2,2,có
+52018,PAN1,moc_do,3,3,có
+52018,PAN1,gia_tri,2,2,có
+52018,PAN1,do_lap,1,1,có
+52018,PAN1,don_vi,Không có,Không có,có
+52020,UTX10,nhom,Urine Chemistry,Urine Chemistry,có
+52020,UTX10,label,UTX10,UTX10,có
+52020,UTX10,ket_qua,1,1,có
+52020,UTX10,benh_nhan,1,1,có
+52020,UTX10,moc_do,1,1,có
+52020,UTX10,gia_tri,1,1,có
+52020,UTX10,do_lap,0,0,có
+52020,UTX10,don_vi,Không có,Không có,có
+52023,Assist/Control,nhom,Blood Blood Gas,Blood Blood Gas,có
+52023,Assist/Control,label,Assist/Control,Assist/Control,có
+52023,Assist/Control,ket_qua,42,42,có
+52023,Assist/Control,benh_nhan,21,21,có
+52023,Assist/Control,moc_do,42,42,có
+52023,Assist/Control,gia_tri,0,0,có
+52023,Assist/Control,do_lap,8,8,có
+52023,Assist/Control,don_vi,Không có,Không có,có
+52024,"Creatinine, Whole Blood",nhom,Blood Blood Gas,Blood Blood Gas,có
+52024,"Creatinine, Whole Blood",label,"Creatinine, Whole Blood","Creatinine, Whole Blood",có
+52024,"Creatinine, Whole Blood",ket_qua,5,5,có
+52024,"Creatinine, Whole Blood",benh_nhan,3,3,có
+52024,"Creatinine, Whole Blood",moc_do,5,5,có
+52024,"Creatinine, Whole Blood",gia_tri,5,5,có
+52024,"Creatinine, Whole Blood",do_lap,1,1,có
+52024,"Creatinine, Whole Blood",don_vi,mg/dL (5),mg/dL (5),có
+52026,Estimated GFR (MDRD equation),nhom,Blood Blood Gas,Blood Blood Gas,có
+52026,Estimated GFR (MDRD equation),label,Estimated GFR (MDRD equation),Estimated GFR (MDRD equation),có
+52026,Estimated GFR (MDRD equation),ket_qua,3,3,có
+52026,Estimated GFR (MDRD equation),benh_nhan,3,3,có
+52026,Estimated GFR (MDRD equation),moc_do,3,3,có
+52026,Estimated GFR (MDRD equation),gia_tri,0,0,có
+52026,Estimated GFR (MDRD equation),do_lap,0,0,có
+52026,Estimated GFR (MDRD equation),don_vi,Không có,Không có,có
+52033,Specimen Type,nhom,Blood Blood Gas,Blood Blood Gas,có
+52033,Specimen Type,label,Specimen Type,Specimen Type,có
+52033,Specimen Type,ket_qua,1033,1033,có
+52033,Specimen Type,benh_nhan,78,78,có
+52033,Specimen Type,moc_do,1033,1033,có
+52033,Specimen Type,gia_tri,4,4,có
+52033,Specimen Type,do_lap,73,73,có
+52033,Specimen Type,don_vi,Không có,Không có,có
+52036,Voided Specimen,nhom,Blood Blood Gas,Blood Blood Gas,có
+52036,Voided Specimen,label,Voided Specimen,Voided Specimen,có
+52036,Voided Specimen,ket_qua,4,4,có
+52036,Voided Specimen,benh_nhan,3,3,có
+52036,Voided Specimen,moc_do,4,4,có
+52036,Voided Specimen,gia_tri,0,0,có
+52036,Voided Specimen,do_lap,1,1,có
+52036,Voided Specimen,don_vi,Không có,Không có,có
+52065,"Total Nucleated Cells, Ascites",nhom,Ascites Hematology,Ascites Hematology,có
+52065,"Total Nucleated Cells, Ascites",label,"Total Nucleated Cells, Ascites","Total Nucleated Cells, Ascites",có
+52065,"Total Nucleated Cells, Ascites",ket_qua,21,21,có
+52065,"Total Nucleated Cells, Ascites",benh_nhan,6,6,có
+52065,"Total Nucleated Cells, Ascites",moc_do,21,21,có
+52065,"Total Nucleated Cells, Ascites",gia_tri,19,19,có
+52065,"Total Nucleated Cells, Ascites",do_lap,5,5,có
+52065,"Total Nucleated Cells, Ascites",don_vi,#/uL (21),#/uL (21),có
+52069,Absolute Basophil Count,nhom,Blood Hematology,Blood Hematology,có
+52069,Absolute Basophil Count,label,Absolute Basophil Count,Absolute Basophil Count,có
+52069,Absolute Basophil Count,ket_qua,569,569,có
+52069,Absolute Basophil Count,benh_nhan,45,45,có
+52069,Absolute Basophil Count,moc_do,569,569,có
+52069,Absolute Basophil Count,gia_tri,93,93,có
+52069,Absolute Basophil Count,do_lap,34,34,có
+52069,Absolute Basophil Count,don_vi,K/uL (569),K/uL (569),có
+52073,Absolute Eosinophil Count,nhom,Blood Hematology,Blood Hematology,có
+52073,Absolute Eosinophil Count,label,Absolute Eosinophil Count,Absolute Eosinophil Count,có
+52073,Absolute Eosinophil Count,ket_qua,569,569,có
+52073,Absolute Eosinophil Count,benh_nhan,45,45,có
+52073,Absolute Eosinophil Count,moc_do,569,569,có
+52073,Absolute Eosinophil Count,gia_tri,123,123,có
+52073,Absolute Eosinophil Count,do_lap,34,34,có
+52073,Absolute Eosinophil Count,don_vi,K/uL (569),K/uL (569),có
+52074,Absolute Monocyte Count,nhom,Blood Hematology,Blood Hematology,có
+52074,Absolute Monocyte Count,label,Absolute Monocyte Count,Absolute Monocyte Count,có
+52074,Absolute Monocyte Count,ket_qua,569,569,có
+52074,Absolute Monocyte Count,benh_nhan,45,45,có
+52074,Absolute Monocyte Count,moc_do,569,569,có
+52074,Absolute Monocyte Count,gia_tri,239,239,có
+52074,Absolute Monocyte Count,do_lap,34,34,có
+52074,Absolute Monocyte Count,don_vi,K/uL (569),K/uL (569),có
+52075,Absolute Neutrophil Count,nhom,Blood Hematology,Blood Hematology,có
+52075,Absolute Neutrophil Count,label,Absolute Neutrophil Count,Absolute Neutrophil Count,có
+52075,Absolute Neutrophil Count,ket_qua,569,569,có
+52075,Absolute Neutrophil Count,benh_nhan,45,45,có
+52075,Absolute Neutrophil Count,moc_do,569,569,có
+52075,Absolute Neutrophil Count,gia_tri,470,470,có
+52075,Absolute Neutrophil Count,do_lap,34,34,có
+52075,Absolute Neutrophil Count,don_vi,K/uL (569),K/uL (569),có
+52111,Echinocytes,nhom,Blood Hematology,Blood Hematology,có
+52111,Echinocytes,label,Echinocytes,Echinocytes,có
+52111,Echinocytes,ket_qua,67,67,có
+52111,Echinocytes,benh_nhan,15,15,có
+52111,Echinocytes,moc_do,67,67,có
+52111,Echinocytes,gia_tri,0,0,có
+52111,Echinocytes,do_lap,10,10,có
+52111,Echinocytes,don_vi,N/A (34),N/A (34),có
+52123,"G6PD, Qualitative",nhom,Blood Hematology,Blood Hematology,có
+52123,"G6PD, Qualitative",label,"G6PD, Qualitative","G6PD, Qualitative",có
+52123,"G6PD, Qualitative",ket_qua,2,2,có
+52123,"G6PD, Qualitative",benh_nhan,2,2,có
+52123,"G6PD, Qualitative",moc_do,2,2,có
+52123,"G6PD, Qualitative",gia_tri,1,1,có
+52123,"G6PD, Qualitative",do_lap,0,0,có
+52123,"G6PD, Qualitative",don_vi,N/A (2),N/A (2),có
+52135,Immature Granulocytes,nhom,Blood Hematology,Blood Hematology,có
+52135,Immature Granulocytes,label,Immature Granulocytes,Immature Granulocytes,có
+52135,Immature Granulocytes,ket_qua,227,227,có
+52135,Immature Granulocytes,benh_nhan,39,39,có
+52135,Immature Granulocytes,moc_do,227,227,có
+52135,Immature Granulocytes,gia_tri,17,17,có
+52135,Immature Granulocytes,do_lap,30,30,có
+52135,Immature Granulocytes,don_vi,% (227),% (227),có
+52171,RBC Morphology,nhom,Blood Hematology,Blood Hematology,có
+52171,RBC Morphology,label,RBC Morphology,RBC Morphology,có
+52171,RBC Morphology,ket_qua,28,28,có
+52171,RBC Morphology,benh_nhan,2,2,có
+52171,RBC Morphology,moc_do,28,28,có
+52171,RBC Morphology,gia_tri,0,0,có
+52171,RBC Morphology,do_lap,2,2,có
+52171,RBC Morphology,don_vi,N/A (28),N/A (28),có
+52172,RDW-SD,nhom,Blood Hematology,Blood Hematology,có
+52172,RDW-SD,label,RDW-SD,RDW-SD,có
+52172,RDW-SD,ket_qua,1555,1555,có
+52172,RDW-SD,benh_nhan,51,51,có
+52172,RDW-SD,moc_do,1555,1555,có
+52172,RDW-SD,gia_tri,399,399,có
+52172,RDW-SD,do_lap,50,50,có
+52172,RDW-SD,don_vi,fL (1555),fL (1555),có
+52195,Voided Specimen,nhom,Blood Hematology,Blood Hematology,có
+52195,Voided Specimen,label,Voided Specimen,Voided Specimen,có
+52195,Voided Specimen,ket_qua,1,1,có
+52195,Voided Specimen,benh_nhan,1,1,có
+52195,Voided Specimen,moc_do,1,1,có
+52195,Voided Specimen,gia_tri,0,0,có
+52195,Voided Specimen,do_lap,0,0,có
+52195,Voided Specimen,don_vi,Không có,Không có,có
+52220,wbcp,nhom,Blood Hematology,Blood Hematology,có
+52220,wbcp,label,wbcp,wbcp,có
+52220,wbcp,ket_qua,1,1,có
+52220,wbcp,benh_nhan,1,1,có
+52220,wbcp,moc_do,1,1,có
+52220,wbcp,gia_tri,1,1,có
+52220,wbcp,do_lap,0,0,có
+52220,wbcp,don_vi,% (1),% (1),có
+52264,Lymphs,nhom,Cerebrospinal Fluid Hematology,Cerebrospinal Fluid Hematology,có
+52264,Lymphs,label,Lymphs,Lymphs,có
+52264,Lymphs,ket_qua,8,8,có
+52264,Lymphs,benh_nhan,6,6,có
+52264,Lymphs,moc_do,7,7,có
+52264,Lymphs,gia_tri,7,7,có
+52264,Lymphs,do_lap,2,2,có
+52264,Lymphs,don_vi,% (8),% (8),có
+52266,Macrophage,nhom,Cerebrospinal Fluid Hematology,Cerebrospinal Fluid Hematology,có
+52266,Macrophage,label,Macrophage,Macrophage,có
+52266,Macrophage,ket_qua,4,4,có
+52266,Macrophage,benh_nhan,3,3,có
+52266,Macrophage,moc_do,4,4,có
+52266,Macrophage,gia_tri,4,4,có
+52266,Macrophage,do_lap,1,1,có
+52266,Macrophage,don_vi,% (4),% (4),có
+52272,Monocytes,nhom,Cerebrospinal Fluid Hematology,Cerebrospinal Fluid Hematology,có
+52272,Monocytes,label,Monocytes,Monocytes,có
+52272,Monocytes,ket_qua,8,8,có
+52272,Monocytes,benh_nhan,6,6,có
+52272,Monocytes,moc_do,7,7,có
+52272,Monocytes,gia_tri,4,4,có
+52272,Monocytes,do_lap,2,2,có
+52272,Monocytes,don_vi,% (8),% (8),có
+52281,Polys,nhom,Cerebrospinal Fluid Hematology,Cerebrospinal Fluid Hematology,có
+52281,Polys,label,Polys,Polys,có
+52281,Polys,ket_qua,8,8,có
+52281,Polys,benh_nhan,6,6,có
+52281,Polys,moc_do,7,7,có
+52281,Polys,gia_tri,3,3,có
+52281,Polys,do_lap,2,2,có
+52281,Polys,don_vi,% (8),% (8),có
+52285,"RBC, CSF",nhom,Cerebrospinal Fluid Hematology,Cerebrospinal Fluid Hematology,có
+52285,"RBC, CSF",label,"RBC, CSF","RBC, CSF",có
+52285,"RBC, CSF",ket_qua,8,8,có
+52285,"RBC, CSF",benh_nhan,6,6,có
+52285,"RBC, CSF",moc_do,7,7,có
+52285,"RBC, CSF",gia_tri,6,6,có
+52285,"RBC, CSF",do_lap,2,2,có
+52285,"RBC, CSF",don_vi,#/uL (8),#/uL (8),có
+52286,"Total Nucleated Cells, CSF",nhom,Cerebrospinal Fluid Hematology,Cerebrospinal Fluid Hematology,có
+52286,"Total Nucleated Cells, CSF",label,"Total Nucleated Cells, CSF","Total Nucleated Cells, CSF",có
+52286,"Total Nucleated Cells, CSF",ket_qua,8,8,có
+52286,"Total Nucleated Cells, CSF",benh_nhan,6,6,có
+52286,"Total Nucleated Cells, CSF",moc_do,7,7,có
+52286,"Total Nucleated Cells, CSF",gia_tri,1,1,có
+52286,"Total Nucleated Cells, CSF",do_lap,2,2,có
+52286,"Total Nucleated Cells, CSF",don_vi,#/uL (8),#/uL (8),có
+52312,"Total Nucleated Cells, Joint",nhom,Joint Fluid Hematology,Joint Fluid Hematology,có
+52312,"Total Nucleated Cells, Joint",label,"Total Nucleated Cells, Joint","Total Nucleated Cells, Joint",có
+52312,"Total Nucleated Cells, Joint",ket_qua,2,2,có
+52312,"Total Nucleated Cells, Joint",benh_nhan,2,2,có
+52312,"Total Nucleated Cells, Joint",moc_do,2,2,có
+52312,"Total Nucleated Cells, Joint",gia_tri,2,2,có
+52312,"Total Nucleated Cells, Joint",do_lap,0,0,có
+52312,"Total Nucleated Cells, Joint",don_vi,#/uL (2),#/uL (2),có
+52369,"Total Nucleated Cells, Other",nhom,Other Body Fluid Hematology,Other Body Fluid Hematology,có
+52369,"Total Nucleated Cells, Other",label,"Total Nucleated Cells, Other","Total Nucleated Cells, Other",có
+52369,"Total Nucleated Cells, Other",ket_qua,3,3,có
+52369,"Total Nucleated Cells, Other",benh_nhan,3,3,có
+52369,"Total Nucleated Cells, Other",moc_do,3,3,có
+52369,"Total Nucleated Cells, Other",gia_tri,3,3,có
+52369,"Total Nucleated Cells, Other",do_lap,0,0,có
+52369,"Total Nucleated Cells, Other",don_vi,#/uL (3),#/uL (3),có
+52391,"Total Nucleated Cells, Pleural",nhom,Pleural Hematology,Pleural Hematology,có
+52391,"Total Nucleated Cells, Pleural",label,"Total Nucleated Cells, Pleural","Total Nucleated Cells, Pleural",có
+52391,"Total Nucleated Cells, Pleural",ket_qua,9,9,có
+52391,"Total Nucleated Cells, Pleural",benh_nhan,8,8,có
+52391,"Total Nucleated Cells, Pleural",moc_do,9,9,có
+52391,"Total Nucleated Cells, Pleural",gia_tri,9,9,có
+52391,"Total Nucleated Cells, Pleural",do_lap,1,1,có
+52391,"Total Nucleated Cells, Pleural",don_vi,#/uL (9),#/uL (9),có
+52419,Voided Specimen,nhom,Urine Hematology,Urine Hematology,có
+52419,Voided Specimen,label,Voided Specimen,Voided Specimen,có
+52419,Voided Specimen,ket_qua,1,1,có
+52419,Voided Specimen,benh_nhan,1,1,có
+52419,Voided Specimen,moc_do,1,1,có
+52419,Voided Specimen,gia_tri,0,0,có
+52419,Voided Specimen,do_lap,0,0,có
+52419,Voided Specimen,don_vi,Không có,Không có,có
+52425,XUCU,nhom,Urine Hematology,Urine Hematology,có
+52425,XUCU,label,XUCU,XUCU,có
+52425,XUCU,ket_qua,1,1,có
+52425,XUCU,benh_nhan,1,1,có
+52425,XUCU,moc_do,1,1,có
+52425,XUCU,gia_tri,1,1,có
+52425,XUCU,do_lap,0,0,có
+52425,XUCU,don_vi,Không có,Không có,có
+52427,UCU2,nhom,Urine Hematology,Urine Hematology,có
+52427,UCU2,label,UCU2,UCU2,có
+52427,UCU2,ket_qua,1,1,có
+52427,UCU2,benh_nhan,1,1,có
+52427,UCU2,moc_do,1,1,có
+52427,UCU2,gia_tri,0,0,có
+52427,UCU2,do_lap,0,0,có
+52427,UCU2,don_vi,Không có,Không có,có
+52769,Absolute Lymphocyte Count,nhom,Blood Hematology,Blood Hematology,có
+52769,Absolute Lymphocyte Count,label,Absolute Lymphocyte Count,Absolute Lymphocyte Count,có
+52769,Absolute Lymphocyte Count,ket_qua,16,16,có
+52769,Absolute Lymphocyte Count,benh_nhan,1,1,có
+52769,Absolute Lymphocyte Count,moc_do,16,16,có
+52769,Absolute Lymphocyte Count,gia_tri,16,16,có
+52769,Absolute Lymphocyte Count,do_lap,1,1,có
+52769,Absolute Lymphocyte Count,don_vi,#/uL (16),#/uL (16),có
+52955,CD10,nhom,Bone Marrow Hematology,Bone Marrow Hematology,có
+52955,CD10,label,CD10,CD10,có
+52955,CD10,ket_qua,1,1,có
+52955,CD10,benh_nhan,1,1,có
+52955,CD10,moc_do,1,1,có
+52955,CD10,gia_tri,1,1,có
+52955,CD10,do_lap,0,0,có
+52955,CD10,don_vi,Không có,Không có,có
+53153,HIV Screen,nhom,Blood Chemistry,Blood Chemistry,có
+53153,HIV Screen,label,HIV Screen,HIV Screen,có
+53153,HIV Screen,ket_qua,16,16,có
+53153,HIV Screen,benh_nhan,14,14,có
+53153,HIV Screen,moc_do,16,16,có
+53153,HIV Screen,gia_tri,0,0,có
+53153,HIV Screen,do_lap,1,1,có
+53153,HIV Screen,don_vi,N/A (1),N/A (1),có

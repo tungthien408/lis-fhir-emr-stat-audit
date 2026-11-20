@@ -36,7 +36,7 @@ import hashlib
 import pandas as pd
 from IPython.display import display
 from analysis_core.selection import (
-    allocate_quotas, basic_screen_reason, clean, dec, id_list_sha256, select_round_robin,
+    allocate_quotas, clean, dec, id_list_sha256, screen_labevents, select_round_robin,
 )
 
 ROOT = next((p for p in (Path.cwd(), *Path.cwd().parents) if (p / "pyproject.toml").is_file()), None)
@@ -83,14 +83,11 @@ print({"patients": len(patients), "labevents": len(labevents), "d_labitems": len
 md("""
 ## 2. Sàng lọc cơ bản (Bước 1)
 
-Dùng đúng bộ điều kiện của notebook 04. Mỗi dòng chỉ ghi lý do không đạt đầu tiên.
+Dùng đúng bộ điều kiện của notebook 04 (cùng hàm `screen_labevents` trong `analysis_core.selection`). Mỗi dòng chỉ ghi lý do không đạt đầu tiên.
 Kết quả phải là 82.289 dòng đạt.
 """)
 code('''
-patient_ids = set(patients["subject_id"].map(clean))
-lab_ids = set(d_labitems["itemid"].map(clean))
-labevents["basic_screen"] = [basic_screen_reason(r, patient_ids, lab_ids)
-                             for r in labevents.to_dict("records")]
+labevents["basic_screen"] = screen_labevents(labevents, patients, d_labitems)
 n_pass = int((labevents["basic_screen"] == "PASS").sum())
 print(f"Dòng đạt sàng lọc cơ bản: {n_pass}/{len(labevents)}")
 display(labevents["basic_screen"].value_counts().rename_axis("ket_qua").reset_index(name="so_dong"))
@@ -218,7 +215,7 @@ add("SHA-256 danh sách ID", SHA_EXPECTED, ids_sha)
 
 # Kiểm bổ sung: kiểm lại trên dữ liệu gốc, không dựa vào bảng pool
 raw_selected = labevents[labevents["labevent_id"].isin(set(selected["labevent_id"]))]
-n_screen = sum(basic_screen_reason(r, patient_ids, lab_ids) == "PASS" for r in raw_selected.to_dict("records"))
+n_screen = int((screen_labevents(raw_selected, patients, d_labitems) == "PASS").sum())
 add("Mọi dòng chọn đều đạt sàng lọc cơ bản", "1000/1000", f"{n_screen}/{len(selected)}")
 add("Mọi dòng chọn thuộc 5 itemid", "1000/1000", f"{int(selected['itemid'].isin(QUOTAS).sum())}/{len(selected)}")
 units = selected.groupby("itemid")["valueuom"].nunique()

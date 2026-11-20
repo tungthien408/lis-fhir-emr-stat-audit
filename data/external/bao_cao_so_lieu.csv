@@ -1,0 +1,346 @@
+muc_bao_cao,ten_so_lieu,gia_tri_trong_bao_cao
+Kết quả chính,số kết quả đã kiểm tra,107727
+Kết quả chính,số bệnh nhân,100
+1,patients: số bản ghi,100
+1,patients: số cột,6
+1,admissions: số bản ghi,275
+1,admissions: số cột,16
+1,d_labitems: số bản ghi,1622
+1,d_labitems: số cột,4
+1,labevents: số bản ghi,107727
+1,labevents: số cột,16
+1.1,SHA-256 patients.csv.gz,59dcc6cd8450ddf03ad32cc7d76e41caa4c9633541715987f590c74835cf6fae
+1.1,SHA-256 admissions.csv.gz,910b9f160ffdf1e08ea673585393f347c773ccc87d66875c627584a903ae8493
+1.1,SHA-256 d_labitems.csv.gz,72ea5f020469fd24543bd98ab3bd0a4f645a5a4b7802d9d52af20d736f9d76db
+1.1,SHA-256 labevents.csv.gz,d51a4cf1ea63245abe7d544b0d50a928e9ee2ec5eb9a5ce85500aed0bd6c6dfc
+2.1,patients: số dòng,100
+2.1,patients: số subject_id khác nhau,100
+2.1,patients.subject_id: thiếu,0
+2.1,patients.gender: thiếu,0
+2.1,patients.anchor_age: thiếu,0
+2.1,patients.anchor_year: thiếu,0
+2.1,patients.anchor_year_group: thiếu,0
+2.1,patients.dod: thiếu,69
+2.1,patients: số bệnh nhân có anchor_age > 89 nhưng khác 91,0
+2.2,d_labitems: số itemid khác nhau,1622
+2.2,d_labitems: số itemid có trong labevents,498
+2.2,d_labitems: số itemid không có kết quả trong labevents,1124
+2.2,d_labitems: số dòng có label rỗng hoặc chỉ khoảng trắng,4
+2.2,số kết quả xét nghiệm dùng itemid có label rỗng,0
+2.2,d_labitems.itemid: thiếu,0
+2.2,d_labitems.label: thiếu,
+2.2,d_labitems.fluid: thiếu,0
+2.2,d_labitems.category: thiếu,0
+2.3,labevents: số dòng,107727
+2.3,labevents: số subject_id khác nhau,100
+2.3,labevents.labevent_id: thiếu,0
+2.3,labevents.subject_id: thiếu,0
+2.3,labevents.hadm_id: thiếu,28420
+2.3,labevents.specimen_id: thiếu,0
+2.3,labevents.itemid: thiếu,0
+2.3,labevents.order_provider_id: thiếu,90897
+2.3,labevents.charttime: thiếu,0
+2.3,labevents.storetime: thiếu,992
+2.3,labevents.value: thiếu,9588
+2.3,labevents.valuenum: thiếu,12481
+2.3,labevents.valueuom: thiếu,16203
+2.3,labevents.ref_range_lower: thiếu,18728
+2.3,labevents.ref_range_upper: thiếu,18728
+2.3,labevents.flag: thiếu,67452
+2.3,labevents.priority: thiếu,9329
+2.3,labevents.comments: thiếu,89273
+2.4,admissions: số dòng,275
+2.4,admissions: số hadm_id khác nhau,275
+2.4,admissions.subject_id: thiếu,0
+2.4,admissions.hadm_id: thiếu,0
+2.4,admissions.admittime: thiếu,0
+2.4,admissions.dischtime: thiếu,0
+2.4,admissions.deathtime: thiếu,260
+2.4,admissions.admission_type: thiếu,0
+2.4,admissions.admit_provider_id: thiếu,0
+2.4,admissions.admission_location: thiếu,0
+2.4,admissions.discharge_location: thiếu,42
+2.4,admissions.insurance: thiếu,0
+2.4,admissions.language: thiếu,0
+2.4,admissions.marital_status: thiếu,12
+2.4,admissions.race: thiếu,0
+2.4,admissions.edregtime: thiếu,93
+2.4,admissions.edouttime: thiếu,93
+2.4,admissions.hospital_expire_flag: thiếu,0
+2.4,admissions.language: số dòng ghi dấu ?,20
+3,labevents → patients: nối được,107727
+3,labevents → patients: không nối được,0
+3,labevents → d_labitems: nối được,107727
+3,labevents → d_labitems: không nối được,0
+3,admissions → patients: nối được,275
+3,admissions → patients: không nối được,0
+3,labevents → admissions (khi có hadm_id): nối được,79307
+3,labevents → admissions (khi có hadm_id): mã không tìm thấy,0
+3,hadm_id có nhưng thuộc bệnh nhân khác,0
+3,hadm_id thiếu: số dòng,28420
+3,hadm_id thiếu: tỷ lệ (%),26.38
+3,nối trái labevents với admissions: số dòng,107727
+3.1,patients.subject_id: giá trị thiếu,0
+3.1,patients.subject_id: dòng lặp mã,0
+3.1,patients: dòng trùng toàn bộ,0
+3.1,admissions.hadm_id: giá trị thiếu,0
+3.1,admissions.hadm_id: dòng lặp mã,0
+3.1,admissions: dòng trùng toàn bộ,0
+3.1,d_labitems.itemid: giá trị thiếu,0
+3.1,d_labitems.itemid: dòng lặp mã,0
+3.1,d_labitems: dòng trùng toàn bộ,0
+3.1,labevents.labevent_id: giá trị thiếu,0
+3.1,labevents.labevent_id: dòng lặp mã,0
+3.1,labevents: dòng trùng toàn bộ,0
+3.1,"dòng vượt quá dòng đầu trong nhóm (subject_id, itemid, charttime)",470
+3.1,"dòng vượt quá dòng đầu trong nhóm (subject_id, itemid, charttime, value, valueuom)",194
+3.1,"ví dụ 171 và 184: cùng subject_id, itemid, charttime và value",có
+3.1,ví dụ 171 và 184: subject_id,10000032
+3.1,ví dụ 171 và 184: charttime,2180-06-03 12:00:00
+3.1,ví dụ 171 và 184: value,0.4
+3.1,số specimen_id khác nhau,11122
+3.1,số specimen_id thuộc nhiều subject_id,0
+3.1,"số cặp (subject_id, itemid) có nhiều kết quả",6793
+3.2,"ô valuenum và cận không phải số hữu hạn (vô hạn, NaN, sai dạng)",0
+3.2,dòng có cận dưới lớn hơn cận trên,0
+3.2,ô ngày giờ có mặt nhưng không phân tích được,0
+3.2,lượt nhập viện có dischtime sớm hơn admittime,0
+3.2,valueuom: số dòng chỉ chứa khoảng trắng,339
+3.2,valueuom: tổng số thiếu đơn vị,14381
+3.2,valueuom: số dòng ô rỗng,14042
+3.2,d_labitems.label: số nhãn có khoảng trắng ở đầu hoặc cuối,2
+3.2,d_labitems.label: số nhãn chỉ gồm khoảng trắng,1
+4.1,số itemid xuất hiện trong labevents,498
+4.1,số loại mẫu (fluid),9
+4.1,số nhóm xét nghiệm (category),3
+4.1,số itemid tra được đúng một dòng d_labitems,498
+4.1,nhóm Hematology: số kết quả,51273
+4.1,nhóm Chemistry: số kết quả,47125
+4.1,nhóm Blood Gas: số kết quả,9329
+4.1,loại mẫu Blood: số kết quả,100016
+4.1,loại mẫu Urine: số kết quả,7122
+4.1,loại mẫu Ascites: số kết quả,209
+4.1,loại mẫu Other Body Fluid: số kết quả,145
+4.1,loại mẫu Pleural: số kết quả,108
+4.1,loại mẫu Cerebrospinal Fluid: số kết quả,58
+4.1,loại mẫu Bone Marrow: số kết quả,50
+4.1,loại mẫu Joint Fluid: số kết quả,14
+4.1,loại mẫu Stool: số kết quả,5
+4.1,hạng 1: itemid,50971
+4.1,hạng 1: tên,Potassium
+4.1,hạng 1: mẫu và nhóm,Blood / Chemistry
+4.1,hạng 1: số kết quả,3022
+4.1,hạng 1: số bệnh nhân,100
+4.1,hạng 2: itemid,50983
+4.1,hạng 2: tên,Sodium
+4.1,hạng 2: mẫu và nhóm,Blood / Chemistry
+4.1,hạng 2: số kết quả,3007
+4.1,hạng 2: số bệnh nhân,100
+4.1,hạng 3: itemid,50912
+4.1,hạng 3: tên,Creatinine
+4.1,hạng 3: mẫu và nhóm,Blood / Chemistry
+4.1,hạng 3: số kết quả,3003
+4.1,hạng 3: số bệnh nhân,100
+4.1,hạng 4: itemid,50902
+4.1,hạng 4: tên,Chloride
+4.1,hạng 4: mẫu và nhóm,Blood / Chemistry
+4.1,hạng 4: số kết quả,2981
+4.1,hạng 4: số bệnh nhân,100
+4.1,hạng 5: itemid,51006
+4.1,hạng 5: tên,Urea Nitrogen
+4.1,hạng 5: mẫu và nhóm,Blood / Chemistry
+4.1,hạng 5: số kết quả,2974
+4.1,hạng 5: số bệnh nhân,100
+4.1,hạng 6: itemid,51221
+4.1,hạng 6: tên,Hematocrit
+4.1,hạng 6: mẫu và nhóm,Blood / Hematology
+4.1,hạng 6: số kết quả,2913
+4.1,hạng 6: số bệnh nhân,100
+4.1,hạng 7: itemid,50882
+4.1,hạng 7: tên,Bicarbonate
+4.1,hạng 7: mẫu và nhóm,Blood / Chemistry
+4.1,hạng 7: số kết quả,2863
+4.1,hạng 7: số bệnh nhân,100
+4.1,hạng 8: itemid,50868
+4.1,hạng 8: tên,Anion Gap
+4.1,hạng 8: mẫu và nhóm,Blood / Chemistry
+4.1,hạng 8: số kết quả,2860
+4.1,hạng 8: số bệnh nhân,100
+4.1,hạng 9: itemid,51265
+4.1,hạng 9: tên,Platelet Count
+4.1,hạng 9: mẫu và nhóm,Blood / Hematology
+4.1,hạng 9: số kết quả,2827
+4.1,hạng 9: số bệnh nhân,100
+4.1,hạng 10: itemid,51222
+4.1,hạng 10: tên,Hemoglobin
+4.1,hạng 10: mẫu và nhóm,Blood / Hematology
+4.1,hạng 10: số kết quả,2787
+4.1,hạng 10: số bệnh nhân,100
+4.1,hạng 11: itemid,51248
+4.1,hạng 11: tên,MCH
+4.1,hạng 11: mẫu và nhóm,Blood / Hematology
+4.1,hạng 11: số kết quả,2760
+4.1,hạng 11: số bệnh nhân,100
+4.1,hạng 12: itemid,51249
+4.1,hạng 12: tên,MCHC
+4.1,hạng 12: mẫu và nhóm,Blood / Hematology
+4.1,hạng 12: số kết quả,2760
+4.1,hạng 12: số bệnh nhân,100
+4.2,value: có dữ liệu,98139
+4.2,value: thiếu,9588
+4.2,value: tỷ lệ có (%),91.10
+4.2,valuenum: có dữ liệu,95246
+4.2,valuenum: thiếu,12481
+4.2,valuenum: tỷ lệ có (%),88.41
+4.2,valueuom: có dữ liệu,93346
+4.2,valueuom: thiếu,14381
+4.2,valueuom: tỷ lệ có (%),86.65
+4.2,ref_range_lower: có dữ liệu,88999
+4.2,ref_range_lower: thiếu,18728
+4.2,ref_range_lower: tỷ lệ có (%),82.62
+4.2,ref_range_upper: có dữ liệu,88999
+4.2,ref_range_upper: thiếu,18728
+4.2,ref_range_upper: tỷ lệ có (%),82.62
+4.2,charttime: có dữ liệu,107727
+4.2,charttime: thiếu,0
+4.2,charttime: tỷ lệ có (%),100.00
+4.2,storetime: có dữ liệu,106735
+4.2,storetime: thiếu,992
+4.2,storetime: tỷ lệ có (%),99.08
+4.2,flag: có dữ liệu,40275
+4.2,flag: thiếu,67452
+4.2,flag: tỷ lệ có (%),37.39
+4.2,comments: có dữ liệu,18454
+4.2,comments: thiếu,89273
+4.2,comments: tỷ lệ có (%),17.13
+4.2,khoảng tham chiếu: đủ hai cận,88999
+4.2,khoảng tham chiếu: thiếu cả hai cận,18728
+4.2,khoảng tham chiếu: chỉ một cận,0
+4.2,khoảng tham chiếu: cận dưới lớn hơn cận trên,0
+4.3,value số thuần: số dòng,88566
+4.3,value số thuần: tỷ lệ (%),82.21
+4.3,value có dấu so sánh: số dòng,12
+4.3,value có dấu so sánh: tỷ lệ (%),0.01
+4.3,"value có chữ hoặc ký hiệu, không có dấu so sánh: số dòng",9561
+4.3,"value có chữ hoặc ký hiệu, không có dấu so sánh: tỷ lệ (%)",8.88
+4.3,value rỗng: số dòng,9588
+4.3,value rỗng: tỷ lệ (%),8.90
+4.3,tổng bốn dạng value,107727
+4.3,value số thuần nhưng valuenum không bằng về số học,0
+4.3,value không phải số thuần nhưng valuenum có số,6680
+4.3,value = ___: số dòng,6823
+4.3,labevent 172082: value,___
+4.3,labevent 172082: valuenum,193
+4.3,labevent 172082: tên xét nghiệm,Glucose
+4.3,labevent 172082: comments không rỗng,có
+4.3,itemid 50931 (Glucose máu): số dòng,2711
+4.3,itemid 50931: số dòng có value = ___,2711
+4.3,itemid 50931: số dòng có comments,2711
+4.3,value có dấu so sánh: các chuỗi khác nhau,<1 | >300 | >50 | >=1.035
+4.3,value có dấu so sánh: số chuỗi khác nhau,4
+4.3,labevent 150770: value,>300
+4.3,labevent 150770: valueuom,mg/dL
+4.3,valuenum bằng 0: số dòng,2930
+4.3,valuenum âm: số dòng,545
+4.4,số itemid có nhiều hơn một chuỗi đơn vị không rỗng,6
+4.4,51249 MCHC: đơn vị và số dòng,g/dL: 1555; %: 1205
+4.4,51464 Bilirubin: đơn vị và số dòng,mg/dL: 283; N/A: 56
+4.4,"51085 HCG, Urine, Qualitative: đơn vị và số dòng",+/-: 12; N/A: 6
+4.4,51099 Protein/Creatinine Ratio: đơn vị và số dòng,mg/mg: 11; Ratio: 4
+4.4,50915 D-Dimer: đơn vị và số dòng,ng/mL: 6; ng/mL FEU: 3
+4.4,51654 HIV 1 Viral Load: đơn vị và số dòng,log10 copies/mL: 3; log10 cop/mL: 2
+4.4,valueuom = N/A: số dòng,2161
+4.4,"dòng đạt sàng lọc cơ bản có đơn vị N/A, ? hoặc ___",0
+4.4,comments có nội dung: số dòng,18454
+4.4,comments đúng ___: số dòng,3188
+4.4,comments có nội dung nhưng value rỗng: số dòng,9586
+4.4,value số thuần đồng thời có comments,0
+4.5,charttime: có dữ liệu,107727
+4.5,charttime: nhỏ nhất,2110-04-08 11:11:00
+4.5,charttime: lớn nhất,2202-08-26 14:00:00
+4.5,storetime: có dữ liệu,106735
+4.5,storetime: nhỏ nhất,2110-04-08 17:49:00
+4.5,storetime: lớn nhất,2202-08-26 14:13:00
+4.5,storetime: thiếu,992
+4.5,có đủ hai mốc: số dòng,106735
+4.5,hai mốc bằng nhau: số dòng,237
+4.5,storetime sau charttime: số dòng,106498
+4.5,storetime trước charttime: số dòng,0
+4.5,độ trễ: trung vị (phút),65
+4.5,"độ trễ: phân vị 95 (phút, nội suy tuyến tính)",296.3
+4.5,độ trễ: lớn nhất (phút),39962
+4.6,số thuần đủ trường cơ bản (qua sàng lọc),82289
+4.6,trong nhóm trên có itemid nhiều đơn vị,2763
+4.6,ứng viên có itemid chỉ một đơn vị,79526
+4.6,không đạt sàng lọc số cơ bản,25438
+4.6,loại vì thiếu value,9588
+4.6,loại vì value không phải số thuần (không tính dấu so sánh),9561
+4.6,loại vì value dạng số nhưng thiếu đơn vị,6277
+4.6,loại vì giá trị có dấu so sánh,12
+4.6,tổng các lý do bị loại,25438
+6.1,50971 Potassium: số kết quả trong nguồn,3022
+6.1,50971 Potassium: số bệnh nhân trong nguồn,100
+6.1,50971 Potassium: số ứng viên qua sàng lọc,2766
+6.1,50971 Potassium: mẫu,Blood
+6.1,50971 Potassium: nhóm,Chemistry
+6.1,50971 Potassium: số đơn vị duy nhất của ứng viên,1
+6.1,50971 Potassium: đơn vị,mEq/L
+6.1,50971 Potassium: số kết quả được chọn,8
+6.1,50971 Potassium: số bệnh nhân được chọn,3
+6.1,50971 Potassium: số giá trị valuenum (chuỗi) khác nhau trong mẫu,7
+6.1,50912 Creatinine: số kết quả trong nguồn,3003
+6.1,50912 Creatinine: số bệnh nhân trong nguồn,100
+6.1,50912 Creatinine: số ứng viên qua sàng lọc,2963
+6.1,50912 Creatinine: mẫu,Blood
+6.1,50912 Creatinine: nhóm,Chemistry
+6.1,50912 Creatinine: số đơn vị duy nhất của ứng viên,1
+6.1,50912 Creatinine: đơn vị,mg/dL
+6.1,50912 Creatinine: số kết quả được chọn,8
+6.1,50912 Creatinine: số bệnh nhân được chọn,3
+6.1,50912 Creatinine: số giá trị valuenum (chuỗi) khác nhau trong mẫu,4
+6.1,51222 Hemoglobin: số kết quả trong nguồn,2787
+6.1,51222 Hemoglobin: số bệnh nhân trong nguồn,100
+6.1,51222 Hemoglobin: số ứng viên qua sàng lọc,2783
+6.1,51222 Hemoglobin: mẫu,Blood
+6.1,51222 Hemoglobin: nhóm,Hematology
+6.1,51222 Hemoglobin: số đơn vị duy nhất của ứng viên,1
+6.1,51222 Hemoglobin: đơn vị,g/dL
+6.1,51222 Hemoglobin: số kết quả được chọn,8
+6.1,51222 Hemoglobin: số bệnh nhân được chọn,3
+6.1,51222 Hemoglobin: số giá trị valuenum (chuỗi) khác nhau trong mẫu,8
+6.1,50802 Base Excess: số kết quả trong nguồn,889
+6.1,50802 Base Excess: số bệnh nhân trong nguồn,77
+6.1,50802 Base Excess: số ứng viên qua sàng lọc,889
+6.1,50802 Base Excess: mẫu,Blood
+6.1,50802 Base Excess: nhóm,Blood Gas
+6.1,50802 Base Excess: số đơn vị duy nhất của ứng viên,1
+6.1,50802 Base Excess: đơn vị,mEq/L
+6.1,50802 Base Excess: số kết quả được chọn,8
+6.1,50802 Base Excess: số bệnh nhân được chọn,3
+6.1,50802 Base Excess: số giá trị valuenum (chuỗi) khác nhau trong mẫu,6
+6.1,51492 Protein: số kết quả trong nguồn,339
+6.1,51492 Protein: số bệnh nhân trong nguồn,86
+6.1,51492 Protein: số ứng viên qua sàng lọc,173
+6.1,51492 Protein: mẫu,Urine
+6.1,51492 Protein: nhóm,Hematology
+6.1,51492 Protein: số đơn vị duy nhất của ứng viên,1
+6.1,51492 Protein: đơn vị,mg/dL
+6.1,51492 Protein: số kết quả được chọn,8
+6.1,51492 Protein: số bệnh nhân được chọn,3
+6.1,51492 Protein: số giá trị valuenum (chuỗi) khác nhau trong mẫu,2
+6.1,toàn tập: số labevent_id khác nhau,40
+6.1,toàn tập: số bệnh nhân,6
+6.1,toàn tập: kết quả đủ hai cận,25
+6.1,toàn tập: kết quả thiếu cả hai cận,15
+6.1,toàn tập: kết quả chỉ một cận,0
+6.1,toàn tập: kết quả bằng 0,1
+6.1,toàn tập: kết quả âm,4
+6.1,toàn tập: số loại xét nghiệm,5
+6.2,số ứng viên sau sàng lọc,82289
+6.2,số dòng vào mẫu,40
+6.2,số ứng viên không được chọn,82249
+6.3,số dòng trong danh sách 6.3,40
+6.3,số dòng khớp CSV gốc ở mọi trường (kể cả số thứ tự bản ghi CSV),40
+6.4,số subject_id của bảng chuẩn bệnh nhân có trong patients,6
+6.5,labevent 150770: value có dấu so sánh,có
+6.5,"labevent 172081: kết quả nằm trong comments (value rỗng, comments không rỗng)",có
